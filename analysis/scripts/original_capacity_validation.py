@@ -19,8 +19,8 @@ from threadpoolctl import threadpool_limits
 from joblib import Parallel,delayed
 ROOT=Path(__file__).resolve().parents[1]
 OUT=ROOT/'evidence/original_capacity_validation_v2';OUT.mkdir(exist_ok=True)
-RAW=ROOT.parent/'先前的论文/Raw_data.xlsx'
-if not RAW.exists():RAW=next((ROOT.parent/'先前的论文').glob('*.xlsx'))
+RAW=ROOT.parent/'dataset/Raw_data.xlsx'
+if not RAW.exists():RAW=next((ROOT.parent/'dataset').glob('*.xlsx'))
 D=pd.read_excel(RAW);D.columns=D.columns.str.strip()
 LINE=pd.read_csv(ROOT/'data/raw_to_condition.csv').sort_values('raw_row_excel')
 assert len(D)==len(LINE)==3757

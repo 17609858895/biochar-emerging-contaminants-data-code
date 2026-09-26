@@ -12,7 +12,7 @@ D=pd.read_csv(ROOT/'data/condition_data.csv',float_precision='round_trip')
 B=D[D.Adsorbent!='PAC']
 PROPS=['Pyrolysis temperature','Pyrolysis time','C','H','O','N','(O+N)/C','Ash','H/C','O/C','N/C','Surface area','Pore volume','Average pore size']
 SETS={'Full 14':PROPS,'Non-ratio 10':['Pyrolysis temperature','Pyrolysis time','C','H','O','N','Ash','Surface area','Pore volume','Average pore size'],'Core 6':['Pyrolysis temperature','Pyrolysis time','O/C','Surface area','Pore volume','Average pore size'],'Core 5':['Pyrolysis temperature','O/C','Surface area','Pore volume','Average pore size'],'Pore 3':['Surface area','Pore volume','Average pore size']}
-raw=pd.read_excel(ROOT.parent/'先前的论文/Raw_data.xlsx');raw.columns=raw.columns.str.strip()
+raw=pd.read_excel(ROOT.parent/'dataset/Raw_data.xlsx');raw.columns=raw.columns.str.strip()
 for c in raw.select_dtypes('object'):raw[c]=raw[c].str.strip()
 dup=raw.duplicated();mapping=pd.read_csv(ROOT/'data/raw_to_condition.csv')
 raw['r']=raw['Final concentration']/raw['Initial concentration'];raw['condition_id']=mapping.condition_id;raw['source_candidate']=mapping.source_candidate;raw['complete_duplicate']=dup;raw['raw_row_excel']=mapping.raw_row_excel

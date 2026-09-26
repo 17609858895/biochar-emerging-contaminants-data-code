@@ -1,7 +1,7 @@
 """Independently verify aggregation against the preserved original workbook."""
 from pathlib import Path
 import pandas as pd,numpy as np,json,hashlib
-ROOT=Path(__file__).resolve().parents[1];RAW=ROOT.parent/'先前的论文/Raw_data.xlsx';OUT=ROOT/'evidence/full24_v5'
+ROOT=Path(__file__).resolve().parents[1];RAW=ROOT.parent/'dataset/Raw_data.xlsx';OUT=ROOT/'evidence/full24_v5'
 r=pd.read_excel(RAW);r.columns=r.columns.str.strip()
 for c in r.select_dtypes(include='object'):r[c]=r[c].str.strip()
 distinct=len(r.drop_duplicates());original_columns=list(r.columns)

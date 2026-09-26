@@ -2,7 +2,7 @@
 
 Code and computational evidence for **Estimating removal advantages among characterized biochars: A 24-method benchmark for emerging contaminant adsorption**.
 
-This repository packages the final analysis from the 2026-09-24 local research archive. The 28 Python source files are preserved byte-for-byte. It includes the 24-method benchmark, inner-only TOPSIS selection, grouped validation, paired LightGBM SHAP, conditional operational ALE, plotting scripts, fixed splits, and saved numerical outputs. Manuscript drafts, reviewer correspondence, and third-party article PDFs are excluded.
+This repository packages the final analysis from the 2026-09-24 local research archive. The 28 Python source files retain the archived analysis; three scripts use the renamed `dataset/` input directory. It includes the 24-method benchmark, inner-only TOPSIS selection, grouped validation, paired LightGBM SHAP, conditional operational ALE, plotting scripts, fixed splits, and saved numerical outputs. Manuscript drafts, reviewer correspondence, and third-party article PDFs are excluded.
 
 ## Install
 
@@ -22,7 +22,7 @@ The numerical dependencies are pinned to the archived environment. Native LightG
 - `analysis/scripts/`: final numerical and plotting code, including the bundled plotting helpers in `vendor/`.
 - `analysis/data/`: 1,348 derived conditions before analysis exclusions, and the original-row mapping.
 - `analysis/evidence/`: saved predictions, fit caches, split definitions, protocols, diagnostic checks, and final summaries. Earlier caches remain when used by final scripts or for provenance.
-- `先前的论文/Raw_data.xlsx` and `Raw_data.csv`: unchanged copies of the supplied experimental data. Keep this directory name because the original scripts resolve it directly.
+- `dataset/Raw_data.xlsx` and `Raw_data.csv`: unchanged copies of the supplied experimental data. The input paths in the analysis scripts resolve this directory directly.
 - `docs/software_versions.json`: original environment record.
 - `SHA256SUMS.json`: SHA-256 checksums of all committed release files except the checksum file itself.
 
