@@ -1,0 +1,11 @@
+{
+  "seed": 131,
+  "track": "exact",
+  "fold": 1,
+  "selected": {
+    "Point": "RandomForest_2",
+    "Contrast": "XGBoost_2",
+    "TOPSIS": "HistGradientBoosting_2"
+  },
+  "methods": 24
+}

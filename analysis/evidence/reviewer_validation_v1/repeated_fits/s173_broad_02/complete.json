@@ -1,0 +1,11 @@
+{
+  "seed": 173,
+  "track": "broad",
+  "fold": 2,
+  "selected": {
+    "Point": "XGBoost_2",
+    "Contrast": "SVR_1",
+    "TOPSIS": "SVR_1"
+  },
+  "methods": 24
+}

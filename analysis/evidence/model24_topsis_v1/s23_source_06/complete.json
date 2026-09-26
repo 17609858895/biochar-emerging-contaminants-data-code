@@ -1,0 +1,11 @@
+{
+  "seed": 23,
+  "track": "source",
+  "fold": 6,
+  "selected": {
+    "Point": "CatBoost_2",
+    "Contrast": "KernelRidge_1",
+    "TOPSIS": "KernelRidge_1"
+  },
+  "methods": 24
+}

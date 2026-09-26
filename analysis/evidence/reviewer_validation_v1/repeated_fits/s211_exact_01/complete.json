@@ -1,0 +1,11 @@
+{
+  "seed": 211,
+  "track": "exact",
+  "fold": 1,
+  "selected": {
+    "Point": "RandomForest_2",
+    "Contrast": "LightGBM_2",
+    "TOPSIS": "LightGBM_2"
+  },
+  "methods": 24
+}

@@ -1,0 +1,79 @@
+seed,variant,feature,group,point_mean_abs_pp,contrast_mean_abs_pp
+11,Descriptors,Pyrolysis temperature,Material profile,1.80528050753449,1.209857750218549
+11,Descriptors,O/C,Material profile,6.914483957865497,6.964530664201265
+11,Descriptors,Surface area,Material profile,15.891807817014001,29.071315727698863
+11,Descriptors,Pore volume,Material profile,8.746940828555932,15.148854938899717
+11,Descriptors,Average pore size,Material profile,2.1299196567261784,3.5414861584073947
+11,Descriptors,log_time,Operating conditions,3.8877050469090184,1.9381284656573647
+11,Descriptors,Solution pH,Operating conditions,0.5059266894135298,0.2721803007600205
+11,Descriptors,RPM,Operating conditions,0.008212046958982306,0.004018901437400535
+11,Descriptors,Adsorption temperature,Operating conditions,0.3794780825109669,0.26639527434499427
+11,Descriptors,Pollutant,Chemical context,2.690029493556986,3.035345439086644
+11,Descriptors,Wastewater type,Chemical context,0.42034915531776657,0.3919181837503989
+11,Descriptors,Adsorption type,Chemical context,0.9911168065914033,1.0541422779599574
+23,Descriptors,Pyrolysis temperature,Material profile,1.115473162474153,1.0505878946294325
+23,Descriptors,O/C,Material profile,5.718699974426509,6.494224976832775
+23,Descriptors,Surface area,Material profile,14.338767259014071,24.395616175725824
+23,Descriptors,Pore volume,Material profile,11.661542424676792,20.81338820767991
+23,Descriptors,Average pore size,Material profile,2.710814725810821,3.832061768448941
+23,Descriptors,log_time,Operating conditions,3.8713858036023536,2.0439537128291674
+23,Descriptors,Solution pH,Operating conditions,0.45715056849939945,0.23422021939304924
+23,Descriptors,RPM,Operating conditions,0.0747248680507093,0.014610776242277641
+23,Descriptors,Adsorption temperature,Operating conditions,0.34540260680527834,0.2769695536733712
+23,Descriptors,Pollutant,Chemical context,2.5007842460150345,2.1304075225977175
+23,Descriptors,Wastewater type,Chemical context,0.41873591029407253,0.373589517091313
+23,Descriptors,Adsorption type,Chemical context,0.8984389210720453,1.0603071547460474
+47,Descriptors,Pyrolysis temperature,Material profile,1.5040463660051715,1.0060321475764822
+47,Descriptors,O/C,Material profile,6.358097879180952,4.872683281036982
+47,Descriptors,Surface area,Material profile,13.922206250323951,27.583778616995996
+47,Descriptors,Pore volume,Material profile,11.961194612548086,17.55761040175844
+47,Descriptors,Average pore size,Material profile,2.590414335712518,3.6739240762450436
+47,Descriptors,log_time,Operating conditions,3.98405942014524,2.1069826418016997
+47,Descriptors,Solution pH,Operating conditions,0.48629882098036975,0.2465823035568997
+47,Descriptors,RPM,Operating conditions,0.040204239112072444,0.015165086807584853
+47,Descriptors,Adsorption temperature,Operating conditions,0.3588871589570771,0.22114357225817605
+47,Descriptors,Pollutant,Chemical context,2.902731493718207,2.1957374982170377
+47,Descriptors,Wastewater type,Chemical context,0.46805065199924867,0.3801240452125543
+47,Descriptors,Adsorption type,Chemical context,0.9337734179230315,1.024782368936076
+11,Source_time_concentration_dose,Pyrolysis temperature,Material profile,1.8041743390752587,1.1657037811239253
+11,Source_time_concentration_dose,O/C,Material profile,7.890943081849734,7.776077815428347
+11,Source_time_concentration_dose,Surface area,Material profile,16.55530599812244,30.833607513915013
+11,Source_time_concentration_dose,Pore volume,Material profile,8.730443248332602,15.26426740104782
+11,Source_time_concentration_dose,Average pore size,Material profile,1.401478777502439,1.8522136200266963
+11,Source_time_concentration_dose,log_time,Operating conditions,1.9704160770812715,0.9415026941083381
+11,Source_time_concentration_dose,Solution pH,Operating conditions,0.43506602068697864,0.33174714997199833
+11,Source_time_concentration_dose,RPM,Operating conditions,0.1381879125110417,0.07506011614356943
+11,Source_time_concentration_dose,Adsorption temperature,Operating conditions,0.3942570739263981,0.18820976708907025
+11,Source_time_concentration_dose,Pollutant,Chemical context,3.2978096245365784,3.45482364414277
+11,Source_time_concentration_dose,Wastewater type,Chemical context,0.510640371794903,0.4849904175232533
+11,Source_time_concentration_dose,Adsorption type,Chemical context,0.9887588100710296,0.9783240699344851
+11,Source_time_concentration_dose,source_scaled_Initial concentration,Loading variables,4.313142638432394,3.7370844734685096
+11,Source_time_concentration_dose,source_scaled_Adsorbent dosage,Loading variables,0.0,0.0
+23,Source_time_concentration_dose,Pyrolysis temperature,Material profile,1.309290775584666,0.9551608309717329
+23,Source_time_concentration_dose,O/C,Material profile,6.371534848238293,6.7805700225378045
+23,Source_time_concentration_dose,Surface area,Material profile,14.615000088761173,25.61717463578347
+23,Source_time_concentration_dose,Pore volume,Material profile,11.608049557273898,21.288022068777547
+23,Source_time_concentration_dose,Average pore size,Material profile,1.6235128859800503,2.8126301180528177
+23,Source_time_concentration_dose,log_time,Operating conditions,2.014559902923082,0.839492098524952
+23,Source_time_concentration_dose,Solution pH,Operating conditions,0.41601565335729745,0.3037384418147128
+23,Source_time_concentration_dose,RPM,Operating conditions,0.08565894062549759,0.03572500960260248
+23,Source_time_concentration_dose,Adsorption temperature,Operating conditions,0.41409032627370884,0.13854087076443455
+23,Source_time_concentration_dose,Pollutant,Chemical context,2.8603526283576164,2.402491255978958
+23,Source_time_concentration_dose,Wastewater type,Chemical context,0.6870572075194249,0.4612582433517886
+23,Source_time_concentration_dose,Adsorption type,Chemical context,0.9207827351307633,0.9003513920133573
+23,Source_time_concentration_dose,source_scaled_Initial concentration,Loading variables,4.795921773935831,3.5723463289163355
+23,Source_time_concentration_dose,source_scaled_Adsorbent dosage,Loading variables,0.0,0.0
+47,Source_time_concentration_dose,Pyrolysis temperature,Material profile,1.48431054414731,1.4058882919326254
+47,Source_time_concentration_dose,O/C,Material profile,6.669820510806562,4.949583780444308
+47,Source_time_concentration_dose,Surface area,Material profile,14.391333893727191,28.140220126263397
+47,Source_time_concentration_dose,Pore volume,Material profile,11.369206513570244,17.63417153188379
+47,Source_time_concentration_dose,Average pore size,Material profile,2.086004148480274,2.7453402299158003
+47,Source_time_concentration_dose,log_time,Operating conditions,1.9663255291691277,0.8275610186904697
+47,Source_time_concentration_dose,Solution pH,Operating conditions,0.4135403063311297,0.3094945262156844
+47,Source_time_concentration_dose,RPM,Operating conditions,0.17381908607744836,0.12227242728496329
+47,Source_time_concentration_dose,Adsorption temperature,Operating conditions,0.41751728827225004,0.16312860590231826
+47,Source_time_concentration_dose,Pollutant,Chemical context,3.0966728025774293,2.3501790350800538
+47,Source_time_concentration_dose,Wastewater type,Chemical context,0.5601180273523936,0.4324006231504826
+47,Source_time_concentration_dose,Adsorption type,Chemical context,0.9358077055356395,0.9173483352582193
+47,Source_time_concentration_dose,source_scaled_Initial concentration,Loading variables,4.4232414069843315,3.475396518751424
+47,Source_time_concentration_dose,source_scaled_Adsorbent dosage,Loading variables,0.0,0.0

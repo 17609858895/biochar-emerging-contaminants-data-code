@@ -1,0 +1,13 @@
+variant,metric,seed_a,seed_b,spearman
+Descriptors,point_mean_abs_pp,11,23,0.9930069930069931
+Descriptors,point_mean_abs_pp,11,47,1.0
+Descriptors,point_mean_abs_pp,23,47,0.9930069930069931
+Descriptors,contrast_mean_abs_pp,11,23,0.9860139860139862
+Descriptors,contrast_mean_abs_pp,11,47,0.9930069930069931
+Descriptors,contrast_mean_abs_pp,23,47,0.9930069930069931
+Source_time_concentration_dose,point_mean_abs_pp,11,23,0.9956043956043955
+Source_time_concentration_dose,point_mean_abs_pp,11,47,0.9824175824175824
+Source_time_concentration_dose,point_mean_abs_pp,23,47,0.9912087912087912
+Source_time_concentration_dose,contrast_mean_abs_pp,11,23,0.9956043956043955
+Source_time_concentration_dose,contrast_mean_abs_pp,11,47,0.9956043956043955
+Source_time_concentration_dose,contrast_mean_abs_pp,23,47,1.0

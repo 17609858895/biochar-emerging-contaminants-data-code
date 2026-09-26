@@ -1,0 +1,20 @@
+{
+  "new_observations": 0,
+  "new_estimator_fits": 0,
+  "pollutants_with_temperature_comparisons": 11,
+  "temperature_contrasts": 99,
+  "water_contrasts": 239,
+  "water_material_pollutant_groups": 9,
+  "four_condition_comparisons": 119,
+  "four_condition_sources": 2,
+  "four_condition_material_pairs": 4,
+  "four_condition_context_blocks": 46,
+  "interaction_groups": 6,
+  "interaction_definition": "(removal_a_second - removal_b_second) - (removal_a_first - removal_b_first)",
+  "interaction_identity_verified": true,
+  "interaction_aggregation": "mean across recorded times within matched context blocks, then equal block means within pair-pollutant",
+  "interpretation": "Descriptive observed interaction contrast; no causal identification or new experiment",
+  "temperature_weights": "mean within source-material-pollutant, then equal materials and sources within pollutant",
+  "water_weights": "mean within each source-material-pollutant group",
+  "intervals": "No confidence intervals; temperature marks retain all recorded differences, and interaction lines span matched context-block means"
+}

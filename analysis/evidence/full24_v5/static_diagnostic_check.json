@@ -1,0 +1,10 @@
+{
+  "audited_original_rows": 3757,
+  "count_table_verified": true,
+  "flags_verified": true,
+  "ratio_records_verified": 45,
+  "descriptor_rank_rows_verified": 90,
+  "all_eligible_pairs_rebuilt": true,
+  "matched_queries": 559,
+  "new_fits": 0
+}

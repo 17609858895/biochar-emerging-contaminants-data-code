@@ -1,0 +1,11 @@
+{
+  "seed": 47,
+  "track": "source",
+  "fold": 0,
+  "selected": {
+    "Point": "PLS_2",
+    "Contrast": "PCR_2",
+    "TOPSIS": "PLS_2"
+  },
+  "methods": 24
+}

@@ -1,0 +1,11 @@
+{
+  "seed": 47,
+  "track": "broad",
+  "fold": 1,
+  "selected": {
+    "Point": "HistGradientBoosting_1",
+    "Contrast": "PLS_2",
+    "TOPSIS": "KernelRidge_1"
+  },
+  "methods": 24
+}

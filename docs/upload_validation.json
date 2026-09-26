@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-27",
+  "source_archive": "Biochar_完整数据与代码.zip",
+  "source_archive_sha256": "2ecf32869edcca10d652b808a4e1beebd356f8754dd2e9082d0ff5b1ab4de5bd",
+  "original_python_files_identical": 28,
+  "syntax_check": "passed",
+  "lineage": {
+    "original_rows": 3757,
+    "original_fields": 29,
+    "full_field_distinct_before_aliases": 3513,
+    "condition_count": 1348,
+    "ratio_lineage_verified": true,
+    "all_grouping_fields_constant": true,
+    "mean_and_count_verified": true,
+    "max_mean_error": 2.220446049250313e-16,
+    "raw_sha256": "bbcb3e6b89b5186770a25cc89479a819680200895412f52694bc1de13f19a115",
+    "condition_sha256": "19bff480964a2ef051ce59fb330977df5c725e2eafe61dd8151ad109d2cfd887",
+    "grouping_columns": [
+      "Adsorbent",
+      "Pyrolysis temperature",
+      "Pyrolysis time",
+      "C",
+      "H",
+      "O",
+      "N",
+      "(O+N)/C",
+      "Ash",
+      "H/C",
+      "O/C",
+      "N/C",
+      "Surface area",
+      "Pore volume",
+      "Average pore size",
+      "Pollutant",
+      "Adsorption time",
+      "Initial concentration",
+      "Solution pH",
+      "RPM",
+      "Volume",
+      "Adsorbent dosage",
+      "Adsorption temperature",
+      "Ion concentration",
+      "Humic acid",
+      "Wastewater type",
+      "Adsorption type"
+    ],
+    "aliases": {
+      "IBF": "IBU",
+      "NXP": "NPX"
+    }
+  },
+  "static_diagnostics": {
+    "audited_original_rows": 3757,
+    "count_table_verified": true,
+    "flags_verified": true,
+    "ratio_records_verified": 45,
+    "descriptor_rank_rows_verified": 90,
+    "all_eligible_pairs_rebuilt": true,
+    "matched_queries": 559,
+    "new_fits": 0
+  },
+  "topsis": {
+    "scalar_winners_checked": 1275,
+    "full_prediction_metric_reassemblies": 225,
+    "max_metric_difference": 1.1102230246251565e-16,
+    "grid_total_area": 0.24500000000000005,
+    "all_input_hashes_unchanged": true
+  },
+  "full_model_retraining_run_for_upload": false,
+  "all_figures_regenerated_for_upload": false
+}

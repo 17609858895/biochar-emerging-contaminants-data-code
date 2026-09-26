@@ -1,0 +1,897 @@
+[
+  {
+    "path": "C:\\Users\\17609\\AppData\\Local\\Temp\\biochar_ALE_20260916\\backup",
+    "files": [
+      {
+        "relative": "Biochar_完整数据与代码.zip",
+        "bytes": 98367267,
+        "sha256": "f5b142a06a1c294fe89088e52fe0ebeff75951cd098ea0b97fda400c0daae13b"
+      },
+      {
+        "relative": "Highlights.txt",
+        "bytes": 374,
+        "sha256": "c9b00be082a9c33839f680423fa7290234936903a97d31be3bf777143175eedb"
+      },
+      {
+        "relative": "Manuscript_CEJ_Zotero.docx",
+        "bytes": 6660175,
+        "sha256": "8bfda494cf4c8909e9913fb9c23873f5ae7d46215be01c663cc29aece489f525"
+      },
+      {
+        "relative": "Manuscript_CEJ_Zotero.md",
+        "bytes": 63312,
+        "sha256": "f77bb29c831fb2a4a7d389b737d1bb10161a40c78d9084a054e7b839af5060bb"
+      },
+      {
+        "relative": "Manuscript_CEJ_Zotero.pdf",
+        "bytes": 1365521,
+        "sha256": "ce142dc6abfd7c7c4c925889dd0ebb37b617322fe245a09f6503c97315b9fe25"
+      },
+      {
+        "relative": "README.md",
+        "bytes": 2632,
+        "sha256": "a85fb2b4bd9b06089544c55016527ba62fd4ad04c4023495e124d3cb9090a1f4"
+      },
+      {
+        "relative": "Supporting_Information_Zotero.docx",
+        "bytes": 11425898,
+        "sha256": "157a2f0b75c58ac2a25e769e6a9c0bbcd338255e6bb0597a4c01e60c749c2b1d"
+      },
+      {
+        "relative": "Supporting_Information_Zotero.md",
+        "bytes": 42019,
+        "sha256": "8439efb716ef901007b142967143ce2ead5f1eb8557d4fa34be3bf5da3001eca"
+      },
+      {
+        "relative": "Supporting_Information_Zotero.pdf",
+        "bytes": 1776028,
+        "sha256": "ec5f87454ee67e2fd0b2009146ba2017ca6dd87e52e21c1198dbae74eb13d81f"
+      },
+      {
+        "relative": "论文框架.md",
+        "bytes": 7375,
+        "sha256": "71ffd33de997611d39add6cf7064be7913fab30c59c01817dc501426b122708b"
+      }
+    ]
+  },
+  {
+    "path": "C:\\Users\\17609\\AppData\\Local\\Temp\\biochar_CEJ_polish_20260916\\backup",
+    "files": [
+      {
+        "relative": "Biochar_完整数据与代码.zip",
+        "bytes": 108287216,
+        "sha256": "d58cfa56ad2c8dea15f300663e8fbf5531c77694c0ab548a43cc67d6b4a87957"
+      },
+      {
+        "relative": "Highlights.txt",
+        "bytes": 384,
+        "sha256": "66638e720b3d00cb912ed68596af7ad54b3f0ffa561e9e70807e97b5b9e06e26"
+      },
+      {
+        "relative": "Manuscript_CEJ_Zotero.docx",
+        "bytes": 9247144,
+        "sha256": "d3b0f125170b82dae163a673321d09248745a76c4624131f868d1384c2474770"
+      },
+      {
+        "relative": "Manuscript_CEJ_Zotero.md",
+        "bytes": 78131,
+        "sha256": "4758473d5d084d7e7af68d13b1c9af688c4006fd0bd25d36a7de299b7fd52b23"
+      },
+      {
+        "relative": "Manuscript_CEJ_Zotero.pdf",
+        "bytes": 1741797,
+        "sha256": "716b3a119399a325d9ed6d182aeeb9e995e2e2dd3c01bfc445f450c3c4c03218"
+      },
+      {
+        "relative": "README.md",
+        "bytes": 2631,
+        "sha256": "54e1a96dcb270b522539a7622a7b37bd1de6a2606a4202f893a84c4ba4fce069"
+      },
+      {
+        "relative": "Supporting_Information_Zotero.docx",
+        "bytes": 11429111,
+        "sha256": "7e08bfabed6849a217ea938a620262404d95e488b046fd8fcca9654684732c62"
+      },
+      {
+        "relative": "Supporting_Information_Zotero.md",
+        "bytes": 50328,
+        "sha256": "533f5b0ceda7cf0725310a668541c72cd7519190b85ccc16f3fafbbe1e14836a"
+      },
+      {
+        "relative": "Supporting_Information_Zotero.pdf",
+        "bytes": 1799171,
+        "sha256": "0b8e46d0fe090aa5d6dd17814d438a0577cb5e5cc811a0d904f201d8d5a51102"
+      },
+      {
+        "relative": "论文框架.md",
+        "bytes": 7965,
+        "sha256": "82d30b85e26c80655e849e80dbc3700a6732d0c06d7bb2eb899a2ae645249667"
+      }
+    ]
+  },
+  {
+    "path": "C:\\Users\\17609\\AppData\\Local\\Temp\\biochar_citation_expansion_20260916\\backup",
+    "files": [
+      {
+        "relative": "Highlights.txt",
+        "bytes": 389,
+        "sha256": "de338cd9e13f939ad6f1bb822d739843c6ac900e5c9c2bed5b3a18f3e5679364"
+      },
+      {
+        "relative": "Manuscript_CEJ_Zotero.docx",
+        "bytes": 11137193,
+        "sha256": "c6e9a2367723294180748fb4748a01699186216c615ae85b8a86d5735d33de8c"
+      },
+      {
+        "relative": "Manuscript_CEJ_Zotero.md",
+        "bytes": 70875,
+        "sha256": "b35b4e423551e402afb3597cd6f07e408ba1b70b5e5fd16d35ac642deef45aac"
+      },
+      {
+        "relative": "Manuscript_CEJ_Zotero.pdf",
+        "bytes": 2374897,
+        "sha256": "5f51afb76a0be7900dbdbd3820cd36866381aabea685b360d9f109dc5fa8a6ed"
+      },
+      {
+        "relative": "README.md",
+        "bytes": 1966,
+        "sha256": "6ab1b34fb211b48e19aefcb70aae5a716d1166d5fe20bbac4ccf9333134ce476"
+      },
+      {
+        "relative": "Supporting_Information_Zotero.docx",
+        "bytes": 4300641,
+        "sha256": "d703c4dafb700817a6361ff417a4426d1665c4f2fcb20c8a56fcb4254bef99a0"
+      },
+      {
+        "relative": "Supporting_Information_Zotero.md",
+        "bytes": 49356,
+        "sha256": "385c791399d553851f029a563d7fe377689a95e88aa51cb3e38297848c73514f"
+      },
+      {
+        "relative": "Supporting_Information_Zotero.pdf",
+        "bytes": 1378164,
+        "sha256": "2a7969895f292ca2df3c0f0038886bbc4cec752f7c333b4b42abfcab813651fd"
+      },
+      {
+        "relative": "论文框架.md",
+        "bytes": 10334,
+        "sha256": "0ab13cd80e2f088b12b8fcba95d29f02990e44c50011ef54962d0046f48c28a4"
+      }
+    ]
+  },
+  {
+    "path": "C:\\Users\\17609\\AppData\\Local\\Temp\\biochar_citation_expansion_20260916\\publication_backup",
+    "files": [
+      {
+        "relative": "README.md",
+        "bytes": 1966,
+        "sha256": "6ab1b34fb211b48e19aefcb70aae5a716d1166d5fe20bbac4ccf9333134ce476"
+      },
+      {
+        "relative": "01_论文定稿\\Manuscript_CEJ_Zotero.docx",
+        "bytes": 11137193,
+        "sha256": "c6e9a2367723294180748fb4748a01699186216c615ae85b8a86d5735d33de8c"
+      },
+      {
+        "relative": "01_论文定稿\\Manuscript_CEJ_Zotero.md",
+        "bytes": 70875,
+        "sha256": "b35b4e423551e402afb3597cd6f07e408ba1b70b5e5fd16d35ac642deef45aac"
+      },
+      {
+        "relative": "01_论文定稿\\Manuscript_CEJ_Zotero.pdf",
+        "bytes": 2374897,
+        "sha256": "5f51afb76a0be7900dbdbd3820cd36866381aabea685b360d9f109dc5fa8a6ed"
+      },
+      {
+        "relative": "01_论文定稿\\论文框架.md",
+        "bytes": 10334,
+        "sha256": "0ab13cd80e2f088b12b8fcba95d29f02990e44c50011ef54962d0046f48c28a4"
+      },
+      {
+        "relative": "03_数据与代码\\Biochar_完整数据与代码.zip",
+        "bytes": 91285531,
+        "sha256": "213cee1dbb4a661fa78a1e9b0393e9ab4de46a4d4d448fa102f27a97fe545170"
+      }
+    ]
+  },
+  {
+    "path": "C:\\Users\\17609\\AppData\\Local\\Temp\\biochar_discussion_chain_20260915\\backup_20260916_000238",
+    "files": [
+      {
+        "relative": "Biochar_完整数据与代码.zip",
+        "bytes": 98329510,
+        "sha256": "639819327a2794930fcef17ba13b664237a932c74ea33e101103ac23856f428c"
+      },
+      {
+        "relative": "Manuscript_CEJ_Zotero.docx",
+        "bytes": 6656943,
+        "sha256": "bc75086d4a9e2fe0e8179e73da753a94b0c1443583acd4e6592d5be86f5f19da"
+      },
+      {
+        "relative": "Manuscript_CEJ_Zotero.md",
+        "bytes": 57653,
+        "sha256": "1fa7d9b20045840538820c6c8c153c2734fa467d814c86fb39a7e694a6060ad5"
+      },
+      {
+        "relative": "Manuscript_CEJ_Zotero.pdf",
+        "bytes": 1353937,
+        "sha256": "a8dd25e63685ca127c25b54973fc19c8a9a6e3dd51805c193ed1c186ccb5fb92"
+      },
+      {
+        "relative": "README.md",
+        "bytes": 2368,
+        "sha256": "1a672c750227d4245c5c30abaa150247010e6507740e8f21a6b4250575eb6ced"
+      },
+      {
+        "relative": "论文框架.md",
+        "bytes": 5683,
+        "sha256": "1e32cdcdae397d520545abd50b72c254cc0b09ba039bea6d1621aef159d611ab"
+      }
+    ]
+  },
+  {
+    "path": "C:\\Users\\17609\\AppData\\Local\\Temp\\biochar_Fig6_3x3_20260916\\backup",
+    "files": [
+      {
+        "relative": "Biochar_完整数据与代码.zip",
+        "bytes": 105297006,
+        "sha256": "69edf402564f6fef8fcdcef91a29d7252ff4bed8729b73887c4ccfa8080fff0d"
+      },
+      {
+        "relative": "Highlights.txt",
+        "bytes": 384,
+        "sha256": "66638e720b3d00cb912ed68596af7ad54b3f0ffa561e9e70807e97b5b9e06e26"
+      },
+      {
+        "relative": "Manuscript_CEJ_Zotero.docx",
+        "bytes": 8550865,
+        "sha256": "e0003e7a412cc73d2c5b8621f89cbc054996d07c14960182f1c70dff536716de"
+      },
+      {
+        "relative": "Manuscript_CEJ_Zotero.md",
+        "bytes": 76005,
+        "sha256": "754d4523ed4078136d91722bc15035fd68b815c803727086412a30ce87d2a2f6"
+      },
+      {
+        "relative": "Manuscript_CEJ_Zotero.pdf",
+        "bytes": 1659981,
+        "sha256": "9705542229be01f2b087069fc66a27757e7343ffa8884fcc1a945f88c576dfa4"
+      },
+      {
+        "relative": "README.md",
+        "bytes": 2403,
+        "sha256": "1853571e195e6a63911abd99d8437e93124548f33cbd9305f406e652053c3209"
+      },
+      {
+        "relative": "Supporting_Information_Zotero.docx",
+        "bytes": 11428369,
+        "sha256": "80ca7965273f2a366f63d14c5da8e6b938bffc7f9a9cd54b26ee8719059b953f"
+      },
+      {
+        "relative": "Supporting_Information_Zotero.md",
+        "bytes": 47978,
+        "sha256": "b298bf70fc797026b4fca5346ae3310bb9b0c8e6fc3802249261622f006f6316"
+      },
+      {
+        "relative": "Supporting_Information_Zotero.pdf",
+        "bytes": 1794166,
+        "sha256": "1f982eca4ca6b2de173b59d5bdf7faa77eb08a02aa62f8431956093676aabeed"
+      },
+      {
+        "relative": "~$nuscript_CEJ_Zotero.docx",
+        "bytes": 162,
+        "sha256": "f80951d84cbfdd7a7d79b09d71cff9601e27cf12886f26354a21ec82ddf7a568"
+      },
+      {
+        "relative": "论文框架.md",
+        "bytes": 6627,
+        "sha256": "9b8f6c68320087025f1d3289f4aa3b90fd5d9b31fea2db8480d19b68de23fdb6"
+      }
+    ]
+  },
+  {
+    "path": "C:\\Users\\17609\\AppData\\Local\\Temp\\biochar_main_promotions_20260916\\backup",
+    "files": [
+      {
+        "relative": "Highlights.txt",
+        "bytes": 389,
+        "sha256": "de338cd9e13f939ad6f1bb822d739843c6ac900e5c9c2bed5b3a18f3e5679364"
+      },
+      {
+        "relative": "Manuscript_CEJ_Zotero.docx",
+        "bytes": 9262620,
+        "sha256": "21ffb8a18be71dde4c8a57193c572de7ebdb789c2128590a42d3dda3ba9dc36f"
+      },
+      {
+        "relative": "Manuscript_CEJ_Zotero.md",
+        "bytes": 68587,
+        "sha256": "7c437fd484f609fcd681bac3dab4ae1b3b99bd9198013cbe1dc3b3c72955075f"
+      },
+      {
+        "relative": "Manuscript_CEJ_Zotero.pdf",
+        "bytes": 1757670,
+        "sha256": "3104a1587deefc087cd1e7fd9cac711a4e149178d08c48f726d1b5af24f5c101"
+      },
+      {
+        "relative": "README.md",
+        "bytes": 2975,
+        "sha256": "ebffbdd436af9f0df949b6bd5fd35fd950d015a9f74a81925c76c12fd91a7569"
+      },
+      {
+        "relative": "Supporting_Information_Zotero.docx",
+        "bytes": 11429228,
+        "sha256": "8a999f158bf8516feee215d10a9f15dea2b0e313d59bad16abd03fce5fa48bd3"
+      },
+      {
+        "relative": "Supporting_Information_Zotero.md",
+        "bytes": 50620,
+        "sha256": "49ada36993bc9f18e1cba78f8e78850555b13392babf2ac5978a3159e1a2cd47"
+      },
+      {
+        "relative": "Supporting_Information_Zotero.pdf",
+        "bytes": 1799558,
+        "sha256": "932aadb64f214b768067bfd13f4256135c36677dadf8d4efc0148f4cef3f94c4"
+      },
+      {
+        "relative": "论文框架.md",
+        "bytes": 9377,
+        "sha256": "38d0b64fc7648cba3dbce4ad80acf447223f8c7d8d8b029839fe9888b025f33b"
+      }
+    ]
+  },
+  {
+    "path": "C:\\Users\\17609\\AppData\\Local\\Temp\\biochar_main_promotions_20260916\\publication_backup",
+    "files": [
+      {
+        "relative": "README.md",
+        "bytes": 2975,
+        "sha256": "ebffbdd436af9f0df949b6bd5fd35fd950d015a9f74a81925c76c12fd91a7569"
+      },
+      {
+        "relative": "01_论文定稿\\Manuscript_CEJ_Zotero.docx",
+        "bytes": 9262620,
+        "sha256": "21ffb8a18be71dde4c8a57193c572de7ebdb789c2128590a42d3dda3ba9dc36f"
+      },
+      {
+        "relative": "01_论文定稿\\Manuscript_CEJ_Zotero.md",
+        "bytes": 68587,
+        "sha256": "7c437fd484f609fcd681bac3dab4ae1b3b99bd9198013cbe1dc3b3c72955075f"
+      },
+      {
+        "relative": "01_论文定稿\\Manuscript_CEJ_Zotero.pdf",
+        "bytes": 1757670,
+        "sha256": "3104a1587deefc087cd1e7fd9cac711a4e149178d08c48f726d1b5af24f5c101"
+      },
+      {
+        "relative": "01_论文定稿\\Supporting_Information_Zotero.docx",
+        "bytes": 11429228,
+        "sha256": "8a999f158bf8516feee215d10a9f15dea2b0e313d59bad16abd03fce5fa48bd3"
+      },
+      {
+        "relative": "01_论文定稿\\Supporting_Information_Zotero.md",
+        "bytes": 50620,
+        "sha256": "49ada36993bc9f18e1cba78f8e78850555b13392babf2ac5978a3159e1a2cd47"
+      },
+      {
+        "relative": "01_论文定稿\\Supporting_Information_Zotero.pdf",
+        "bytes": 1799558,
+        "sha256": "932aadb64f214b768067bfd13f4256135c36677dadf8d4efc0148f4cef3f94c4"
+      },
+      {
+        "relative": "01_论文定稿\\论文框架.md",
+        "bytes": 9377,
+        "sha256": "38d0b64fc7648cba3dbce4ad80acf447223f8c7d8d8b029839fe9888b025f33b"
+      },
+      {
+        "relative": "03_数据与代码\\Biochar_完整数据与代码.zip",
+        "bytes": 108694715,
+        "sha256": "a1dab8d06cc58ef2a10e8d57f5b8382a89e9e4a98fb1618e824619dd7262c95f"
+      }
+    ]
+  },
+  {
+    "path": "C:\\Users\\17609\\AppData\\Local\\Temp\\biochar_panel_integration_20260916\\backup",
+    "files": [
+      {
+        "relative": "Highlights.txt",
+        "bytes": 389,
+        "sha256": "de338cd9e13f939ad6f1bb822d739843c6ac900e5c9c2bed5b3a18f3e5679364"
+      },
+      {
+        "relative": "Manuscript_CEJ_Zotero.docx",
+        "bytes": 13258945,
+        "sha256": "5f9dbcfdcbe0e0c50dd4ac954b71cd7d6ab845b30adb0c962b69f0ad10c8388c"
+      },
+      {
+        "relative": "Manuscript_CEJ_Zotero.md",
+        "bytes": 70219,
+        "sha256": "b6707f1b3abf0e08e5084fe58ac807539a089b107127660d2edf2d68e04ad507"
+      },
+      {
+        "relative": "Manuscript_CEJ_Zotero.pdf",
+        "bytes": 2150682,
+        "sha256": "c9aaae05e4663df77263f37ad36af127dca30bf5ca93a06165d487540e2cbbdb"
+      },
+      {
+        "relative": "README.md",
+        "bytes": 1654,
+        "sha256": "b9ee289e87c16b72f597428b6393d1ab11a2848f1a42eedc8e8d6dbe182b1918"
+      },
+      {
+        "relative": "Supporting_Information_Zotero.docx",
+        "bytes": 7433341,
+        "sha256": "61872012a62a8988c57f39a9167cfe0d96bcb5ab3e64f0a5832c57002238f08f"
+      },
+      {
+        "relative": "Supporting_Information_Zotero.md",
+        "bytes": 49390,
+        "sha256": "4f8dd76ecd20b893bcd5767a5850a35f695cf38807fbdb796d447bf307204f5a"
+      },
+      {
+        "relative": "Supporting_Information_Zotero.pdf",
+        "bytes": 1403374,
+        "sha256": "9ef653cac39f039910922201107ea34387449ee93922896f34925e94f8219129"
+      },
+      {
+        "relative": "论文框架.md",
+        "bytes": 9837,
+        "sha256": "a07c28122f555986cfd029aa54a4bfe3959c911e9c9db44bb193fccabb2bcec4"
+      }
+    ]
+  },
+  {
+    "path": "C:\\Users\\17609\\AppData\\Local\\Temp\\biochar_panel_integration_20260916\\metadata_backup",
+    "files": [
+      {
+        "relative": "03_数据与代码\\Biochar_完整数据与代码.zip",
+        "bytes": 109272121,
+        "sha256": "f9a2753b85d9ce11340c7e6f434cce5ea992cfa68ead06a2cb9f70512cf22811"
+      },
+      {
+        "relative": "02_最终图表\\主图\\Fig02_24_method_benchmark.pdf",
+        "bytes": 50855,
+        "sha256": "e74f9ddd23803e1565ab3b07ccdde3a31c48e84296e7c93bf89eb339bef8eeff"
+      },
+      {
+        "relative": "02_最终图表\\主图\\Fig03_parity_and_residuals.pdf",
+        "bytes": 128195,
+        "sha256": "33a8d9a2d5bcbd04baf150f867b87ff750f8bc05db8b320e9de1e76a4458e471"
+      },
+      {
+        "relative": "02_最终图表\\主图\\Fig04_prediction_and_selection.pdf",
+        "bytes": 50361,
+        "sha256": "272e6f842a7c9f7c12e09a9229781819d3ef919e331f249d6712de55d30036f5"
+      },
+      {
+        "relative": "02_最终图表\\主图\\Fig05_TOPSIS_robustness.pdf",
+        "bytes": 60124,
+        "sha256": "4ad0595056b5f9e61d65d9bbd74df504e576816b44a439f378f31c15f15bc481"
+      },
+      {
+        "relative": "02_最终图表\\主图\\Fig08_transfer_limits.pdf",
+        "bytes": 77418,
+        "sha256": "cc9e66bf3f38348df454939b7f4648353501be7804968485117423dfe251a16a"
+      },
+      {
+        "relative": "02_最终图表\\补充图\\FigS02_complete_model_diagnostics.pdf",
+        "bytes": 164950,
+        "sha256": "247549b2efccebed75dca3711c6c4c954cc9de17afbe88ddd2b36f28c29e679f"
+      }
+    ]
+  },
+  {
+    "path": "C:\\Users\\17609\\AppData\\Local\\Temp\\biochar_panel_integration_20260916\\publication_backup",
+    "files": [
+      {
+        "relative": "README.md",
+        "bytes": 1654,
+        "sha256": "b9ee289e87c16b72f597428b6393d1ab11a2848f1a42eedc8e8d6dbe182b1918"
+      },
+      {
+        "relative": "01_论文定稿\\Manuscript_CEJ_Zotero.docx",
+        "bytes": 13258945,
+        "sha256": "5f9dbcfdcbe0e0c50dd4ac954b71cd7d6ab845b30adb0c962b69f0ad10c8388c"
+      },
+      {
+        "relative": "01_论文定稿\\Manuscript_CEJ_Zotero.md",
+        "bytes": 70219,
+        "sha256": "b6707f1b3abf0e08e5084fe58ac807539a089b107127660d2edf2d68e04ad507"
+      },
+      {
+        "relative": "01_论文定稿\\Manuscript_CEJ_Zotero.pdf",
+        "bytes": 2150682,
+        "sha256": "c9aaae05e4663df77263f37ad36af127dca30bf5ca93a06165d487540e2cbbdb"
+      },
+      {
+        "relative": "01_论文定稿\\Supporting_Information_Zotero.docx",
+        "bytes": 7433341,
+        "sha256": "61872012a62a8988c57f39a9167cfe0d96bcb5ab3e64f0a5832c57002238f08f"
+      },
+      {
+        "relative": "01_论文定稿\\Supporting_Information_Zotero.md",
+        "bytes": 49390,
+        "sha256": "4f8dd76ecd20b893bcd5767a5850a35f695cf38807fbdb796d447bf307204f5a"
+      },
+      {
+        "relative": "01_论文定稿\\Supporting_Information_Zotero.pdf",
+        "bytes": 1403374,
+        "sha256": "9ef653cac39f039910922201107ea34387449ee93922896f34925e94f8219129"
+      },
+      {
+        "relative": "01_论文定稿\\论文框架.md",
+        "bytes": 9837,
+        "sha256": "a07c28122f555986cfd029aa54a4bfe3959c911e9c9db44bb193fccabb2bcec4"
+      },
+      {
+        "relative": "03_数据与代码\\Biochar_完整数据与代码.zip",
+        "bytes": 108695005,
+        "sha256": "90b48b83b460063c155393eb9f67ae950fa88d5c64e4e831d3a82d71964b0db7"
+      },
+      {
+        "relative": "02_最终图表\\主图\\Fig01_data_and_comparisons.pdf",
+        "bytes": 87293,
+        "sha256": "a64009e8c9293aac87c4ba700c1c65d3687cdf241b143b4f40b46f62f076c70e"
+      },
+      {
+        "relative": "02_最终图表\\主图\\Fig01_data_and_comparisons.png",
+        "bytes": 1133818,
+        "sha256": "8d9791ddc9578096706ecf3040a683ef0814636b59f70bab4fe6bd968de4f4dc"
+      },
+      {
+        "relative": "02_最终图表\\主图\\Fig06_material_comparisons.pdf",
+        "bytes": 109043,
+        "sha256": "7e554dabae35051f54ea46590560311ca832277ace2acb91f8527bd498a46a06"
+      },
+      {
+        "relative": "02_最终图表\\主图\\Fig06_material_comparisons.png",
+        "bytes": 1590937,
+        "sha256": "d644d32a93d16b4f9ec2d1696962ad67f357fc09b9f1b69eb2c4125c173bfd85"
+      },
+      {
+        "relative": "02_最终图表\\补充图\\FigS01_data_checks.pdf",
+        "bytes": 93606,
+        "sha256": "df1f5374f0926e92d30767c959bdc93404ceaa4fcd199998f9a771741e842d80"
+      },
+      {
+        "relative": "02_最终图表\\补充图\\FigS01_data_checks.png",
+        "bytes": 1120841,
+        "sha256": "6de2f6728c9ad1b0c040b44a7f377785aeccac973a1ea7ac6f19937626bbf9b6"
+      },
+      {
+        "relative": "02_最终图表\\补充图\\FigS02_descriptor_support.pdf",
+        "bytes": 109387,
+        "sha256": "c01f94e599f89902cfb41337c84f94265f46134de22cc623f2dbe717feb1d5bb"
+      },
+      {
+        "relative": "02_最终图表\\补充图\\FigS02_descriptor_support.png",
+        "bytes": 1342003,
+        "sha256": "08528c9685dd33e579de6d119891908604a778e58ae3fbe5d81c7908c1be0160"
+      },
+      {
+        "relative": "02_最终图表\\补充图\\FigS03_complete_model_diagnostics.pdf",
+        "bytes": 164950,
+        "sha256": "247549b2efccebed75dca3711c6c4c954cc9de17afbe88ddd2b36f28c29e679f"
+      },
+      {
+        "relative": "02_最终图表\\补充图\\FigS03_complete_model_diagnostics.png",
+        "bytes": 3048068,
+        "sha256": "b4be1ee853d3536854b2804c5cb8a4d1d3425a83ee893ee29f07d655176d1ad9"
+      },
+      {
+        "relative": "02_最终图表\\补充图\\FigS04_all_material_pair_predictions.pdf",
+        "bytes": 52478,
+        "sha256": "789fb2e5bedf8327be05ec132808e1fb943e57cba16165596fc3f6011e54c8a1"
+      },
+      {
+        "relative": "02_最终图表\\补充图\\FigS04_all_material_pair_predictions.png",
+        "bytes": 2895974,
+        "sha256": "745eb2aa5fa72ff1b1a65a1916804c7c9f3c3322856c7858cc28ca75a7d7badf"
+      }
+    ]
+  },
+  {
+    "path": "C:\\Users\\17609\\AppData\\Local\\Temp\\biochar_panel_letters_20260916\\backup",
+    "files": [
+      {
+        "relative": "Highlights.txt",
+        "bytes": 389,
+        "sha256": "de338cd9e13f939ad6f1bb822d739843c6ac900e5c9c2bed5b3a18f3e5679364"
+      },
+      {
+        "relative": "Manuscript_CEJ_Zotero.docx",
+        "bytes": 15250457,
+        "sha256": "c888a582221945f1c2fe6e09d57b558fef79f1f981bd5d6f5889f729dca39b80"
+      },
+      {
+        "relative": "Manuscript_CEJ_Zotero.md",
+        "bytes": 70875,
+        "sha256": "b35b4e423551e402afb3597cd6f07e408ba1b70b5e5fd16d35ac642deef45aac"
+      },
+      {
+        "relative": "Manuscript_CEJ_Zotero.pdf",
+        "bytes": 2314172,
+        "sha256": "80cef7b678f6b2c302638f3a07b90ac12f7d6c4a27f15128ef6201ae1d42c8a7"
+      },
+      {
+        "relative": "README.md",
+        "bytes": 1758,
+        "sha256": "f31de345f1b9c50fe37348faccdc8828b8cd923f865d976d1623694f22352f0d"
+      },
+      {
+        "relative": "Supporting_Information_Zotero.docx",
+        "bytes": 5757024,
+        "sha256": "8986518cadae733bc7ca0138300bd8d066541afe7f2f1f66c7baf610c187c5ef"
+      },
+      {
+        "relative": "Supporting_Information_Zotero.md",
+        "bytes": 49356,
+        "sha256": "385c791399d553851f029a563d7fe377689a95e88aa51cb3e38297848c73514f"
+      },
+      {
+        "relative": "Supporting_Information_Zotero.pdf",
+        "bytes": 1254659,
+        "sha256": "25d940311391941b018b440c82c488381061392fbf89b71ff0740fb1d7d85c77"
+      },
+      {
+        "relative": "论文框架.md",
+        "bytes": 10334,
+        "sha256": "0ab13cd80e2f088b12b8fcba95d29f02990e44c50011ef54962d0046f48c28a4"
+      }
+    ]
+  },
+  {
+    "path": "C:\\Users\\17609\\AppData\\Local\\Temp\\biochar_panel_letters_20260916\\publication_backup",
+    "files": [
+      {
+        "relative": "README.md",
+        "bytes": 1758,
+        "sha256": "f31de345f1b9c50fe37348faccdc8828b8cd923f865d976d1623694f22352f0d"
+      },
+      {
+        "relative": "01_论文定稿\\Manuscript_CEJ_Zotero.docx",
+        "bytes": 15250457,
+        "sha256": "c888a582221945f1c2fe6e09d57b558fef79f1f981bd5d6f5889f729dca39b80"
+      },
+      {
+        "relative": "01_论文定稿\\Manuscript_CEJ_Zotero.pdf",
+        "bytes": 2314172,
+        "sha256": "80cef7b678f6b2c302638f3a07b90ac12f7d6c4a27f15128ef6201ae1d42c8a7"
+      },
+      {
+        "relative": "01_论文定稿\\Supporting_Information_Zotero.docx",
+        "bytes": 5757024,
+        "sha256": "8986518cadae733bc7ca0138300bd8d066541afe7f2f1f66c7baf610c187c5ef"
+      },
+      {
+        "relative": "01_论文定稿\\Supporting_Information_Zotero.pdf",
+        "bytes": 1254659,
+        "sha256": "25d940311391941b018b440c82c488381061392fbf89b71ff0740fb1d7d85c77"
+      },
+      {
+        "relative": "03_数据与代码\\Biochar_完整数据与代码.zip",
+        "bytes": 109276731,
+        "sha256": "6b365136fba1bd9af19f901c609ab41773b6ae3403fd62780dd74d9b19d5b0ae"
+      },
+      {
+        "relative": "02_最终图表\\主图\\Fig01_data_and_comparisons.pdf",
+        "bytes": 128169,
+        "sha256": "59489bdddc795d33518eca2be54e869786c106ab936969366ffcbc005dcab027"
+      },
+      {
+        "relative": "02_最终图表\\主图\\Fig01_data_and_comparisons.png",
+        "bytes": 2060507,
+        "sha256": "1d22eedfa84f06af79c6f60221b127baec2ad31ee4a5c34e04eb94c7e7403f63"
+      },
+      {
+        "relative": "02_最终图表\\主图\\Fig02_24_method_benchmark.pdf",
+        "bytes": 49975,
+        "sha256": "a59c30f07587b41665dc8d8424b9ef07f719ecfddb8300ff02c789eca03e2602"
+      },
+      {
+        "relative": "02_最终图表\\主图\\Fig02_24_method_benchmark.png",
+        "bytes": 1278673,
+        "sha256": "298caef7d0a8253bd90623321f1f3b5e60cf5075265beee49e63a4696f74ba00"
+      },
+      {
+        "relative": "02_最终图表\\主图\\Fig03_parity_and_residuals.pdf",
+        "bytes": 127986,
+        "sha256": "e3c44921c3de0681d257641dd1b682ed949887e287c2b587434cffd323615a49"
+      },
+      {
+        "relative": "02_最终图表\\主图\\Fig03_parity_and_residuals.png",
+        "bytes": 4214755,
+        "sha256": "42b34de51f9e6fe432f9d29208f86e01cd6cf6e37de794f00a80f70781cc9a90"
+      },
+      {
+        "relative": "02_最终图表\\主图\\Fig04_prediction_and_selection.pdf",
+        "bytes": 49641,
+        "sha256": "e9f7a5380a0ea3a9eeab19fff78b4d2dbfdfbcb6752ef26600de654cac5e9ee6"
+      },
+      {
+        "relative": "02_最终图表\\主图\\Fig04_prediction_and_selection.png",
+        "bytes": 1546815,
+        "sha256": "2fe486aea897f91db3e614395f90f9e2f0340965792a2553617f2ee5021f2f40"
+      },
+      {
+        "relative": "02_最终图表\\主图\\Fig05_TOPSIS_robustness.pdf",
+        "bytes": 60307,
+        "sha256": "b5e271344d55f445aa39c74413379bed67efe2efdddfcf9e407bcc178b686d86"
+      },
+      {
+        "relative": "02_最终图表\\主图\\Fig05_TOPSIS_robustness.png",
+        "bytes": 1586351,
+        "sha256": "3a99c206b8381c065c77443753002c2b04d3de380ce67a829a1059dfb3b3d820"
+      },
+      {
+        "relative": "02_最终图表\\主图\\Fig06_material_comparisons.pdf",
+        "bytes": 114863,
+        "sha256": "797f433caf660b9ce81a11c2cb73fe258ca6aa5a6716c90709ff0eda6161d9a2"
+      },
+      {
+        "relative": "02_最终图表\\主图\\Fig06_material_comparisons.png",
+        "bytes": 2823487,
+        "sha256": "3bed598e591cf7405efc3efbeef110078b84aa66ed8d290fa01484a8f99801b3"
+      },
+      {
+        "relative": "02_最终图表\\主图\\Fig07_adsorption_responses.pdf",
+        "bytes": 66843,
+        "sha256": "ce834f85da57d2a7cf3254f405cedd449adf7ad60f0ba75935bd297cba4c14a3"
+      },
+      {
+        "relative": "02_最终图表\\主图\\Fig07_adsorption_responses.png",
+        "bytes": 2144450,
+        "sha256": "4a02abf54b0e1f30faa5c01fa59d445d1cbb6a655f19bb5bca47446a8a07261a"
+      },
+      {
+        "relative": "02_最终图表\\主图\\Fig08_transfer_limits.pdf",
+        "bytes": 77517,
+        "sha256": "e5ed7a67b6576bef54c69f07cc4abbbedd1a13ac1542e57ee9da066289e41782"
+      },
+      {
+        "relative": "02_最终图表\\主图\\Fig08_transfer_limits.png",
+        "bytes": 1460318,
+        "sha256": "e9e8a6f2727acdbb1fd4a554dbf0841e320d4c98646b7b7e9f4afd6b36c0a9b3"
+      },
+      {
+        "relative": "02_最终图表\\补充图\\FigS01_data_checks.pdf",
+        "bytes": 117604,
+        "sha256": "4a5b2e43ccc0b8fe3cfda24733ebb4f824c42f30764866c016b2c67d19a74fb6"
+      },
+      {
+        "relative": "02_最终图表\\补充图\\FigS01_data_checks.png",
+        "bytes": 1448507,
+        "sha256": "5fe5c3e1ce6f1f5804d92d90daf7f76910fc23482a33a2690924ecbfc021fd68"
+      },
+      {
+        "relative": "02_最终图表\\补充图\\FigS02_complete_model_diagnostics.pdf",
+        "bytes": 166928,
+        "sha256": "459b0257a31edb25c92257a7f38127b3a8605b76ff5cfbc24d20b44615c8036b"
+      },
+      {
+        "relative": "02_最终图表\\补充图\\FigS02_complete_model_diagnostics.png",
+        "bytes": 3048068,
+        "sha256": "b4be1ee853d3536854b2804c5cb8a4d1d3425a83ee893ee29f07d655176d1ad9"
+      },
+      {
+        "relative": "02_最终图表\\补充图\\FigS03_remaining_material_pair_predictions.pdf",
+        "bytes": 44384,
+        "sha256": "1f51db48b9318c9406b440145e294216a6faa8acc3e26953a50c14ba0ad95bf8"
+      },
+      {
+        "relative": "02_最终图表\\补充图\\FigS03_remaining_material_pair_predictions.png",
+        "bytes": 2009569,
+        "sha256": "92464c27e0db006f980a518469f7abcb3d4a22bb4a7ff9ca24215b67564eed7f"
+      }
+    ]
+  },
+  {
+    "path": "C:\\Users\\17609\\AppData\\Local\\Temp\\biochar_topsis3d_20260917\\backup",
+    "files": [
+      {
+        "relative": "Highlights.txt",
+        "bytes": 389,
+        "sha256": "de338cd9e13f939ad6f1bb822d739843c6ac900e5c9c2bed5b3a18f3e5679364"
+      },
+      {
+        "relative": "Manuscript_CEJ_Zotero.docx",
+        "bytes": 11142416,
+        "sha256": "ed93da6bce2ea3e90b10e96f66a80e71f68911ef8b4d3b75d05626f2761f9a59"
+      },
+      {
+        "relative": "Manuscript_CEJ_Zotero.md",
+        "bytes": 76403,
+        "sha256": "449262ecae18596c38d14ebbd94897907c4725bd8ca43ef6bedacf2448536e80"
+      },
+      {
+        "relative": "Manuscript_CEJ_Zotero.pdf",
+        "bytes": 2381233,
+        "sha256": "24395731b8df1c5c9bcb5132217463f7bb44df806b84d6ec86fcb14ea01e3613"
+      },
+      {
+        "relative": "README.md",
+        "bytes": 2252,
+        "sha256": "5db26c1307d4cde757cf298fd9008397e1f42aff4a231831ba4a727211b46374"
+      },
+      {
+        "relative": "Supporting_Information_Zotero.docx",
+        "bytes": 4300641,
+        "sha256": "d703c4dafb700817a6361ff417a4426d1665c4f2fcb20c8a56fcb4254bef99a0"
+      },
+      {
+        "relative": "Supporting_Information_Zotero.md",
+        "bytes": 49356,
+        "sha256": "385c791399d553851f029a563d7fe377689a95e88aa51cb3e38297848c73514f"
+      },
+      {
+        "relative": "Supporting_Information_Zotero.pdf",
+        "bytes": 1378164,
+        "sha256": "2a7969895f292ca2df3c0f0038886bbc4cec752f7c333b4b42abfcab813651fd"
+      },
+      {
+        "relative": "论文框架.md",
+        "bytes": 10797,
+        "sha256": "0317130c5b397802e3a739b4b934463cc0151d53891a84640b5c46f623712dc0"
+      }
+    ]
+  },
+  {
+    "path": "C:\\Users\\17609\\AppData\\Local\\Temp\\biochar_topsis3d_20260917\\publication_backup",
+    "files": [
+      {
+        "relative": "README.md",
+        "bytes": 2252,
+        "sha256": "5db26c1307d4cde757cf298fd9008397e1f42aff4a231831ba4a727211b46374"
+      },
+      {
+        "relative": "01_论文定稿\\Manuscript_CEJ_Zotero.docx",
+        "bytes": 11142416,
+        "sha256": "ed93da6bce2ea3e90b10e96f66a80e71f68911ef8b4d3b75d05626f2761f9a59"
+      },
+      {
+        "relative": "01_论文定稿\\Manuscript_CEJ_Zotero.md",
+        "bytes": 76403,
+        "sha256": "449262ecae18596c38d14ebbd94897907c4725bd8ca43ef6bedacf2448536e80"
+      },
+      {
+        "relative": "01_论文定稿\\Manuscript_CEJ_Zotero.pdf",
+        "bytes": 2381233,
+        "sha256": "24395731b8df1c5c9bcb5132217463f7bb44df806b84d6ec86fcb14ea01e3613"
+      },
+      {
+        "relative": "01_论文定稿\\Supporting_Information_Zotero.docx",
+        "bytes": 4300641,
+        "sha256": "d703c4dafb700817a6361ff417a4426d1665c4f2fcb20c8a56fcb4254bef99a0"
+      },
+      {
+        "relative": "01_论文定稿\\Supporting_Information_Zotero.md",
+        "bytes": 49356,
+        "sha256": "385c791399d553851f029a563d7fe377689a95e88aa51cb3e38297848c73514f"
+      },
+      {
+        "relative": "01_论文定稿\\Supporting_Information_Zotero.pdf",
+        "bytes": 1378164,
+        "sha256": "2a7969895f292ca2df3c0f0038886bbc4cec752f7c333b4b42abfcab813651fd"
+      },
+      {
+        "relative": "01_论文定稿\\论文框架.md",
+        "bytes": 10797,
+        "sha256": "0317130c5b397802e3a739b4b934463cc0151d53891a84640b5c46f623712dc0"
+      },
+      {
+        "relative": "03_数据与代码\\Biochar_完整数据与代码.zip",
+        "bytes": 91311647,
+        "sha256": "606300644a82933050737f87938bf170afaba5316f8a2558e2a91915531aaf73"
+      },
+      {
+        "relative": "02_最终图表\\主图\\Fig05_TOPSIS_robustness.pdf",
+        "bytes": 68229,
+        "sha256": "691f3b744fedf80fcc0af4eb629f809fac34c5e1162734f99aebaf4594884292"
+      },
+      {
+        "relative": "02_最终图表\\主图\\Fig05_TOPSIS_robustness.png",
+        "bytes": 1229995,
+        "sha256": "9cf00923dce0b58ef748b0deb226e43fa641d4ad70212c08edfd7520bef12e87"
+      }
+    ]
+  }
+]

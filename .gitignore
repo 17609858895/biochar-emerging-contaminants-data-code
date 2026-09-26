@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+catboost_info/
+analysis/figures/
+docs/SHAP_REVISION_README.md
+**/zotero_catboost_verified.json

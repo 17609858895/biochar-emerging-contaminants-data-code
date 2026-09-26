@@ -1,0 +1,11 @@
+{
+  "seed": 211,
+  "track": "broad",
+  "fold": 1,
+  "selected": {
+    "Point": "KNN_2",
+    "Contrast": "BayesianRidge_1",
+    "TOPSIS": "Ridge_1"
+  },
+  "methods": 24
+}

@@ -1,0 +1,185 @@
+source_candidate,Adsorbent,Pollutant,Adsorption type,Wastewater type,Initial concentration,Solution pH,RPM,Volume,Adsorbent dosage,Adsorption temperature,Ion concentration,Humic acid,feature,low,high,condition_low,condition_high,removal_change_pp,Adsorption time
+SI_ref_13,PB600,CBZ,Single,Synthetic,1.0,7.0,150,0.025,0.12,25.0,0.0,0,Adsorption time,30,1440,852,873,21.11613876319759,
+SI_ref_13,PB600,IBU,Single,Synthetic,1.0,7.0,150,0.025,0.12,25.0,0.0,0,Adsorption time,30,1440,875,896,28.414193702847275,
+SI_ref_13,PB800,CBZ,Single,Synthetic,1.0,7.0,150,0.025,0.12,25.0,0.0,0,Adsorption time,30,1440,899,920,14.600342663333276,
+SI_ref_13,PB800,IBU,Single,Synthetic,1.0,7.0,150,0.025,0.12,25.0,0.0,0,Adsorption time,30,1440,922,943,22.64191145848466,
+SI_ref_14,GCRB,ALA,Single,Synthetic,10.02,7.0,150,0.02,0.05,25.0,0.0,0,Adsorption time,30,1440,332,349,3.2005052966387226,
+SI_ref_14,GCRB,DIU,Single,Synthetic,10.01,7.0,150,0.02,0.05,25.0,0.0,0,Adsorption time,30,1440,354,371,2.9789396792391343,
+SI_ref_14,GCRB,SIM,Single,Synthetic,10.22,7.0,150,0.02,0.05,25.0,0.0,0,Adsorption time,30,1440,376,393,1.8100574371217037,
+SI_ref_14,GCRB-N,ALA,Single,Synthetic,10.02,7.0,150,0.02,0.05,25.0,0.0,0,Adsorption time,30,1440,398,411,41.486531764225354,
+SI_ref_14,GCRB-N,DIU,Single,Synthetic,10.01,7.0,150,0.02,0.05,25.0,0.0,0,Adsorption time,30,1440,439,452,47.219915834917195,
+SI_ref_14,GCRB-N,SIM,Single,Synthetic,10.22,7.0,150,0.02,0.05,25.0,0.0,0,Adsorption time,30,1440,480,493,34.51219971365579,
+SI_ref_15,PSB,CAR,Single,Synthetic,10.35,7.0,150,0.05,0.05,25.0,0.0,0,Adsorption time,30,1440,945,958,3.7271829332767736,
+SI_ref_15,PSB,PYR,Single,Synthetic,10.35,7.0,150,0.05,0.05,25.0,0.0,0,Adsorption time,30,1440,968,977,1.4810874555484022,
+SI_ref_15,PSB,TEB,Single,Synthetic,10.35,7.0,150,0.05,0.05,25.0,0.0,0,Adsorption time,30,1440,987,996,3.850916220029943,
+SI_ref_15,PSBOX-A,CAR,Single,Synthetic,10.35,7.0,150,0.05,0.05,25.0,0.0,0,Adsorption time,30,1440,1006,1019,45.2197552445966,
+SI_ref_15,PSBOX-A,PYR,Single,Synthetic,10.35,7.0,150,0.05,0.05,25.0,0.0,0,Adsorption time,30,1440,1029,1042,45.4845061320724,
+SI_ref_15,PSBOX-A,TEB,Single,Synthetic,10.35,7.0,150,0.05,0.05,25.0,0.0,0,Adsorption time,30,1440,1052,1066,44.50450113879932,
+SI_ref_17,Alkali-modified SCG biochars,CBZ,Competative,Synthetic,1.0,7.0,160,0.02,0.05,25.0,0.0,0,Adsorption time,30,1440,116,131,36.037620435921184,
+SI_ref_17,Alkali-modified SCG biochars,CBZ,Single,Synthetic,1.0,7.0,160,0.02,0.05,25.0,0.0,0,Adsorption time,30,1440,117,132,7.932012861152341,
+SI_ref_17,Alkali-modified SCG biochars,EE2,Competative,Synthetic,1.0,7.0,160,0.02,0.05,25.0,0.0,0,Adsorption time,30,1440,154,170,18.900304312910624,
+SI_ref_17,Alkali-modified SCG biochars,EE2,Single,Synthetic,1.0,7.0,160,0.02,0.05,25.0,0.0,0,Adsorption time,30,1440,155,171,19.116581860373554,
+SI_ref_17,Alkali-modified SCG biochars,IBU,Competative,Synthetic,1.0,7.0,160,0.02,0.05,25.0,0.0,0,Adsorption time,30,1440,189,205,35.28400063073692,
+SI_ref_17,Alkali-modified SCG biochars,IBU,Single,Synthetic,1.0,7.0,160,0.02,0.05,25.0,0.0,0,Adsorption time,30,1440,190,206,16.77208656976898,
+SI_ref_17,Pristine SCG biochar,CBZ,Competative,Synthetic,1.0,7.0,160,0.02,0.05,25.0,0.0,0,Adsorption time,30,1440,1076,1092,3.205600422671162,
+SI_ref_17,Pristine SCG biochar,CBZ,Single,Synthetic,1.0,7.0,160,0.02,0.05,25.0,0.0,0,Adsorption time,30,1440,1077,1093,1.8435659709157615,
+SI_ref_17,Pristine SCG biochar,EE2,Competative,Synthetic,1.0,7.0,160,0.02,0.05,25.0,0.0,0,Adsorption time,30,1440,1116,1132,15.0531366232597,
+SI_ref_17,Pristine SCG biochar,EE2,Single,Synthetic,1.0,7.0,160,0.02,0.05,25.0,0.0,0,Adsorption time,30,1440,1117,1133,10.213696790664073,
+SI_ref_17,Pristine SCG biochar,IBU,Competative,Synthetic,1.0,7.0,160,0.02,0.05,25.0,0.0,0,Adsorption time,30,1440,1156,1172,4.079162451310047,
+SI_ref_17,Pristine SCG biochar,IBU,Single,Synthetic,1.0,7.0,160,0.02,0.05,25.0,0.0,0,Adsorption time,30,1440,1157,1173,-2.5857386422365236,
+SI_ref_18,NaOH-activated SCW biochars,DCF,Single,Lake water,30.0,7.0,160,0.05,0.15,25.0,0.0,0,Adsorption time,30,1440,639,661,-2.6886268326320573,
+SI_ref_18,NaOH-activated SCW biochars,DCF,Single,Secondary effluent,30.0,7.0,160,0.05,0.15,25.0,0.0,0,Adsorption time,30,1440,640,662,15.469295044943365,
+SI_ref_18,NaOH-activated SCW biochars,IBU,Single,Lake water,30.0,7.0,160,0.05,0.15,25.0,0.0,0,Adsorption time,30,1440,698,720,-3.6083224119017987,
+SI_ref_18,NaOH-activated SCW biochars,IBU,Single,Secondary effluent,30.0,7.0,160,0.05,0.15,25.0,0.0,0,Adsorption time,30,1440,699,721,13.470652965413665,
+SI_ref_18,NaOH-activated SCW biochars,NPX,Single,Lake water,30.0,7.0,160,0.05,0.15,25.0,0.0,0,Adsorption time,30,1440,757,779,14.107010409364296,
+SI_ref_18,NaOH-activated SCW biochars,NPX,Single,Secondary effluent,30.0,7.0,160,0.05,0.15,25.0,0.0,0,Adsorption time,30,1440,758,780,43.3551403564105,
+SI_ref_18,Pristine SCW Biochar,DCF,Single,Lake water,30.0,7.0,160,0.05,0.15,25.0,0.0,0,Adsorption time,30,1440,1198,1218,0.3819638500573208,
+SI_ref_18,Pristine SCW Biochar,DCF,Single,Secondary effluent,30.0,7.0,160,0.05,0.15,25.0,0.0,0,Adsorption time,30,1440,1199,1219,1.4041461047250348,
+SI_ref_18,Pristine SCW Biochar,IBU,Single,Lake water,30.0,7.0,160,0.05,0.15,25.0,0.0,0,Adsorption time,30,1440,1253,1273,0.08033268516842718,
+SI_ref_18,Pristine SCW Biochar,IBU,Single,Secondary effluent,30.0,7.0,160,0.05,0.15,25.0,0.0,0,Adsorption time,30,1440,1254,1274,1.6466912186082094,
+SI_ref_18,Pristine SCW Biochar,NPX,Single,Lake water,30.0,7.0,160,0.05,0.15,25.0,0.0,0,Adsorption time,30,1440,1308,1328,0.5951105017308667,
+SI_ref_18,Pristine SCW Biochar,NPX,Single,Secondary effluent,30.0,7.0,160,0.05,0.15,25.0,0.0,0,Adsorption time,30,1440,1309,1329,1.6761426877970553,
+SI_ref_19,AMCB,IBU,Single,Ground water,5.0,7.0,150,0.05,0.05,25.0,0.0,0,Adsorption time,30,1440,2,22,32.711625475599675,
+SI_ref_19,AMCB,IBU,Single,Lake water,5.0,7.0,150,0.05,0.05,25.0,0.0,0,Adsorption time,30,1440,3,23,25.976847886128745,
+SI_ref_19,CB,IBU,Single,Ground water,5.0,7.0,150,0.05,0.05,25.0,0.0,0,Adsorption time,30,1440,282,312,0.457126621768722,
+SI_ref_19,CB,IBU,Single,Lake water,5.0,7.0,150,0.05,0.05,25.0,0.0,0,Adsorption time,30,1440,283,313,0.4899775202860335,
+SI_ref_19,MCB,IBU,Single,Ground water,5.0,7.0,150,0.05,0.05,25.0,0.0,0,Adsorption time,30,1440,523,543,0.9117406120760951,
+SI_ref_19,MCB,IBU,Single,Lake water,5.0,7.0,150,0.05,0.05,25.0,0.0,0,Adsorption time,30,1440,524,544,0.739955008686044,
+SI_ref_14,GCRB,ALA,Single,Synthetic,10.0,,150,0.02,0.05,25.0,0.0,0,Solution pH,7,11,341,348,0.2765836653280118,1440.0
+SI_ref_14,GCRB,DIU,Single,Synthetic,10.0,,150,0.02,0.05,25.0,0.0,0,Solution pH,7,11,363,370,3.353176663360602,1440.0
+SI_ref_14,GCRB,SIM,Single,Synthetic,10.0,,150,0.02,0.05,25.0,0.0,0,Solution pH,7,11,385,392,4.915094016760813,1440.0
+SI_ref_14,GCRB-N,ALA,Single,Synthetic,10.0,,150,0.02,0.05,25.0,0.0,0,Solution pH,7,11,407,410,-5.1350743404873,1440.0
+SI_ref_14,GCRB-N,DIU,Single,Synthetic,10.0,,150,0.02,0.05,25.0,0.0,0,Solution pH,7,11,448,451,1.8116526673747524,1440.0
+SI_ref_14,GCRB-N,SIM,Single,Synthetic,10.0,,150,0.02,0.05,25.0,0.0,0,Solution pH,7,11,489,492,-6.422189280528418,1440.0
+SI_ref_15,PSB,CAR,Single,Synthetic,10.0,,150,0.05,0.05,25.0,0.0,0,Solution pH,7,11,954,957,-0.4081588820997406,1440.0
+SI_ref_15,PSBOX-A,CAR,Single,Synthetic,10.0,,150,0.05,0.05,25.0,0.0,0,Solution pH,7,11,1015,1018,0.11777700916286576,1440.0
+SI_ref_15,PSBOX-A,PYR,Single,Synthetic,10.0,,150,0.05,0.05,25.0,0.0,0,Solution pH,7,11,1038,1041,-8.554791937181772,1440.0
+SI_ref_15,PSBOX-A,TEB,Single,Synthetic,10.0,,150,0.05,0.05,25.0,0.0,0,Solution pH,7,11,1062,1065,-0.829841015344357,1440.0
+SI_ref_17,Alkali-modified SCG biochars,CBZ,Competative,Synthetic,1.0,,160,0.02,0.05,25.0,0.0,0,Solution pH,7,11,131,143,4.4849504897138655,1440.0
+SI_ref_17,Alkali-modified SCG biochars,EE2,Competative,Synthetic,1.0,,160,0.02,0.05,25.0,0.0,0,Solution pH,7,11,170,177,3.978483901980438,1440.0
+SI_ref_17,Alkali-modified SCG biochars,EE2,Single,Synthetic,1.0,,160,0.02,0.05,25.0,0.0,0,Solution pH,7,11,171,178,3.730296444936984,1440.0
+SI_ref_17,Alkali-modified SCG biochars,IBU,Competative,Synthetic,1.0,,160,0.02,0.05,25.0,0.0,0,Solution pH,7,11,205,217,-38.371917423192244,1440.0
+SI_ref_17,Alkali-modified SCG biochars,IBU,Single,Synthetic,1.0,,160,0.02,0.05,25.0,0.0,0,Solution pH,7,11,206,218,-24.52298968662132,1440.0
+SI_ref_17,Pristine SCG biochar,CBZ,Competative,Synthetic,1.0,,160,0.02,0.05,25.0,0.0,0,Solution pH,7,11,1092,1104,2.9619624473625095,1440.0
+SI_ref_17,Pristine SCG biochar,CBZ,Single,Synthetic,1.0,,160,0.02,0.05,25.0,0.0,0,Solution pH,7,11,1093,1105,4.413100140230131,1440.0
+SI_ref_17,Pristine SCG biochar,EE2,Competative,Synthetic,1.0,,160,0.02,0.05,25.0,0.0,0,Solution pH,7,11,1132,1144,-5.8764525145599045,1440.0
+SI_ref_17,Pristine SCG biochar,EE2,Single,Synthetic,1.0,,160,0.02,0.05,25.0,0.0,0,Solution pH,7,11,1133,1145,-12.022213997825782,1440.0
+SI_ref_17,Pristine SCG biochar,IBU,Competative,Synthetic,1.0,,160,0.02,0.05,25.0,0.0,0,Solution pH,7,11,1172,1184,-2.088412205322232,1440.0
+SI_ref_17,Pristine SCG biochar,IBU,Single,Synthetic,1.0,,160,0.02,0.05,25.0,0.0,0,Solution pH,7,11,1173,1185,-0.18130854812469233,1440.0
+SI_ref_18,NaOH-activated SCW biochars,DCF,Single,Lake water,30.0,,160,0.05,0.15,25.0,0.0,0,Solution pH,7,11,661,690,-7.627842377356853,1440.0
+SI_ref_18,NaOH-activated SCW biochars,DCF,Single,Secondary effluent,30.0,,160,0.05,0.15,25.0,0.0,0,Solution pH,7,11,662,691,-13.661858319160114,1440.0
+SI_ref_18,NaOH-activated SCW biochars,IBU,Single,Lake water,30.0,,160,0.05,0.15,25.0,0.0,0,Solution pH,7,11,720,749,-12.35290050454081,1440.0
+SI_ref_18,NaOH-activated SCW biochars,IBU,Single,Secondary effluent,30.0,,160,0.05,0.15,25.0,0.0,0,Solution pH,7,11,721,750,-13.671374642837097,1440.0
+SI_ref_18,NaOH-activated SCW biochars,NPX,Single,Lake water,30.0,,160,0.05,0.15,25.0,0.0,0,Solution pH,7,11,779,795,-7.34834435608003,1440.0
+SI_ref_18,NaOH-activated SCW biochars,NPX,Single,Secondary effluent,30.0,,160,0.05,0.15,25.0,0.0,0,Solution pH,7,11,780,796,-15.178613178767325,1440.0
+SI_ref_18,Pristine SCW Biochar,DCF,Single,Lake water,30.0,,160,0.05,0.15,25.0,0.0,0,Solution pH,7,11,1218,1247,-0.15754819803064368,1440.0
+SI_ref_18,Pristine SCW Biochar,DCF,Single,Secondary effluent,30.0,,160,0.05,0.15,25.0,0.0,0,Solution pH,7,11,1219,1248,-0.5379271247038409,1440.0
+SI_ref_18,Pristine SCW Biochar,IBU,Single,Lake water,30.0,,160,0.05,0.15,25.0,0.0,0,Solution pH,7,11,1273,1302,-0.8395421634376787,1440.0
+SI_ref_18,Pristine SCW Biochar,IBU,Single,Secondary effluent,30.0,,160,0.05,0.15,25.0,0.0,0,Solution pH,7,11,1274,1303,-1.5333439374629831,1440.0
+SI_ref_18,Pristine SCW Biochar,NPX,Single,Lake water,30.0,,160,0.05,0.15,25.0,0.0,0,Solution pH,7,11,1328,1344,-0.6974187809866361,1440.0
+SI_ref_18,Pristine SCW Biochar,NPX,Single,Secondary effluent,30.0,,160,0.05,0.15,25.0,0.0,0,Solution pH,7,11,1329,1345,-0.9129218402058381,1440.0
+SI_ref_19,AMCB,IBU,Single,Ground water,5.0,,150,0.05,0.05,25.0,0.0,0,Solution pH,7,11,104,108,-14.286747030091213,1454.0
+SI_ref_19,AMCB,IBU,Single,Lake water,5.0,,150,0.05,0.05,25.0,0.0,0,Solution pH,7,11,105,109,-9.978062333897059,1454.0
+SI_ref_19,CB,IBU,Single,Ground water,5.0,,150,0.05,0.05,25.0,0.0,0,Solution pH,7,11,312,318,0.02525003867358544,1440.0
+SI_ref_19,CB,IBU,Single,Lake water,5.0,,150,0.05,0.05,25.0,0.0,0,Solution pH,7,11,313,319,-0.6740909620608804,1440.0
+SI_ref_19,MCB,IBU,Single,Ground water,5.0,,150,0.05,0.05,25.0,0.0,0,Solution pH,7,11,559,563,0.07435567339680871,1443.0
+SI_ref_19,MCB,IBU,Single,Lake water,5.0,,150,0.05,0.05,25.0,0.0,0,Solution pH,7,11,560,564,-0.3165928431451581,1443.0
+SI_ref_13,PB600,CBZ,Single,Synthetic,1.0,7.0,150,0.025,0.12,,0.0,0,Adsorption temperature,15,35,859,864,2.895350326257157,720.0
+SI_ref_13,PB600,IBU,Single,Synthetic,1.0,7.0,150,0.025,0.12,,0.0,0,Adsorption temperature,15,35,882,887,15.56061035444184,720.0
+SI_ref_13,PB800,CBZ,Single,Synthetic,1.0,7.0,150,0.025,0.12,,0.0,0,Adsorption temperature,15,35,906,911,-4.4742729306487705,720.0
+SI_ref_13,PB800,IBU,Single,Synthetic,1.0,7.0,150,0.025,0.12,,0.0,0,Adsorption temperature,15,35,929,934,-12.65822784810126,720.0
+SI_ref_14,GCRB,ALA,Single,Synthetic,10.0,7.0,150,0.02,0.05,,0.0,0,Adsorption temperature,15,35,340,346,3.6718671069263076,1440.0
+SI_ref_14,GCRB,DIU,Single,Synthetic,10.0,7.0,150,0.02,0.05,,0.0,0,Adsorption temperature,15,35,362,368,3.578642870067139,1440.0
+SI_ref_14,GCRB,SIM,Single,Synthetic,10.0,7.0,150,0.02,0.05,,0.0,0,Adsorption temperature,15,35,384,390,2.147342287313825,1440.0
+SI_ref_14,GCRB-N,ALA,Single,Synthetic,10.0,7.0,150,0.02,0.05,,0.0,0,Adsorption temperature,15,35,406,408,16.507543147479186,1440.0
+SI_ref_14,GCRB-N,DIU,Single,Synthetic,10.0,7.0,150,0.02,0.05,,0.0,0,Adsorption temperature,15,35,447,449,11.733637339337088,1440.0
+SI_ref_14,GCRB-N,SIM,Single,Synthetic,10.0,7.0,150,0.02,0.05,,0.0,0,Adsorption temperature,15,35,488,490,20.180425829215213,1440.0
+SI_ref_15,PSB,CAR,Single,Synthetic,10.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,953,956,4.222509019940867,1440.0
+SI_ref_15,PSBOX-A,CAR,Single,Synthetic,10.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,1014,1017,1.5683158568818523,1440.0
+SI_ref_15,PSBOX-A,PYR,Single,Synthetic,10.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,1037,1040,2.709556332340657,1440.0
+SI_ref_15,PSBOX-A,TEB,Single,Synthetic,10.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,1061,1064,2.3328981955450026,1440.0
+SI_ref_16,C-Biochar,ATE,Single,Synthetic,10.0,7.0,200,0.025,0.05,,0.0,0,Adsorption temperature,15,35,231,238,6.666666666666665,30.0
+SI_ref_16,C-Biochar,CBZ,Single,Synthetic,10.0,7.0,200,0.025,0.05,,0.0,0,Adsorption temperature,15,35,248,255,15.608465608465604,30.0
+SI_ref_16,C-Biochar,IBU,Single,Synthetic,10.0,7.0,200,0.025,0.05,,0.0,0,Adsorption temperature,15,35,265,272,0.0,30.0
+SI_ref_18,NaOH-activated SCW biochars,DCF,Single,Lake water,30.0,7.0,160,0.05,0.15,,0.0,0,Adsorption temperature,15,35,659,686,17.492247150325753,1440.0
+SI_ref_18,NaOH-activated SCW biochars,DCF,Single,Secondary effluent,30.0,7.0,160,0.05,0.15,,0.0,0,Adsorption temperature,15,35,660,687,6.402628528745913,1440.0
+SI_ref_18,NaOH-activated SCW biochars,IBU,Single,Lake water,30.0,7.0,160,0.05,0.15,,0.0,0,Adsorption temperature,15,35,718,745,12.63312784810947,1440.0
+SI_ref_18,NaOH-activated SCW biochars,IBU,Single,Secondary effluent,30.0,7.0,160,0.05,0.15,,0.0,0,Adsorption temperature,15,35,719,746,4.49627338990779,1440.0
+SI_ref_18,NaOH-activated SCW biochars,NPX,Single,Lake water,30.0,7.0,160,0.05,0.15,,0.0,0,Adsorption temperature,15,35,777,791,4.568127319413551,1440.0
+SI_ref_18,NaOH-activated SCW biochars,NPX,Single,Secondary effluent,30.0,7.0,160,0.05,0.15,,0.0,0,Adsorption temperature,15,35,778,792,5.890431174687663,1440.0
+SI_ref_18,Pristine SCW Biochar,DCF,Single,Lake water,30.0,7.0,160,0.05,0.15,,0.0,0,Adsorption temperature,15,35,1216,1243,0.17472475842482682,1440.0
+SI_ref_18,Pristine SCW Biochar,DCF,Single,Secondary effluent,30.0,7.0,160,0.05,0.15,,0.0,0,Adsorption temperature,15,35,1217,1244,0.6066852343373452,1440.0
+SI_ref_18,Pristine SCW Biochar,IBU,Single,Lake water,30.0,7.0,160,0.05,0.15,,0.0,0,Adsorption temperature,15,35,1271,1298,0.2058201366876511,1440.0
+SI_ref_18,Pristine SCW Biochar,IBU,Single,Secondary effluent,30.0,7.0,160,0.05,0.15,,0.0,0,Adsorption temperature,15,35,1272,1299,0.9353737306943444,1440.0
+SI_ref_18,Pristine SCW Biochar,NPX,Single,Lake water,30.0,7.0,160,0.05,0.15,,0.0,0,Adsorption temperature,15,35,1326,1340,0.1771414071093158,1440.0
+SI_ref_18,Pristine SCW Biochar,NPX,Single,Secondary effluent,30.0,7.0,160,0.05,0.15,,0.0,0,Adsorption temperature,15,35,1327,1341,0.44394821468175527,1440.0
+SI_ref_19,AMCB,IBU,Single,Ground water,1.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,16,20,2.6827988455871963,1440.0
+SI_ref_19,AMCB,IBU,Single,Ground water,3.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,24,28,4.544726768787796,1441.0
+SI_ref_19,AMCB,IBU,Single,Ground water,5.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,30,34,4.194538739429654,1442.0
+SI_ref_19,AMCB,IBU,Single,Ground water,7.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,36,40,2.5401521725968212,1443.0
+SI_ref_19,AMCB,IBU,Single,Ground water,10.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,42,46,3.61311025449555,1444.0
+SI_ref_19,AMCB,IBU,Single,Ground water,1.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,48,52,2.985246927284103,1445.0
+SI_ref_19,AMCB,IBU,Single,Ground water,3.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,54,58,4.3429198032923635,1446.0
+SI_ref_19,AMCB,IBU,Single,Ground water,5.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,60,64,1.986308502694295,1447.0
+SI_ref_19,AMCB,IBU,Single,Ground water,7.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,66,70,6.667143347278165,1448.0
+SI_ref_19,AMCB,IBU,Single,Ground water,10.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,72,76,1.615075985388198,1449.0
+SI_ref_19,AMCB,IBU,Single,Ground water,1.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,78,82,2.5848755777109536,1450.0
+SI_ref_19,AMCB,IBU,Single,Ground water,3.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,84,88,5.324385961371567,1451.0
+SI_ref_19,AMCB,IBU,Single,Ground water,5.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,90,94,2.091021009505739,1452.0
+SI_ref_19,AMCB,IBU,Single,Ground water,7.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,96,100,4.2283453897008165,1453.0
+SI_ref_19,AMCB,IBU,Single,Ground water,10.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,110,114,3.7515550263375608,1454.0
+SI_ref_19,AMCB,IBU,Single,Lake water,1.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,17,21,7.393665810839497,1440.0
+SI_ref_19,AMCB,IBU,Single,Lake water,3.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,25,29,6.999638176033368,1441.0
+SI_ref_19,AMCB,IBU,Single,Lake water,5.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,31,35,5.3240994788933795,1442.0
+SI_ref_19,AMCB,IBU,Single,Lake water,7.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,37,41,3.111527803129621,1443.0
+SI_ref_19,AMCB,IBU,Single,Lake water,10.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,43,47,2.843808203924536,1444.0
+SI_ref_19,AMCB,IBU,Single,Lake water,1.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,49,53,2.3549533166974417,1445.0
+SI_ref_19,AMCB,IBU,Single,Lake water,3.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,55,59,6.847231512597757,1446.0
+SI_ref_19,AMCB,IBU,Single,Lake water,5.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,61,65,5.065004145621465,1447.0
+SI_ref_19,AMCB,IBU,Single,Lake water,7.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,67,71,2.9161600272827104,1448.0
+SI_ref_19,AMCB,IBU,Single,Lake water,10.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,73,77,2.7228441767035982,1449.0
+SI_ref_19,AMCB,IBU,Single,Lake water,1.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,79,83,6.504780482334042,1450.0
+SI_ref_19,AMCB,IBU,Single,Lake water,3.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,85,89,4.094445401297497,1451.0
+SI_ref_19,AMCB,IBU,Single,Lake water,5.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,91,95,5.457520397659227,1452.0
+SI_ref_19,AMCB,IBU,Single,Lake water,7.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,97,101,2.243505049990641,1453.0
+SI_ref_19,AMCB,IBU,Single,Lake water,10.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,111,115,2.4694445668326237,1454.0
+SI_ref_19,CB,IBU,Single,Ground water,1.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,296,300,3.501490107435734,1440.0
+SI_ref_19,CB,IBU,Single,Ground water,3.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,302,306,1.4978752794652217,1440.0
+SI_ref_19,CB,IBU,Single,Ground water,5.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,310,314,1.6532509906018955,1440.0
+SI_ref_19,CB,IBU,Single,Ground water,7.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,320,324,1.281849905192456,1440.0
+SI_ref_19,CB,IBU,Single,Ground water,10.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,326,330,1.4379086022590415,1440.0
+SI_ref_19,CB,IBU,Single,Lake water,1.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,297,301,3.64164473692995,1440.0
+SI_ref_19,CB,IBU,Single,Lake water,3.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,303,307,1.1286281976137569,1440.0
+SI_ref_19,CB,IBU,Single,Lake water,5.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,311,315,1.6150566835295255,1440.0
+SI_ref_19,CB,IBU,Single,Lake water,7.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,321,325,0.7925184645617422,1440.0
+SI_ref_19,CB,IBU,Single,Lake water,10.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,327,331,0.9987890245839903,1440.0
+SI_ref_19,MCB,IBU,Single,Ground water,1.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,537,541,4.185836242911057,1440.0
+SI_ref_19,MCB,IBU,Single,Ground water,3.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,545,549,2.048140897562689,1441.0
+SI_ref_19,MCB,IBU,Single,Ground water,5.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,551,555,1.6237582998647637,1442.0
+SI_ref_19,MCB,IBU,Single,Ground water,7.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,565,569,1.2973650902569744,1443.0
+SI_ref_19,MCB,IBU,Single,Ground water,10.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,571,575,1.0359643988778866,1444.0
+SI_ref_19,MCB,IBU,Single,Ground water,1.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,577,581,3.5950675089305384,1445.0
+SI_ref_19,MCB,IBU,Single,Ground water,3.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,583,587,1.8080015069257827,1446.0
+SI_ref_19,MCB,IBU,Single,Ground water,5.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,589,593,1.805106056630812,1447.0
+SI_ref_19,MCB,IBU,Single,Ground water,7.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,595,599,0.785767623968181,1448.0
+SI_ref_19,MCB,IBU,Single,Ground water,10.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,601,605,1.3996609416940808,1449.0
+SI_ref_19,MCB,IBU,Single,Ground water,1.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,607,611,3.317725887505296,1450.0
+SI_ref_19,MCB,IBU,Single,Ground water,3.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,613,617,1.8216983861093716,1451.0
+SI_ref_19,MCB,IBU,Single,Ground water,5.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,619,623,1.526182163111256,1452.0
+SI_ref_19,MCB,IBU,Single,Ground water,7.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,625,629,1.0765850831644275,1453.0
+SI_ref_19,MCB,IBU,Single,Ground water,10.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,631,635,1.0818381803870958,1454.0
+SI_ref_19,MCB,IBU,Single,Lake water,1.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,538,542,3.365844084578673,1440.0
+SI_ref_19,MCB,IBU,Single,Lake water,3.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,546,550,1.6809860837962987,1441.0
+SI_ref_19,MCB,IBU,Single,Lake water,5.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,552,556,1.435170090642901,1442.0
+SI_ref_19,MCB,IBU,Single,Lake water,7.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,566,570,1.273669953599943,1443.0
+SI_ref_19,MCB,IBU,Single,Lake water,10.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,572,576,0.9732797673645543,1444.0
+SI_ref_19,MCB,IBU,Single,Lake water,1.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,578,582,2.808768690344099,1445.0
+SI_ref_19,MCB,IBU,Single,Lake water,3.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,584,588,1.7991863633754046,1446.0
+SI_ref_19,MCB,IBU,Single,Lake water,5.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,590,594,1.7398712654359105,1447.0
+SI_ref_19,MCB,IBU,Single,Lake water,7.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,596,600,1.163789527170267,1448.0
+SI_ref_19,MCB,IBU,Single,Lake water,10.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,602,606,0.9817312275445467,1449.0
+SI_ref_19,MCB,IBU,Single,Lake water,1.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,608,612,3.8719703918513426,1450.0
+SI_ref_19,MCB,IBU,Single,Lake water,3.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,614,618,1.7731911138170187,1451.0
+SI_ref_19,MCB,IBU,Single,Lake water,5.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,620,624,1.5821373782849535,1452.0
+SI_ref_19,MCB,IBU,Single,Lake water,7.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,626,630,0.5333632405541966,1453.0
+SI_ref_19,MCB,IBU,Single,Lake water,10.0,7.0,150,0.05,0.05,,0.0,0,Adsorption temperature,15,35,632,636,1.3334842045814144,1454.0

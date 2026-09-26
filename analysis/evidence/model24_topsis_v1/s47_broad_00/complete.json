@@ -1,0 +1,11 @@
+{
+  "seed": 47,
+  "track": "broad",
+  "fold": 0,
+  "selected": {
+    "Point": "XGBoost_2",
+    "Contrast": "BayesianRidge_1",
+    "TOPSIS": "AdaBoost_1"
+  },
+  "methods": 24
+}

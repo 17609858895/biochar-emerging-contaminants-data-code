@@ -1,0 +1,2 @@
+w_point,w_contrast,w_loss,point_mae_median,point_mae_min,point_mae_max,contrast_mae_median,contrast_mae_min,contrast_mae_max,selection_loss_median,selection_loss_min,selection_loss_max,wrong_median,wrong_min,wrong_max,winner_retention_pct
+0.3333333333333333,0.3333333333333333,0.33333333333333337,0.12492523496294552,0.1227884493229856,0.14096397325528226,0.161845163908086,0.15384795247891236,0.17629900396095893,0.00011717579955834216,0.00010926997360425936,0.0001214340210263712,5.0,2.0,6.0,100.0

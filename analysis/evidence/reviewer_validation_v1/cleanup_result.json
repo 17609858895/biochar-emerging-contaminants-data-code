@@ -1,0 +1,24 @@
+{
+  "action": "SendToRecycleBin",
+  "directories": [
+    "C:\\Users\\17609\\AppData\\Local\\Temp\\biochar_ALE_20260916\\backup",
+    "C:\\Users\\17609\\AppData\\Local\\Temp\\biochar_CEJ_polish_20260916\\backup",
+    "C:\\Users\\17609\\AppData\\Local\\Temp\\biochar_citation_expansion_20260916\\backup",
+    "C:\\Users\\17609\\AppData\\Local\\Temp\\biochar_citation_expansion_20260916\\publication_backup",
+    "C:\\Users\\17609\\AppData\\Local\\Temp\\biochar_discussion_chain_20260915\\backup_20260916_000238",
+    "C:\\Users\\17609\\AppData\\Local\\Temp\\biochar_Fig6_3x3_20260916\\backup",
+    "C:\\Users\\17609\\AppData\\Local\\Temp\\biochar_main_promotions_20260916\\backup",
+    "C:\\Users\\17609\\AppData\\Local\\Temp\\biochar_main_promotions_20260916\\publication_backup",
+    "C:\\Users\\17609\\AppData\\Local\\Temp\\biochar_panel_integration_20260916\\backup",
+    "C:\\Users\\17609\\AppData\\Local\\Temp\\biochar_panel_integration_20260916\\metadata_backup",
+    "C:\\Users\\17609\\AppData\\Local\\Temp\\biochar_panel_integration_20260916\\publication_backup",
+    "C:\\Users\\17609\\AppData\\Local\\Temp\\biochar_panel_letters_20260916\\backup",
+    "C:\\Users\\17609\\AppData\\Local\\Temp\\biochar_panel_letters_20260916\\publication_backup",
+    "C:\\Users\\17609\\AppData\\Local\\Temp\\biochar_topsis3d_20260917\\backup",
+    "C:\\Users\\17609\\AppData\\Local\\Temp\\biochar_topsis3d_20260917\\publication_backup"
+  ],
+  "directory_count": 15,
+  "files": 164,
+  "bytes": 1362770530,
+  "preserved_current_revision_backup": "C:\\Users\\17609\\AppData\\Local\\Temp\\biochar_review_20260917\\baseline_core"
+}

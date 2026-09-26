@@ -1,0 +1,19 @@
+{
+  "original_folds": 51,
+  "additional_folds": 70,
+  "total_nested_assessments": 121,
+  "original_estimator_fits": 13662,
+  "additional_estimator_fits": 16100,
+  "total_benchmark_fits": 29762,
+  "additional_constant_calculations": 350,
+  "grouped_partition_repeats": 10,
+  "source_partition_repeats": 1,
+  "source_fitting_seeds": 3,
+  "source_groups": 7,
+  "all_group_boundaries_disjoint": true,
+  "all_pairs_kept_together": true,
+  "all_outer_rows_predicted_once_per_repeat": true,
+  "solver_warnings": [],
+  "new_observations": 0,
+  "scope": "Descriptive repeated-partition sensitivity; datasets and training observations overlap"
+}

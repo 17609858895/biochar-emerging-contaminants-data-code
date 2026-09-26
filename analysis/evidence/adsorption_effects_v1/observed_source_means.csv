@@ -1,0 +1,18 @@
+feature,source_candidate,mean_pp,n_contrasts
+Adsorption temperature,SI_ref_13,0.33086497548724125,4
+Adsorption temperature,SI_ref_14,9.63657643005646,6
+Adsorption temperature,SI_ref_15,3.2130495740983522,4
+Adsorption temperature,SI_ref_16,7.425044091710756,3
+Adsorption temperature,SI_ref_18,4.502210741093782,12
+Adsorption temperature,SI_ref_19,2.5208112276517762,70
+Adsorption time,SI_ref_13,21.6931466469657,4
+Adsorption time,SI_ref_14,21.86802495429965,6
+Adsorption time,SI_ref_15,24.044658187387242,6
+Adsorption time,SI_ref_17,13.821002523953988,12
+Adsorption time,SI_ref_18,7.157461381640406,12
+Adsorption time,SI_ref_19,10.214545520757552,6
+Solution pH,SI_ref_14,-0.20012610136525666,6
+Solution pH,SI_ref_15,-1.7485554316104142,4
+Solution pH,SI_ref_17,-4.917462538475697,11
+Solution pH,SI_ref_18,-6.20996961863082,12
+Solution pH,SI_ref_19,-4.192647909520653,6

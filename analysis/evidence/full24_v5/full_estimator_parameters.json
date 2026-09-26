@@ -1,0 +1,1178 @@
+[
+  {
+    "id": "OLS_1",
+    "method": "OLS",
+    "family": "Linear",
+    "parameters": {},
+    "full_parameters": {}
+  },
+  {
+    "id": "Ridge_1",
+    "method": "Ridge",
+    "family": "Linear",
+    "parameters": {
+      "alpha": 1
+    },
+    "full_parameters": {
+      "alpha": 1,
+      "copy_X": true,
+      "fit_intercept": true,
+      "max_iter": null,
+      "positive": false,
+      "random_state": null,
+      "solver": "auto",
+      "tol": 0.0001
+    }
+  },
+  {
+    "id": "Ridge_2",
+    "method": "Ridge",
+    "family": "Linear",
+    "parameters": {
+      "alpha": 10
+    },
+    "full_parameters": {
+      "alpha": 10,
+      "copy_X": true,
+      "fit_intercept": true,
+      "max_iter": null,
+      "positive": false,
+      "random_state": null,
+      "solver": "auto",
+      "tol": 0.0001
+    }
+  },
+  {
+    "id": "Lasso_1",
+    "method": "Lasso",
+    "family": "Linear",
+    "parameters": {
+      "alpha": 0.001
+    },
+    "full_parameters": {
+      "alpha": 0.001,
+      "copy_X": true,
+      "fit_intercept": true,
+      "max_iter": 20000,
+      "positive": false,
+      "precompute": false,
+      "random_state": null,
+      "selection": "cyclic",
+      "tol": 1e-05,
+      "warm_start": false
+    }
+  },
+  {
+    "id": "Lasso_2",
+    "method": "Lasso",
+    "family": "Linear",
+    "parameters": {
+      "alpha": 0.01
+    },
+    "full_parameters": {
+      "alpha": 0.01,
+      "copy_X": true,
+      "fit_intercept": true,
+      "max_iter": 20000,
+      "positive": false,
+      "precompute": false,
+      "random_state": null,
+      "selection": "cyclic",
+      "tol": 1e-05,
+      "warm_start": false
+    }
+  },
+  {
+    "id": "ElasticNet_1",
+    "method": "ElasticNet",
+    "family": "Linear",
+    "parameters": {
+      "alpha": 0.001,
+      "l1_ratio": 0.5
+    },
+    "full_parameters": {
+      "alpha": 0.001,
+      "copy_X": true,
+      "fit_intercept": true,
+      "l1_ratio": 0.5,
+      "max_iter": 20000,
+      "positive": false,
+      "precompute": false,
+      "random_state": null,
+      "selection": "cyclic",
+      "tol": 1e-05,
+      "warm_start": false
+    }
+  },
+  {
+    "id": "ElasticNet_2",
+    "method": "ElasticNet",
+    "family": "Linear",
+    "parameters": {
+      "alpha": 0.01,
+      "l1_ratio": 0.5
+    },
+    "full_parameters": {
+      "alpha": 0.01,
+      "copy_X": true,
+      "fit_intercept": true,
+      "l1_ratio": 0.5,
+      "max_iter": 20000,
+      "positive": false,
+      "precompute": false,
+      "random_state": null,
+      "selection": "cyclic",
+      "tol": 1e-05,
+      "warm_start": false
+    }
+  },
+  {
+    "id": "BayesianRidge_1",
+    "method": "BayesianRidge",
+    "family": "Bayesian linear",
+    "parameters": {},
+    "full_parameters": {
+      "alpha_1": 1e-06,
+      "alpha_2": 1e-06,
+      "alpha_init": null,
+      "compute_score": false,
+      "copy_X": true,
+      "fit_intercept": true,
+      "lambda_1": 1e-06,
+      "lambda_2": 1e-06,
+      "lambda_init": null,
+      "max_iter": 500,
+      "tol": 0.001,
+      "verbose": false
+    }
+  },
+  {
+    "id": "ARD_1",
+    "method": "ARD",
+    "family": "Bayesian linear",
+    "parameters": {},
+    "full_parameters": {
+      "alpha_1": 1e-06,
+      "alpha_2": 1e-06,
+      "compute_score": false,
+      "copy_X": true,
+      "fit_intercept": true,
+      "lambda_1": 1e-06,
+      "lambda_2": 1e-06,
+      "max_iter": 500,
+      "threshold_lambda": 10000.0,
+      "tol": 0.001,
+      "verbose": false
+    }
+  },
+  {
+    "id": "Huber_1",
+    "method": "Huber",
+    "family": "Robust linear",
+    "parameters": {
+      "epsilon": 1.35
+    },
+    "full_parameters": {
+      "alpha": 0.001,
+      "epsilon": 1.35,
+      "fit_intercept": true,
+      "max_iter": 2000,
+      "tol": 1e-05,
+      "warm_start": false
+    }
+  },
+  {
+    "id": "Huber_2",
+    "method": "Huber",
+    "family": "Robust linear",
+    "parameters": {
+      "epsilon": 1.8
+    },
+    "full_parameters": {
+      "alpha": 0.001,
+      "epsilon": 1.8,
+      "fit_intercept": true,
+      "max_iter": 2000,
+      "tol": 1e-05,
+      "warm_start": false
+    }
+  },
+  {
+    "id": "PLS_1",
+    "method": "PLS",
+    "family": "Latent linear",
+    "parameters": {
+      "n_components": 3
+    },
+    "full_parameters": {
+      "copy": true,
+      "max_iter": 1000,
+      "n_components": 3,
+      "scale": false,
+      "tol": 1e-06
+    }
+  },
+  {
+    "id": "PLS_2",
+    "method": "PLS",
+    "family": "Latent linear",
+    "parameters": {
+      "n_components": 6
+    },
+    "full_parameters": {
+      "copy": true,
+      "max_iter": 1000,
+      "n_components": 6,
+      "scale": false,
+      "tol": 1e-06
+    }
+  },
+  {
+    "id": "PCR_1",
+    "method": "PCR",
+    "family": "Latent linear",
+    "parameters": {
+      "n_components": 5
+    },
+    "full_parameters": {
+      "memory": null,
+      "steps": [
+        [
+          "pca",
+          "PCA(n_components=5, svd_solver='full')"
+        ],
+        [
+          "stableols",
+          "StableOLS()"
+        ]
+      ],
+      "verbose": false,
+      "pca": "PCA(n_components=5, svd_solver='full')",
+      "stableols": "StableOLS()",
+      "pca__copy": true,
+      "pca__iterated_power": "auto",
+      "pca__n_components": 5,
+      "pca__n_oversamples": 10,
+      "pca__power_iteration_normalizer": "auto",
+      "pca__random_state": null,
+      "pca__svd_solver": "full",
+      "pca__tol": 0.0,
+      "pca__whiten": false
+    }
+  },
+  {
+    "id": "PCR_2",
+    "method": "PCR",
+    "family": "Latent linear",
+    "parameters": {
+      "n_components": 10
+    },
+    "full_parameters": {
+      "memory": null,
+      "steps": [
+        [
+          "pca",
+          "PCA(n_components=10, svd_solver='full')"
+        ],
+        [
+          "stableols",
+          "StableOLS()"
+        ]
+      ],
+      "verbose": false,
+      "pca": "PCA(n_components=10, svd_solver='full')",
+      "stableols": "StableOLS()",
+      "pca__copy": true,
+      "pca__iterated_power": "auto",
+      "pca__n_components": 10,
+      "pca__n_oversamples": 10,
+      "pca__power_iteration_normalizer": "auto",
+      "pca__random_state": null,
+      "pca__svd_solver": "full",
+      "pca__tol": 0.0,
+      "pca__whiten": false
+    }
+  },
+  {
+    "id": "SplineRidge_1",
+    "method": "SplineRidge",
+    "family": "Spline",
+    "parameters": {
+      "knots": 3,
+      "alpha": 1
+    },
+    "full_parameters": {
+      "memory": null,
+      "steps": [
+        [
+          "splinetransformer",
+          "SplineTransformer(degree=2, include_bias=False, n_knots=3)"
+        ],
+        [
+          "standardscaler",
+          "StandardScaler()"
+        ],
+        [
+          "ridge",
+          "Ridge(alpha=1)"
+        ]
+      ],
+      "verbose": false,
+      "splinetransformer": "SplineTransformer(degree=2, include_bias=False, n_knots=3)",
+      "standardscaler": "StandardScaler()",
+      "ridge": "Ridge(alpha=1)",
+      "splinetransformer__degree": 2,
+      "splinetransformer__extrapolation": "constant",
+      "splinetransformer__include_bias": false,
+      "splinetransformer__knots": "uniform",
+      "splinetransformer__n_knots": 3,
+      "splinetransformer__order": "C",
+      "splinetransformer__sparse_output": false,
+      "standardscaler__copy": true,
+      "standardscaler__with_mean": true,
+      "standardscaler__with_std": true,
+      "ridge__alpha": 1,
+      "ridge__copy_X": true,
+      "ridge__fit_intercept": true,
+      "ridge__max_iter": null,
+      "ridge__positive": false,
+      "ridge__random_state": null,
+      "ridge__solver": "auto",
+      "ridge__tol": 0.0001
+    }
+  },
+  {
+    "id": "SplineRidge_2",
+    "method": "SplineRidge",
+    "family": "Spline",
+    "parameters": {
+      "knots": 5,
+      "alpha": 10
+    },
+    "full_parameters": {
+      "memory": null,
+      "steps": [
+        [
+          "splinetransformer",
+          "SplineTransformer(degree=2, include_bias=False)"
+        ],
+        [
+          "standardscaler",
+          "StandardScaler()"
+        ],
+        [
+          "ridge",
+          "Ridge(alpha=10)"
+        ]
+      ],
+      "verbose": false,
+      "splinetransformer": "SplineTransformer(degree=2, include_bias=False)",
+      "standardscaler": "StandardScaler()",
+      "ridge": "Ridge(alpha=10)",
+      "splinetransformer__degree": 2,
+      "splinetransformer__extrapolation": "constant",
+      "splinetransformer__include_bias": false,
+      "splinetransformer__knots": "uniform",
+      "splinetransformer__n_knots": 5,
+      "splinetransformer__order": "C",
+      "splinetransformer__sparse_output": false,
+      "standardscaler__copy": true,
+      "standardscaler__with_mean": true,
+      "standardscaler__with_std": true,
+      "ridge__alpha": 10,
+      "ridge__copy_X": true,
+      "ridge__fit_intercept": true,
+      "ridge__max_iter": null,
+      "ridge__positive": false,
+      "ridge__random_state": null,
+      "ridge__solver": "auto",
+      "ridge__tol": 0.0001
+    }
+  },
+  {
+    "id": "KernelRidge_1",
+    "method": "KernelRidge",
+    "family": "Kernel",
+    "parameters": {
+      "alpha": 0.1,
+      "gamma": 0.03
+    },
+    "full_parameters": {
+      "alpha": 0.1,
+      "coef0": 1,
+      "degree": 3,
+      "gamma": 0.03,
+      "kernel": "rbf",
+      "kernel_params": null
+    }
+  },
+  {
+    "id": "KernelRidge_2",
+    "method": "KernelRidge",
+    "family": "Kernel",
+    "parameters": {
+      "alpha": 1,
+      "gamma": 0.1
+    },
+    "full_parameters": {
+      "alpha": 1,
+      "coef0": 1,
+      "degree": 3,
+      "gamma": 0.1,
+      "kernel": "rbf",
+      "kernel_params": null
+    }
+  },
+  {
+    "id": "SVR_1",
+    "method": "SVR",
+    "family": "Kernel",
+    "parameters": {
+      "C": 1,
+      "gamma": "scale"
+    },
+    "full_parameters": {
+      "C": 1,
+      "cache_size": 200,
+      "coef0": 0.0,
+      "degree": 3,
+      "epsilon": 0.02,
+      "gamma": "scale",
+      "kernel": "rbf",
+      "max_iter": -1,
+      "shrinking": true,
+      "tol": 0.001,
+      "verbose": false
+    }
+  },
+  {
+    "id": "SVR_2",
+    "method": "SVR",
+    "family": "Kernel",
+    "parameters": {
+      "C": 10,
+      "gamma": "scale"
+    },
+    "full_parameters": {
+      "C": 10,
+      "cache_size": 200,
+      "coef0": 0.0,
+      "degree": 3,
+      "epsilon": 0.02,
+      "gamma": "scale",
+      "kernel": "rbf",
+      "max_iter": -1,
+      "shrinking": true,
+      "tol": 0.001,
+      "verbose": false
+    }
+  },
+  {
+    "id": "KNN_1",
+    "method": "KNN",
+    "family": "Neighbour",
+    "parameters": {
+      "n_neighbors": 5
+    },
+    "full_parameters": {
+      "algorithm": "auto",
+      "leaf_size": 30,
+      "metric": "minkowski",
+      "metric_params": null,
+      "n_jobs": null,
+      "n_neighbors": 5,
+      "p": 2,
+      "weights": "distance"
+    }
+  },
+  {
+    "id": "KNN_2",
+    "method": "KNN",
+    "family": "Neighbour",
+    "parameters": {
+      "n_neighbors": 15
+    },
+    "full_parameters": {
+      "algorithm": "auto",
+      "leaf_size": 30,
+      "metric": "minkowski",
+      "metric_params": null,
+      "n_jobs": null,
+      "n_neighbors": 15,
+      "p": 2,
+      "weights": "distance"
+    }
+  },
+  {
+    "id": "DecisionTree_1",
+    "method": "DecisionTree",
+    "family": "Tree",
+    "parameters": {
+      "max_depth": 4
+    },
+    "full_parameters": {
+      "ccp_alpha": 0.0,
+      "criterion": "squared_error",
+      "max_depth": 4,
+      "max_features": null,
+      "max_leaf_nodes": null,
+      "min_impurity_decrease": 0.0,
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "min_weight_fraction_leaf": 0.0,
+      "monotonic_cst": null,
+      "random_state": 11,
+      "splitter": "best"
+    }
+  },
+  {
+    "id": "DecisionTree_2",
+    "method": "DecisionTree",
+    "family": "Tree",
+    "parameters": {
+      "max_depth": 8
+    },
+    "full_parameters": {
+      "ccp_alpha": 0.0,
+      "criterion": "squared_error",
+      "max_depth": 8,
+      "max_features": null,
+      "max_leaf_nodes": null,
+      "min_impurity_decrease": 0.0,
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "min_weight_fraction_leaf": 0.0,
+      "monotonic_cst": null,
+      "random_state": 11,
+      "splitter": "best"
+    }
+  },
+  {
+    "id": "RandomForest_1",
+    "method": "RandomForest",
+    "family": "Bagged trees",
+    "parameters": {
+      "max_depth": 8
+    },
+    "full_parameters": {
+      "bootstrap": true,
+      "ccp_alpha": 0.0,
+      "criterion": "squared_error",
+      "max_depth": 8,
+      "max_features": 1.0,
+      "max_leaf_nodes": null,
+      "max_samples": null,
+      "min_impurity_decrease": 0.0,
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "min_weight_fraction_leaf": 0.0,
+      "monotonic_cst": null,
+      "n_estimators": 200,
+      "n_jobs": 1,
+      "oob_score": false,
+      "random_state": 11,
+      "verbose": 0,
+      "warm_start": false
+    }
+  },
+  {
+    "id": "RandomForest_2",
+    "method": "RandomForest",
+    "family": "Bagged trees",
+    "parameters": {
+      "max_depth": null
+    },
+    "full_parameters": {
+      "bootstrap": true,
+      "ccp_alpha": 0.0,
+      "criterion": "squared_error",
+      "max_depth": null,
+      "max_features": 1.0,
+      "max_leaf_nodes": null,
+      "max_samples": null,
+      "min_impurity_decrease": 0.0,
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "min_weight_fraction_leaf": 0.0,
+      "monotonic_cst": null,
+      "n_estimators": 200,
+      "n_jobs": 1,
+      "oob_score": false,
+      "random_state": 11,
+      "verbose": 0,
+      "warm_start": false
+    }
+  },
+  {
+    "id": "ExtraTrees_1",
+    "method": "ExtraTrees",
+    "family": "Bagged trees",
+    "parameters": {
+      "max_depth": 8
+    },
+    "full_parameters": {
+      "bootstrap": false,
+      "ccp_alpha": 0.0,
+      "criterion": "squared_error",
+      "max_depth": 8,
+      "max_features": 1.0,
+      "max_leaf_nodes": null,
+      "max_samples": null,
+      "min_impurity_decrease": 0.0,
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "min_weight_fraction_leaf": 0.0,
+      "monotonic_cst": null,
+      "n_estimators": 200,
+      "n_jobs": 1,
+      "oob_score": false,
+      "random_state": 11,
+      "verbose": 0,
+      "warm_start": false
+    }
+  },
+  {
+    "id": "ExtraTrees_2",
+    "method": "ExtraTrees",
+    "family": "Bagged trees",
+    "parameters": {
+      "max_depth": null
+    },
+    "full_parameters": {
+      "bootstrap": false,
+      "ccp_alpha": 0.0,
+      "criterion": "squared_error",
+      "max_depth": null,
+      "max_features": 1.0,
+      "max_leaf_nodes": null,
+      "max_samples": null,
+      "min_impurity_decrease": 0.0,
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "min_weight_fraction_leaf": 0.0,
+      "monotonic_cst": null,
+      "n_estimators": 200,
+      "n_jobs": 1,
+      "oob_score": false,
+      "random_state": 11,
+      "verbose": 0,
+      "warm_start": false
+    }
+  },
+  {
+    "id": "Bagging_1",
+    "method": "Bagging",
+    "family": "Bagged trees",
+    "parameters": {
+      "max_samples": 0.7
+    },
+    "full_parameters": {
+      "bootstrap": true,
+      "bootstrap_features": false,
+      "estimator__ccp_alpha": 0.0,
+      "estimator__criterion": "squared_error",
+      "estimator__max_depth": 8,
+      "estimator__max_features": null,
+      "estimator__max_leaf_nodes": null,
+      "estimator__min_impurity_decrease": 0.0,
+      "estimator__min_samples_leaf": 3,
+      "estimator__min_samples_split": 2,
+      "estimator__min_weight_fraction_leaf": 0.0,
+      "estimator__monotonic_cst": null,
+      "estimator__random_state": null,
+      "estimator__splitter": "best",
+      "estimator": "DecisionTreeRegressor(max_depth=8, min_samples_leaf=3)",
+      "max_features": 1.0,
+      "max_samples": 0.7,
+      "n_estimators": 100,
+      "n_jobs": 1,
+      "oob_score": false,
+      "random_state": 11,
+      "verbose": 0,
+      "warm_start": false
+    }
+  },
+  {
+    "id": "Bagging_2",
+    "method": "Bagging",
+    "family": "Bagged trees",
+    "parameters": {
+      "max_samples": 1.0
+    },
+    "full_parameters": {
+      "bootstrap": true,
+      "bootstrap_features": false,
+      "estimator__ccp_alpha": 0.0,
+      "estimator__criterion": "squared_error",
+      "estimator__max_depth": 8,
+      "estimator__max_features": null,
+      "estimator__max_leaf_nodes": null,
+      "estimator__min_impurity_decrease": 0.0,
+      "estimator__min_samples_leaf": 3,
+      "estimator__min_samples_split": 2,
+      "estimator__min_weight_fraction_leaf": 0.0,
+      "estimator__monotonic_cst": null,
+      "estimator__random_state": null,
+      "estimator__splitter": "best",
+      "estimator": "DecisionTreeRegressor(max_depth=8, min_samples_leaf=3)",
+      "max_features": 1.0,
+      "max_samples": 1.0,
+      "n_estimators": 100,
+      "n_jobs": 1,
+      "oob_score": false,
+      "random_state": 11,
+      "verbose": 0,
+      "warm_start": false
+    }
+  },
+  {
+    "id": "GradientBoosting_1",
+    "method": "GradientBoosting",
+    "family": "Boosted trees",
+    "parameters": {
+      "max_depth": 2
+    },
+    "full_parameters": {
+      "alpha": 0.9,
+      "ccp_alpha": 0.0,
+      "criterion": "friedman_mse",
+      "init": null,
+      "learning_rate": 0.05,
+      "loss": "squared_error",
+      "max_depth": 2,
+      "max_features": null,
+      "max_leaf_nodes": null,
+      "min_impurity_decrease": 0.0,
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "min_weight_fraction_leaf": 0.0,
+      "n_estimators": 200,
+      "n_iter_no_change": null,
+      "random_state": 11,
+      "subsample": 1.0,
+      "tol": 0.0001,
+      "validation_fraction": 0.1,
+      "verbose": 0,
+      "warm_start": false
+    }
+  },
+  {
+    "id": "GradientBoosting_2",
+    "method": "GradientBoosting",
+    "family": "Boosted trees",
+    "parameters": {
+      "max_depth": 3
+    },
+    "full_parameters": {
+      "alpha": 0.9,
+      "ccp_alpha": 0.0,
+      "criterion": "friedman_mse",
+      "init": null,
+      "learning_rate": 0.05,
+      "loss": "squared_error",
+      "max_depth": 3,
+      "max_features": null,
+      "max_leaf_nodes": null,
+      "min_impurity_decrease": 0.0,
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "min_weight_fraction_leaf": 0.0,
+      "n_estimators": 200,
+      "n_iter_no_change": null,
+      "random_state": 11,
+      "subsample": 1.0,
+      "tol": 0.0001,
+      "validation_fraction": 0.1,
+      "verbose": 0,
+      "warm_start": false
+    }
+  },
+  {
+    "id": "HistGradientBoosting_1",
+    "method": "HistGradientBoosting",
+    "family": "Boosted trees",
+    "parameters": {
+      "max_leaf_nodes": 15
+    },
+    "full_parameters": {
+      "categorical_features": "warn",
+      "early_stopping": false,
+      "interaction_cst": null,
+      "l2_regularization": 1,
+      "learning_rate": 0.05,
+      "loss": "squared_error",
+      "max_bins": 255,
+      "max_depth": null,
+      "max_features": 1.0,
+      "max_iter": 200,
+      "max_leaf_nodes": 15,
+      "min_samples_leaf": 20,
+      "monotonic_cst": null,
+      "n_iter_no_change": 10,
+      "quantile": null,
+      "random_state": 11,
+      "scoring": "loss",
+      "tol": 1e-07,
+      "validation_fraction": 0.1,
+      "verbose": 0,
+      "warm_start": false
+    }
+  },
+  {
+    "id": "HistGradientBoosting_2",
+    "method": "HistGradientBoosting",
+    "family": "Boosted trees",
+    "parameters": {
+      "max_leaf_nodes": 31
+    },
+    "full_parameters": {
+      "categorical_features": "warn",
+      "early_stopping": false,
+      "interaction_cst": null,
+      "l2_regularization": 1,
+      "learning_rate": 0.05,
+      "loss": "squared_error",
+      "max_bins": 255,
+      "max_depth": null,
+      "max_features": 1.0,
+      "max_iter": 200,
+      "max_leaf_nodes": 31,
+      "min_samples_leaf": 20,
+      "monotonic_cst": null,
+      "n_iter_no_change": 10,
+      "quantile": null,
+      "random_state": 11,
+      "scoring": "loss",
+      "tol": 1e-07,
+      "validation_fraction": 0.1,
+      "verbose": 0,
+      "warm_start": false
+    }
+  },
+  {
+    "id": "AdaBoost_1",
+    "method": "AdaBoost",
+    "family": "Boosted trees",
+    "parameters": {
+      "learning_rate": 0.03
+    },
+    "full_parameters": {
+      "estimator__ccp_alpha": 0.0,
+      "estimator__criterion": "squared_error",
+      "estimator__max_depth": 3,
+      "estimator__max_features": null,
+      "estimator__max_leaf_nodes": null,
+      "estimator__min_impurity_decrease": 0.0,
+      "estimator__min_samples_leaf": 3,
+      "estimator__min_samples_split": 2,
+      "estimator__min_weight_fraction_leaf": 0.0,
+      "estimator__monotonic_cst": null,
+      "estimator__random_state": null,
+      "estimator__splitter": "best",
+      "estimator": "DecisionTreeRegressor(max_depth=3, min_samples_leaf=3)",
+      "learning_rate": 0.03,
+      "loss": "linear",
+      "n_estimators": 150,
+      "random_state": 11
+    }
+  },
+  {
+    "id": "AdaBoost_2",
+    "method": "AdaBoost",
+    "family": "Boosted trees",
+    "parameters": {
+      "learning_rate": 0.1
+    },
+    "full_parameters": {
+      "estimator__ccp_alpha": 0.0,
+      "estimator__criterion": "squared_error",
+      "estimator__max_depth": 3,
+      "estimator__max_features": null,
+      "estimator__max_leaf_nodes": null,
+      "estimator__min_impurity_decrease": 0.0,
+      "estimator__min_samples_leaf": 3,
+      "estimator__min_samples_split": 2,
+      "estimator__min_weight_fraction_leaf": 0.0,
+      "estimator__monotonic_cst": null,
+      "estimator__random_state": null,
+      "estimator__splitter": "best",
+      "estimator": "DecisionTreeRegressor(max_depth=3, min_samples_leaf=3)",
+      "learning_rate": 0.1,
+      "loss": "linear",
+      "n_estimators": 150,
+      "random_state": 11
+    }
+  },
+  {
+    "id": "XGBoost_1",
+    "method": "XGBoost",
+    "family": "Boosted trees",
+    "parameters": {
+      "max_depth": 3
+    },
+    "full_parameters": {
+      "objective": "reg:squarederror",
+      "base_score": null,
+      "booster": null,
+      "callbacks": null,
+      "colsample_bylevel": null,
+      "colsample_bynode": null,
+      "colsample_bytree": null,
+      "device": null,
+      "early_stopping_rounds": null,
+      "enable_categorical": false,
+      "eval_metric": null,
+      "feature_types": null,
+      "feature_weights": null,
+      "gamma": null,
+      "grow_policy": null,
+      "importance_type": null,
+      "interaction_constraints": null,
+      "learning_rate": 0.05,
+      "max_bin": null,
+      "max_cat_threshold": null,
+      "max_cat_to_onehot": null,
+      "max_delta_step": null,
+      "max_depth": 3,
+      "max_leaves": null,
+      "min_child_weight": null,
+      "missing": NaN,
+      "monotone_constraints": null,
+      "multi_strategy": null,
+      "n_estimators": 250,
+      "n_jobs": 1,
+      "num_parallel_tree": null,
+      "random_state": 11,
+      "reg_alpha": null,
+      "reg_lambda": 1,
+      "sampling_method": null,
+      "scale_pos_weight": null,
+      "subsample": null,
+      "tree_method": null,
+      "validate_parameters": null,
+      "verbosity": 0
+    }
+  },
+  {
+    "id": "XGBoost_2",
+    "method": "XGBoost",
+    "family": "Boosted trees",
+    "parameters": {
+      "max_depth": 5
+    },
+    "full_parameters": {
+      "objective": "reg:squarederror",
+      "base_score": null,
+      "booster": null,
+      "callbacks": null,
+      "colsample_bylevel": null,
+      "colsample_bynode": null,
+      "colsample_bytree": null,
+      "device": null,
+      "early_stopping_rounds": null,
+      "enable_categorical": false,
+      "eval_metric": null,
+      "feature_types": null,
+      "feature_weights": null,
+      "gamma": null,
+      "grow_policy": null,
+      "importance_type": null,
+      "interaction_constraints": null,
+      "learning_rate": 0.05,
+      "max_bin": null,
+      "max_cat_threshold": null,
+      "max_cat_to_onehot": null,
+      "max_delta_step": null,
+      "max_depth": 5,
+      "max_leaves": null,
+      "min_child_weight": null,
+      "missing": NaN,
+      "monotone_constraints": null,
+      "multi_strategy": null,
+      "n_estimators": 250,
+      "n_jobs": 1,
+      "num_parallel_tree": null,
+      "random_state": 11,
+      "reg_alpha": null,
+      "reg_lambda": 1,
+      "sampling_method": null,
+      "scale_pos_weight": null,
+      "subsample": null,
+      "tree_method": null,
+      "validate_parameters": null,
+      "verbosity": 0
+    }
+  },
+  {
+    "id": "LightGBM_1",
+    "method": "LightGBM",
+    "family": "Boosted trees",
+    "parameters": {
+      "num_leaves": 15
+    },
+    "full_parameters": {
+      "boosting_type": "gbdt",
+      "class_weight": null,
+      "colsample_bytree": 1.0,
+      "importance_type": "split",
+      "learning_rate": 0.05,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "min_child_weight": 0.001,
+      "min_split_gain": 0.0,
+      "n_estimators": 250,
+      "n_jobs": 1,
+      "num_leaves": 15,
+      "objective": null,
+      "random_state": 11,
+      "reg_alpha": 0.0,
+      "reg_lambda": 1,
+      "subsample": 1.0,
+      "subsample_for_bin": 200000,
+      "subsample_freq": 0,
+      "verbosity": -1
+    }
+  },
+  {
+    "id": "LightGBM_2",
+    "method": "LightGBM",
+    "family": "Boosted trees",
+    "parameters": {
+      "num_leaves": 31
+    },
+    "full_parameters": {
+      "boosting_type": "gbdt",
+      "class_weight": null,
+      "colsample_bytree": 1.0,
+      "importance_type": "split",
+      "learning_rate": 0.05,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "min_child_weight": 0.001,
+      "min_split_gain": 0.0,
+      "n_estimators": 250,
+      "n_jobs": 1,
+      "num_leaves": 31,
+      "objective": null,
+      "random_state": 11,
+      "reg_alpha": 0.0,
+      "reg_lambda": 1,
+      "subsample": 1.0,
+      "subsample_for_bin": 200000,
+      "subsample_freq": 0,
+      "verbosity": -1
+    }
+  },
+  {
+    "id": "CatBoost_1",
+    "method": "CatBoost",
+    "family": "Boosted trees",
+    "parameters": {
+      "depth": 3
+    },
+    "full_parameters": {
+      "iterations": 300,
+      "learning_rate": 0.05,
+      "depth": 3,
+      "l2_leaf_reg": 5,
+      "loss_function": "RMSE",
+      "thread_count": 1,
+      "random_seed": 11,
+      "verbose": false,
+      "allow_writing_files": false
+    }
+  },
+  {
+    "id": "CatBoost_2",
+    "method": "CatBoost",
+    "family": "Boosted trees",
+    "parameters": {
+      "depth": 5
+    },
+    "full_parameters": {
+      "iterations": 300,
+      "learning_rate": 0.05,
+      "depth": 5,
+      "l2_leaf_reg": 5,
+      "loss_function": "RMSE",
+      "thread_count": 1,
+      "random_seed": 11,
+      "verbose": false,
+      "allow_writing_files": false
+    }
+  },
+  {
+    "id": "MLP_1",
+    "method": "MLP",
+    "family": "Neural network",
+    "parameters": {
+      "hidden_layer_sizes": [
+        16
+      ]
+    },
+    "full_parameters": {
+      "activation": "relu",
+      "alpha": 0.1,
+      "batch_size": "auto",
+      "beta_1": 0.9,
+      "beta_2": 0.999,
+      "early_stopping": false,
+      "epsilon": 1e-08,
+      "hidden_layer_sizes": [
+        16
+      ],
+      "learning_rate": "constant",
+      "learning_rate_init": 0.001,
+      "max_fun": 15000,
+      "max_iter": 1500,
+      "momentum": 0.9,
+      "n_iter_no_change": 10,
+      "nesterovs_momentum": true,
+      "power_t": 0.5,
+      "random_state": 11,
+      "shuffle": true,
+      "solver": "adam",
+      "tol": 0.0001,
+      "validation_fraction": 0.1,
+      "verbose": false,
+      "warm_start": false
+    }
+  },
+  {
+    "id": "MLP_2",
+    "method": "MLP",
+    "family": "Neural network",
+    "parameters": {
+      "hidden_layer_sizes": [
+        32
+      ]
+    },
+    "full_parameters": {
+      "activation": "relu",
+      "alpha": 0.1,
+      "batch_size": "auto",
+      "beta_1": 0.9,
+      "beta_2": 0.999,
+      "early_stopping": false,
+      "epsilon": 1e-08,
+      "hidden_layer_sizes": [
+        32
+      ],
+      "learning_rate": "constant",
+      "learning_rate_init": 0.001,
+      "max_fun": 15000,
+      "max_iter": 1500,
+      "momentum": 0.9,
+      "n_iter_no_change": 10,
+      "nesterovs_momentum": true,
+      "power_t": 0.5,
+      "random_state": 11,
+      "shuffle": true,
+      "solver": "adam",
+      "tol": 0.0001,
+      "validation_fraction": 0.1,
+      "verbose": false,
+      "warm_start": false
+    }
+  }
+]

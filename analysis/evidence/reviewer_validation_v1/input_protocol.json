@@ -1,0 +1,34 @@
+{
+  "methods": [
+    "Ridge",
+    "RandomForest",
+    "LightGBM"
+  ],
+  "variants": [
+    "Descriptors",
+    "Material_ID",
+    "Source_time",
+    "Source_time_concentration_dose",
+    "Exclude_raw_r_gt1"
+  ],
+  "seeds": [
+    11,
+    23,
+    47
+  ],
+  "tracks": [
+    "exact",
+    "broad"
+  ],
+  "selection": "two configurations per method, inner source-balanced point MAE, original splits",
+  "time": "log1p(time / positive median time of source in current training partition)",
+  "additions": "same within-training-source positive-median transform for concentration and dosage",
+  "unit_scope": "invariant to a common multiplicative unit conversion within source; not a verified unit harmonization",
+  "excluded_raw_records": 27,
+  "remaining_raw_records": 3730,
+  "remaining_analysis_conditions": 1273,
+  "permutation": "30 joint profile bijections across 14 materials; same mapping in train and test; original LightGBM settings fixed",
+  "permutation_scope": "identity-preserving diagnostic; no chemical interpretation or formal permutation p-value",
+  "new_observations": 0,
+  "baseline_cache_reproduction": true
+}

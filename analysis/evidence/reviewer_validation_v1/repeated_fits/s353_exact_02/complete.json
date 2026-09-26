@@ -1,0 +1,11 @@
+{
+  "seed": 353,
+  "track": "exact",
+  "fold": 2,
+  "selected": {
+    "Point": "LightGBM_2",
+    "Contrast": "LightGBM_2",
+    "TOPSIS": "XGBoost_2"
+  },
+  "methods": 24
+}

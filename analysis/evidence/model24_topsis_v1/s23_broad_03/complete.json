@@ -1,0 +1,11 @@
+{
+  "seed": 23,
+  "track": "broad",
+  "fold": 3,
+  "selected": {
+    "Point": "Bagging_2",
+    "Contrast": "OLS_1",
+    "TOPSIS": "SVR_1"
+  },
+  "methods": 24
+}

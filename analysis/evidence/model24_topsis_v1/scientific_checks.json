@@ -1,0 +1,16 @@
+{
+  "completed_folds": 51,
+  "methods": 24,
+  "configurations": 45,
+  "baselines": 2,
+  "conditions": 1279,
+  "pairs": 559,
+  "all_primary_splits_equal_previous": true,
+  "all_outer_rows_predicted_once": true,
+  "all_inner_outer_arrays_disjoint": true,
+  "all_topsis_scores_recomputed": true,
+  "solver_warning_config_folds": 0,
+  "data_sha256": "19bff480964a2ef051ce59fb330977df5c725e2eafe61dd8151ad109d2cfd887",
+  "estimator_fit_count": 13662,
+  "constant_mean_evaluations": 297
+}

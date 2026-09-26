@@ -1,0 +1,11 @@
+{
+  "seed": 11,
+  "track": "broad",
+  "fold": 4,
+  "selected": {
+    "Point": "CatBoost_2",
+    "Contrast": "GradientBoosting_2",
+    "TOPSIS": "GradientBoosting_2"
+  },
+  "methods": 24
+}

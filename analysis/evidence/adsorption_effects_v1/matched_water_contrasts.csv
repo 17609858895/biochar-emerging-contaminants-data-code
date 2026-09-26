@@ -1,0 +1,240 @@
+source_candidate,Adsorbent,Pollutant,Adsorption type,Adsorption time,Initial concentration,Solution pH,RPM,Volume,Adsorbent dosage,Adsorption temperature,Ion concentration,Humic acid,water_a,water_b,condition_a,condition_b,removal_change_pp
+SI_ref_18,NaOH-activated SCW biochars,DCF,Single,30,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,639,640,-25.71866417944789
+SI_ref_18,NaOH-activated SCW biochars,DCF,Single,60,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,641,642,-15.170104938787333
+SI_ref_18,NaOH-activated SCW biochars,DCF,Single,120,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,643,644,-10.935625069047328
+SI_ref_18,NaOH-activated SCW biochars,DCF,Single,240,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,645,646,-8.085064137878373
+SI_ref_18,NaOH-activated SCW biochars,DCF,Single,480,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,647,648,-7.258357840624541
+SI_ref_18,NaOH-activated SCW biochars,DCF,Single,720,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,649,650,-5.144803185004976
+SI_ref_18,NaOH-activated SCW biochars,DCF,Single,960,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,651,652,-6.9177966680990854
+SI_ref_18,NaOH-activated SCW biochars,DCF,Single,1440,10.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,653,654,-11.32876846125426
+SI_ref_18,NaOH-activated SCW biochars,DCF,Single,1440,20.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,655,656,-13.166793317708558
+SI_ref_18,NaOH-activated SCW biochars,DCF,Single,1440,30.0,5,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,657,658,-11.079944010608905
+SI_ref_18,NaOH-activated SCW biochars,DCF,Single,1440,30.0,7,160,0.05,0.15,15,0.0,0,Lake water,Secondary effluent,659,660,-2.02377869100554
+SI_ref_18,NaOH-activated SCW biochars,DCF,Single,1440,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,661,662,-7.5607423018724695
+SI_ref_18,NaOH-activated SCW biochars,DCF,Single,1440,30.0,7,160,0.05,0.15,35,0.0,0,Lake water,Secondary effluent,686,687,-13.113397312585379
+SI_ref_18,NaOH-activated SCW biochars,DCF,Single,1440,30.0,9,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,688,689,-11.58608606932705
+SI_ref_18,NaOH-activated SCW biochars,DCF,Single,1440,30.0,11,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,690,691,-13.59475824367573
+SI_ref_18,NaOH-activated SCW biochars,DCF,Single,1440,40.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,692,693,-3.285365182114497
+SI_ref_18,NaOH-activated SCW biochars,DCF,Single,1440,50.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,694,695,3.2764442789131265
+SI_ref_18,NaOH-activated SCW biochars,IBU,Single,30,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,698,699,-22.452318386394666
+SI_ref_18,NaOH-activated SCW biochars,IBU,Single,60,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,700,701,-11.812356845237847
+SI_ref_18,NaOH-activated SCW biochars,IBU,Single,120,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,702,703,-7.724929929154012
+SI_ref_18,NaOH-activated SCW biochars,IBU,Single,240,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,704,705,-8.204739564016517
+SI_ref_18,NaOH-activated SCW biochars,IBU,Single,480,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,706,707,-5.064611642515537
+SI_ref_18,NaOH-activated SCW biochars,IBU,Single,720,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,708,709,-3.8933542566697787
+SI_ref_18,NaOH-activated SCW biochars,IBU,Single,960,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,710,711,-6.691298509045218
+SI_ref_18,NaOH-activated SCW biochars,IBU,Single,1440,10.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,712,713,-9.575285020704138
+SI_ref_18,NaOH-activated SCW biochars,IBU,Single,1440,20.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,714,715,0.9279563970050919
+SI_ref_18,NaOH-activated SCW biochars,IBU,Single,1440,30.0,5,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,716,717,-10.20835283632856
+SI_ref_18,NaOH-activated SCW biochars,IBU,Single,1440,30.0,7,160,0.05,0.15,15,0.0,0,Lake water,Secondary effluent,718,719,-0.3922728373383477
+SI_ref_18,NaOH-activated SCW biochars,IBU,Single,1440,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,720,721,-5.373343009079202
+SI_ref_18,NaOH-activated SCW biochars,IBU,Single,1440,30.0,7,160,0.05,0.15,35,0.0,0,Lake water,Secondary effluent,745,746,-8.529127295540029
+SI_ref_18,NaOH-activated SCW biochars,IBU,Single,1440,30.0,9,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,747,748,-6.3239500042330254
+SI_ref_18,NaOH-activated SCW biochars,IBU,Single,1440,30.0,11,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,749,750,-6.69181714737549
+SI_ref_18,NaOH-activated SCW biochars,IBU,Single,1440,40.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,751,752,-3.826495876465952
+SI_ref_18,NaOH-activated SCW biochars,IBU,Single,1440,50.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,753,754,1.4565150988631759
+SI_ref_18,NaOH-activated SCW biochars,NPX,Single,30,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,757,758,-34.59941477891372
+SI_ref_18,NaOH-activated SCW biochars,NPX,Single,60,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,759,760,-24.46595223666544
+SI_ref_18,NaOH-activated SCW biochars,NPX,Single,120,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,761,762,-13.365803974865223
+SI_ref_18,NaOH-activated SCW biochars,NPX,Single,240,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,763,764,-10.553933956107677
+SI_ref_18,NaOH-activated SCW biochars,NPX,Single,480,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,765,766,-11.809965257743768
+SI_ref_18,NaOH-activated SCW biochars,NPX,Single,720,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,767,768,-5.418386788787028
+SI_ref_18,NaOH-activated SCW biochars,NPX,Single,960,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,769,770,-8.681982954562562
+SI_ref_18,NaOH-activated SCW biochars,NPX,Single,1440,10.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,771,772,0.9592462327939609
+SI_ref_18,NaOH-activated SCW biochars,NPX,Single,1440,20.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,773,774,-3.103130168557209
+SI_ref_18,NaOH-activated SCW biochars,NPX,Single,1440,30.0,5,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,775,776,-3.152378694043219
+SI_ref_18,NaOH-activated SCW biochars,NPX,Single,1440,30.0,7,160,0.05,0.15,15,0.0,0,Lake water,Secondary effluent,777,778,-6.201100455742672
+SI_ref_18,NaOH-activated SCW biochars,NPX,Single,1440,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,779,780,-5.351284831867511
+SI_ref_18,NaOH-activated SCW biochars,NPX,Single,1440,30.0,7,160,0.05,0.15,25,0.025,0,Lake water,Secondary effluent,781,782,-6.7490512308024355
+SI_ref_18,NaOH-activated SCW biochars,NPX,Single,1440,30.0,7,160,0.05,0.15,25,0.05,0,Lake water,Secondary effluent,783,784,-6.197100457397255
+SI_ref_18,NaOH-activated SCW biochars,NPX,Single,1440,30.0,7,160,0.05,0.15,25,0.075,0,Lake water,Secondary effluent,785,786,-4.266784561416023
+SI_ref_18,NaOH-activated SCW biochars,NPX,Single,1440,30.0,7,160,0.05,0.15,25,0.1,0,Lake water,Secondary effluent,787,788,-5.8939979844816195
+SI_ref_18,NaOH-activated SCW biochars,NPX,Single,1440,30.0,7,160,0.05,0.15,25,0.125,0,Lake water,Secondary effluent,789,790,-7.34857507254516
+SI_ref_18,NaOH-activated SCW biochars,NPX,Single,1440,30.0,7,160,0.05,0.15,35,0.0,0,Lake water,Secondary effluent,791,792,-4.878796600468561
+SI_ref_18,NaOH-activated SCW biochars,NPX,Single,1440,30.0,9,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,793,794,-11.485441267265237
+SI_ref_18,NaOH-activated SCW biochars,NPX,Single,1440,30.0,11,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,795,796,-13.181553654554806
+SI_ref_18,NaOH-activated SCW biochars,NPX,Single,1440,40.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,797,798,-6.759407442224647
+SI_ref_18,NaOH-activated SCW biochars,NPX,Single,1440,50.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,799,800,-4.696555361993643
+SI_ref_18,Pristine SCW Biochar,DCF,Single,30,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1198,1199,1.2991496279899262
+SI_ref_18,Pristine SCW Biochar,DCF,Single,60,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1200,1201,1.2568272069883868
+SI_ref_18,Pristine SCW Biochar,DCF,Single,120,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1202,1203,1.5499476915420307
+SI_ref_18,Pristine SCW Biochar,DCF,Single,240,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1204,1205,2.3022255338697284
+SI_ref_18,Pristine SCW Biochar,DCF,Single,480,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1206,1207,2.785618915001542
+SI_ref_18,Pristine SCW Biochar,DCF,Single,720,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1208,1209,2.4180923057635306
+SI_ref_18,Pristine SCW Biochar,DCF,Single,960,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1210,1211,3.18634167391062
+SI_ref_18,Pristine SCW Biochar,DCF,Single,1440,30.0,5,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1214,1215,1.6337043577072996
+SI_ref_18,Pristine SCW Biochar,DCF,Single,1440,30.0,7,160,0.05,0.15,15,0.0,0,Lake water,Secondary effluent,1216,1217,1.6740831049502192
+SI_ref_18,Pristine SCW Biochar,DCF,Single,1440,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1218,1219,2.32133188265764
+SI_ref_18,Pristine SCW Biochar,DCF,Single,1440,30.0,7,160,0.05,0.15,35,0.0,0,Lake water,Secondary effluent,1243,1244,2.1060435808627376
+SI_ref_18,Pristine SCW Biochar,DCF,Single,1440,30.0,9,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1245,1246,2.1317180033098904
+SI_ref_18,Pristine SCW Biochar,DCF,Single,1440,30.0,11,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1247,1248,1.940952955984443
+SI_ref_18,Pristine SCW Biochar,IBU,Single,30,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1253,1254,1.0760987058865301
+SI_ref_18,Pristine SCW Biochar,IBU,Single,60,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1255,1256,0.9966058977594505
+SI_ref_18,Pristine SCW Biochar,IBU,Single,120,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1257,1258,1.1857374119871644
+SI_ref_18,Pristine SCW Biochar,IBU,Single,240,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1259,1260,2.1513047102699856
+SI_ref_18,Pristine SCW Biochar,IBU,Single,480,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1261,1262,2.8108791423352653
+SI_ref_18,Pristine SCW Biochar,IBU,Single,720,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1263,1264,2.350071017414823
+SI_ref_18,Pristine SCW Biochar,IBU,Single,960,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1265,1266,3.0600796935832175
+SI_ref_18,Pristine SCW Biochar,IBU,Single,1440,30.0,5,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1269,1270,0.9939312178459114
+SI_ref_18,Pristine SCW Biochar,IBU,Single,1440,30.0,7,160,0.05,0.15,15,0.0,0,Lake water,Secondary effluent,1271,1272,2.2735983086674683
+SI_ref_18,Pristine SCW Biochar,IBU,Single,1440,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1273,1274,2.6424572393263124
+SI_ref_18,Pristine SCW Biochar,IBU,Single,1440,30.0,7,160,0.05,0.15,35,0.0,0,Lake water,Secondary effluent,1298,1299,3.0031519026741615
+SI_ref_18,Pristine SCW Biochar,IBU,Single,1440,30.0,9,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1300,1301,2.0808810843147896
+SI_ref_18,Pristine SCW Biochar,IBU,Single,1440,30.0,11,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1302,1303,1.948655465301008
+SI_ref_18,Pristine SCW Biochar,NPX,Single,30,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1308,1309,0.22482026831293078
+SI_ref_18,Pristine SCW Biochar,NPX,Single,60,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1310,1311,-0.3754442813777681
+SI_ref_18,Pristine SCW Biochar,NPX,Single,120,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1312,1313,0.05916120356301846
+SI_ref_18,Pristine SCW Biochar,NPX,Single,240,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1314,1315,0.624756863326148
+SI_ref_18,Pristine SCW Biochar,NPX,Single,480,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1316,1317,1.36133912976788
+SI_ref_18,Pristine SCW Biochar,NPX,Single,720,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1318,1319,0.5687975114888499
+SI_ref_18,Pristine SCW Biochar,NPX,Single,960,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1320,1321,1.3831575710256394
+SI_ref_18,Pristine SCW Biochar,NPX,Single,1440,30.0,5,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1324,1325,1.9907357545431381
+SI_ref_18,Pristine SCW Biochar,NPX,Single,1440,30.0,7,160,0.05,0.15,15,0.0,0,Lake water,Secondary effluent,1326,1327,0.7469946138321193
+SI_ref_18,Pristine SCW Biochar,NPX,Single,1440,30.0,7,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1328,1329,1.3058524543791195
+SI_ref_18,Pristine SCW Biochar,NPX,Single,1440,30.0,7,160,0.05,0.15,25,0.025,0,Lake water,Secondary effluent,1330,1331,1.602075423401661
+SI_ref_18,Pristine SCW Biochar,NPX,Single,1440,30.0,7,160,0.05,0.15,25,0.05,0,Lake water,Secondary effluent,1332,1333,1.2881132190609157
+SI_ref_18,Pristine SCW Biochar,NPX,Single,1440,30.0,7,160,0.05,0.15,25,0.075,0,Lake water,Secondary effluent,1334,1335,1.2001298742337796
+SI_ref_18,Pristine SCW Biochar,NPX,Single,1440,30.0,7,160,0.05,0.15,25,0.1,0,Lake water,Secondary effluent,1336,1337,0.5164199389466329
+SI_ref_18,Pristine SCW Biochar,NPX,Single,1440,30.0,7,160,0.05,0.15,25,0.125,0,Lake water,Secondary effluent,1338,1339,-0.7617010177984329
+SI_ref_18,Pristine SCW Biochar,NPX,Single,1440,30.0,7,160,0.05,0.15,35,0.0,0,Lake water,Secondary effluent,1340,1341,1.0138014214045588
+SI_ref_18,Pristine SCW Biochar,NPX,Single,1440,30.0,9,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1342,1343,2.020305621368901
+SI_ref_18,Pristine SCW Biochar,NPX,Single,1440,30.0,11,160,0.05,0.15,25,0.0,0,Lake water,Secondary effluent,1344,1345,1.0903493951599175
+SI_ref_19,AMCB,IBU,Single,30,5.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,2,3,-0.4339911069128122
+SI_ref_19,AMCB,IBU,Single,60,5.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,4,5,2.564771676829658
+SI_ref_19,AMCB,IBU,Single,120,5.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,6,7,-5.1849786954622115
+SI_ref_19,AMCB,IBU,Single,240,5.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,8,9,-6.708162833639242
+SI_ref_19,AMCB,IBU,Single,480,5.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,10,11,-6.763379268372449
+SI_ref_19,AMCB,IBU,Single,720,5.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,12,13,-7.127492307370492
+SI_ref_19,AMCB,IBU,Single,960,5.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,14,15,-7.103467884286996
+SI_ref_19,AMCB,IBU,Single,1440,1.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,16,17,-10.540430398465421
+SI_ref_19,AMCB,IBU,Single,1440,1.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,18,19,-11.633820914024257
+SI_ref_19,AMCB,IBU,Single,1440,1.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,20,21,-5.829563433213121
+SI_ref_19,AMCB,IBU,Single,1440,5.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,22,23,-7.168768696383743
+SI_ref_19,AMCB,IBU,Single,1441,3.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,24,25,-14.905244250350586
+SI_ref_19,AMCB,IBU,Single,1441,3.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,26,27,-15.37994082398115
+SI_ref_19,AMCB,IBU,Single,1441,3.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,28,29,-12.450332843105013
+SI_ref_19,AMCB,IBU,Single,1442,5.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,30,31,-12.01293981352472
+SI_ref_19,AMCB,IBU,Single,1442,5.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,32,33,-2.365214195481663
+SI_ref_19,AMCB,IBU,Single,1442,5.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,34,35,-10.883379074060995
+SI_ref_19,AMCB,IBU,Single,1443,7.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,36,37,-9.959349557927787
+SI_ref_19,AMCB,IBU,Single,1443,7.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,38,39,-12.43521561412923
+SI_ref_19,AMCB,IBU,Single,1443,7.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,40,41,-9.387973927394988
+SI_ref_19,AMCB,IBU,Single,1444,10.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,42,43,-4.279829608508379
+SI_ref_19,AMCB,IBU,Single,1444,10.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,44,45,-4.148499918675852
+SI_ref_19,AMCB,IBU,Single,1444,10.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,46,47,-5.049131659079392
+SI_ref_19,AMCB,IBU,Single,1445,1.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,48,49,-6.117229834429873
+SI_ref_19,AMCB,IBU,Single,1445,1.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,50,51,-8.29192384873889
+SI_ref_19,AMCB,IBU,Single,1445,1.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,52,53,-6.747523445016533
+SI_ref_19,AMCB,IBU,Single,1446,3.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,54,55,-14.535618512120807
+SI_ref_19,AMCB,IBU,Single,1446,3.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,56,57,-10.736636549076525
+SI_ref_19,AMCB,IBU,Single,1446,3.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,58,59,-12.031306802815415
+SI_ref_19,AMCB,IBU,Single,1447,5.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,60,61,-11.801230414499503
+SI_ref_19,AMCB,IBU,Single,1447,5.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,62,63,-9.944832363202572
+SI_ref_19,AMCB,IBU,Single,1447,5.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,64,65,-8.722534771572333
+SI_ref_19,AMCB,IBU,Single,1448,7.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,66,67,-2.678060044398334
+SI_ref_19,AMCB,IBU,Single,1448,7.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,68,69,-8.522870515993352
+SI_ref_19,AMCB,IBU,Single,1448,7.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,70,71,-6.429043364393788
+SI_ref_19,AMCB,IBU,Single,1449,10.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,72,73,-4.917316554278339
+SI_ref_19,AMCB,IBU,Single,1449,10.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,74,75,-1.7041498629969842
+SI_ref_19,AMCB,IBU,Single,1449,10.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,76,77,-3.809548362962939
+SI_ref_19,AMCB,IBU,Single,1450,1.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,78,79,-10.554982069258335
+SI_ref_19,AMCB,IBU,Single,1450,1.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,80,81,-10.917302611458174
+SI_ref_19,AMCB,IBU,Single,1450,1.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,82,83,-6.635077164635246
+SI_ref_19,AMCB,IBU,Single,1451,3.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,84,85,-12.148668276726454
+SI_ref_19,AMCB,IBU,Single,1451,3.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,86,87,-7.585306643281564
+SI_ref_19,AMCB,IBU,Single,1451,3.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,88,89,-13.378608836800524
+SI_ref_19,AMCB,IBU,Single,1452,5.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,90,91,-12.416636614378362
+SI_ref_19,AMCB,IBU,Single,1452,5.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,92,93,-15.391315729895744
+SI_ref_19,AMCB,IBU,Single,1452,5.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,94,95,-9.050137226224875
+SI_ref_19,AMCB,IBU,Single,1453,7.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,96,97,-6.1019648825797805
+SI_ref_19,AMCB,IBU,Single,1453,7.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,98,99,-3.462605981301281
+SI_ref_19,AMCB,IBU,Single,1453,7.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,100,101,-8.086805222289955
+SI_ref_19,AMCB,IBU,Single,1454,5.0,5,150,0.05,0.05,25,0.0,0,Ground water,Lake water,102,103,-8.649325730511082
+SI_ref_19,AMCB,IBU,Single,1454,5.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,104,105,-9.535886880588995
+SI_ref_19,AMCB,IBU,Single,1454,5.0,9,150,0.05,0.05,25,0.0,0,Ground water,Lake water,106,107,-14.57143372239053
+SI_ref_19,AMCB,IBU,Single,1454,5.0,11,150,0.05,0.05,25,0.0,0,Ground water,Lake water,108,109,-5.227202184394841
+SI_ref_19,AMCB,IBU,Single,1454,10.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,110,111,-3.9510830585403944
+SI_ref_19,AMCB,IBU,Single,1454,10.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,112,113,-1.067624443365689
+SI_ref_19,AMCB,IBU,Single,1454,10.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,114,115,-5.233193518045331
+SI_ref_19,CB,IBU,Single,30,5.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,282,283,-0.18362637598482445
+SI_ref_19,CB,IBU,Single,60,5.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,284,285,-0.03567381388627222
+SI_ref_19,CB,IBU,Single,120,5.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,286,287,-0.07601642069531289
+SI_ref_19,CB,IBU,Single,240,5.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,288,289,-0.10420386780365387
+SI_ref_19,CB,IBU,Single,480,5.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,290,291,-0.1769194968948895
+SI_ref_19,CB,IBU,Single,720,5.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,292,293,-0.1803421855609888
+SI_ref_19,CB,IBU,Single,960,5.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,294,295,-0.18424249659897418
+SI_ref_19,CB,IBU,Single,1440,1.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,296,297,-0.8458930253586905
+SI_ref_19,CB,IBU,Single,1440,1.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,298,299,-0.46054097154889506
+SI_ref_19,CB,IBU,Single,1440,1.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,300,301,-0.7057383958644747
+SI_ref_19,CB,IBU,Single,1440,3.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,302,303,-0.969064603231018
+SI_ref_19,CB,IBU,Single,1440,3.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,304,305,-1.1893896671564375
+SI_ref_19,CB,IBU,Single,1440,3.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,306,307,-1.3383116850824828
+SI_ref_19,CB,IBU,Single,1440,5.0,5,150,0.05,0.05,25,0.0,0,Ground water,Lake water,308,309,-2.5481224078335085
+SI_ref_19,CB,IBU,Single,1440,5.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,310,311,-0.06315505066334381
+SI_ref_19,CB,IBU,Single,1440,5.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,312,313,-0.15077547746751296
+SI_ref_19,CB,IBU,Single,1440,5.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,314,315,-0.10134935773571385
+SI_ref_19,CB,IBU,Single,1440,5.0,9,150,0.05,0.05,25,0.0,0,Ground water,Lake water,316,317,-0.895813139142454
+SI_ref_19,CB,IBU,Single,1440,5.0,11,150,0.05,0.05,25,0.0,0,Ground water,Lake water,318,319,-0.8501164782019788
+SI_ref_19,CB,IBU,Single,1440,7.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,320,321,0.31602365039713476
+SI_ref_19,CB,IBU,Single,1440,7.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,322,323,-0.17921040212182104
+SI_ref_19,CB,IBU,Single,1440,7.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,324,325,-0.1733077902335789
+SI_ref_19,CB,IBU,Single,1440,10.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,326,327,-0.01640827827574798
+SI_ref_19,CB,IBU,Single,1440,10.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,328,329,-0.5471568404434635
+SI_ref_19,CB,IBU,Single,1440,10.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,330,331,-0.45552785595079914
+SI_ref_19,MCB,IBU,Single,30,5.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,523,524,-0.0659764253958861
+SI_ref_19,MCB,IBU,Single,60,5.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,525,526,-0.031881719830173516
+SI_ref_19,MCB,IBU,Single,120,5.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,527,528,-0.18645885367480908
+SI_ref_19,MCB,IBU,Single,240,5.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,529,530,-0.19891270052326826
+SI_ref_19,MCB,IBU,Single,480,5.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,531,532,-0.20021462502500809
+SI_ref_19,MCB,IBU,Single,720,5.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,533,534,-0.21646608293797165
+SI_ref_19,MCB,IBU,Single,960,5.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,535,536,-0.2304256422082429
+SI_ref_19,MCB,IBU,Single,1440,1.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,537,538,-0.0047118472155327495
+SI_ref_19,MCB,IBU,Single,1440,1.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,539,540,-0.3389810476323585
+SI_ref_19,MCB,IBU,Single,1440,1.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,541,542,-0.824704005547916
+SI_ref_19,MCB,IBU,Single,1440,5.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,543,544,-0.23776202878593722
+SI_ref_19,MCB,IBU,Single,1441,3.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,545,546,-1.104392918021757
+SI_ref_19,MCB,IBU,Single,1441,3.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,547,548,-0.8621601281995517
+SI_ref_19,MCB,IBU,Single,1441,3.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,549,550,-1.4715477317881476
+SI_ref_19,MCB,IBU,Single,1442,5.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,551,552,-0.2713722566281329
+SI_ref_19,MCB,IBU,Single,1442,5.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,553,554,-0.007079593737258083
+SI_ref_19,MCB,IBU,Single,1442,5.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,555,556,-0.4599604658499956
+SI_ref_19,MCB,IBU,Single,1443,5.0,5,150,0.05,0.05,25,0.0,0,Ground water,Lake water,557,558,-2.534478535964635
+SI_ref_19,MCB,IBU,Single,1443,5.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,559,560,-0.4930312148037741
+SI_ref_19,MCB,IBU,Single,1443,5.0,9,150,0.05,0.05,25,0.0,0,Ground water,Lake water,561,562,-0.6371260181239902
+SI_ref_19,MCB,IBU,Single,1443,5.0,11,150,0.05,0.05,25,0.0,0,Ground water,Lake water,563,564,-0.8839797313457409
+SI_ref_19,MCB,IBU,Single,1443,7.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,565,566,-0.21763875090226037
+SI_ref_19,MCB,IBU,Single,1443,7.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,567,568,-0.7354833418846796
+SI_ref_19,MCB,IBU,Single,1443,7.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,569,570,-0.24133388755929186
+SI_ref_19,MCB,IBU,Single,1444,10.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,571,572,-0.19265082064368055
+SI_ref_19,MCB,IBU,Single,1444,10.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,573,574,-0.35702232238621345
+SI_ref_19,MCB,IBU,Single,1444,10.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,575,576,-0.2553354521570128
+SI_ref_19,MCB,IBU,Single,1445,1.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,577,578,-0.061555939045465635
+SI_ref_19,MCB,IBU,Single,1445,1.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,579,580,-0.17663280654365288
+SI_ref_19,MCB,IBU,Single,1445,1.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,581,582,-0.8478547576319051
+SI_ref_19,MCB,IBU,Single,1446,3.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,583,584,-0.9278604469585061
+SI_ref_19,MCB,IBU,Single,1446,3.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,585,586,-0.936672295938068
+SI_ref_19,MCB,IBU,Single,1446,3.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,587,588,-0.9366755905088842
+SI_ref_19,MCB,IBU,Single,1447,5.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,589,590,-0.007795504923313601
+SI_ref_19,MCB,IBU,Single,1447,5.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,591,592,0.1506927004150116
+SI_ref_19,MCB,IBU,Single,1447,5.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,593,594,-0.07303029611821499
+SI_ref_19,MCB,IBU,Single,1448,7.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,595,596,-0.14552535359946273
+SI_ref_19,MCB,IBU,Single,1448,7.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,597,598,0.040905758789966384
+SI_ref_19,MCB,IBU,Single,1448,7.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,599,600,0.23249654960262323
+SI_ref_19,MCB,IBU,Single,1449,10.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,601,602,0.0977746502778154
+SI_ref_19,MCB,IBU,Single,1449,10.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,603,604,-0.7483599760548576
+SI_ref_19,MCB,IBU,Single,1449,10.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,605,606,-0.32015506387171877
+SI_ref_19,MCB,IBU,Single,1450,1.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,607,608,-0.3963317469451444
+SI_ref_19,MCB,IBU,Single,1450,1.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,609,610,-0.5439787188376788
+SI_ref_19,MCB,IBU,Single,1450,1.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,611,612,0.15791275740090205
+SI_ref_19,MCB,IBU,Single,1451,3.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,613,614,-1.1209234023811354
+SI_ref_19,MCB,IBU,Single,1451,3.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,615,616,-0.6619602416185422
+SI_ref_19,MCB,IBU,Single,1451,3.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,617,618,-1.1694306746734884
+SI_ref_19,MCB,IBU,Single,1452,5.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,619,620,-0.3964577966875549
+SI_ref_19,MCB,IBU,Single,1452,5.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,621,622,-0.08876488001312577
+SI_ref_19,MCB,IBU,Single,1452,5.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,623,624,-0.34050258151385737
+SI_ref_19,MCB,IBU,Single,1453,7.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,625,626,0.541598762941975
+SI_ref_19,MCB,IBU,Single,1453,7.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,627,628,0.1249704231422677
+SI_ref_19,MCB,IBU,Single,1453,7.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,629,630,-0.0016230796682559223
+SI_ref_19,MCB,IBU,Single,1454,10.0,7,150,0.05,0.05,15,0.0,0,Ground water,Lake water,631,632,-0.05144039720370586
+SI_ref_19,MCB,IBU,Single,1454,10.0,7,150,0.05,0.05,25,0.0,0,Ground water,Lake water,633,634,-0.5504987548237139
+SI_ref_19,MCB,IBU,Single,1454,10.0,7,150,0.05,0.05,35,0.0,0,Ground water,Lake water,635,636,0.20020562699061273

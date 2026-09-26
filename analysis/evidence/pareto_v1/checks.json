@@ -1,0 +1,35 @@
+{
+  "methods": 24,
+  "tracks": 3,
+  "rows": 72,
+  "aggregation": "Separate metric medians across seeds 11,23,47",
+  "objectives": "All three minimized in untransformed fraction units",
+  "tolerance": 1e-12,
+  "source_sha256": "93d5a11515cdbf1ab828f83a979e3683c075c264fe3697126cc25b9b5b36cc15",
+  "nondominated_methods": {
+    "exact": [
+      "SplineRidge",
+      "RandomForest",
+      "GradientBoosting",
+      "XGBoost",
+      "LightGBM",
+      "CatBoost"
+    ],
+    "broad": [
+      "SVR",
+      "ExtraTrees",
+      "HistGradientBoosting",
+      "XGBoost",
+      "LightGBM",
+      "CatBoost"
+    ],
+    "source": [
+      "KernelRidge",
+      "SVR"
+    ]
+  },
+  "used_for_selection": false,
+  "independent_pairwise_dominance_check": true,
+  "new_observations": 0,
+  "new_fits": 0
+}

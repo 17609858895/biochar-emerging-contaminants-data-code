@@ -1,0 +1,91 @@
+variant,set,tolerance,rank,features,profiles,nullity_at_1e10
+All,Full 14,1e-14,9,14,16,5
+All,Full 14,1e-12,9,14,16,5
+All,Full 14,1e-10,9,14,16,5
+All,Full 14,1e-08,9,14,16,5
+All,Full 14,1e-06,9,14,16,5
+All,Full 14,0.0001,9,14,16,5
+All,Non-ratio 10,1e-14,9,10,16,1
+All,Non-ratio 10,1e-12,9,10,16,1
+All,Non-ratio 10,1e-10,9,10,16,1
+All,Non-ratio 10,1e-08,9,10,16,1
+All,Non-ratio 10,1e-06,9,10,16,1
+All,Non-ratio 10,0.0001,9,10,16,1
+All,Core 6,1e-14,5,6,15,1
+All,Core 6,1e-12,5,6,15,1
+All,Core 6,1e-10,5,6,15,1
+All,Core 6,1e-08,5,6,15,1
+All,Core 6,1e-06,5,6,15,1
+All,Core 6,0.0001,5,6,15,1
+All,Core 5,1e-14,5,5,15,0
+All,Core 5,1e-12,5,5,15,0
+All,Core 5,1e-10,5,5,15,0
+All,Core 5,1e-08,5,5,15,0
+All,Core 5,1e-06,5,5,15,0
+All,Core 5,0.0001,5,5,15,0
+All,Pore 3,1e-14,3,3,15,0
+All,Pore 3,1e-12,3,3,15,0
+All,Pore 3,1e-10,3,3,15,0
+All,Pore 3,1e-08,3,3,15,0
+All,Pore 3,1e-06,3,3,15,0
+All,Pore 3,0.0001,3,3,15,0
+Biochar,Full 14,1e-14,8,14,15,6
+Biochar,Full 14,1e-12,8,14,15,6
+Biochar,Full 14,1e-10,8,14,15,6
+Biochar,Full 14,1e-08,8,14,15,6
+Biochar,Full 14,1e-06,8,14,15,6
+Biochar,Full 14,0.0001,8,14,15,6
+Biochar,Non-ratio 10,1e-14,8,10,15,2
+Biochar,Non-ratio 10,1e-12,8,10,15,2
+Biochar,Non-ratio 10,1e-10,8,10,15,2
+Biochar,Non-ratio 10,1e-08,8,10,15,2
+Biochar,Non-ratio 10,1e-06,8,10,15,2
+Biochar,Non-ratio 10,0.0001,8,10,15,2
+Biochar,Core 6,1e-14,5,6,14,1
+Biochar,Core 6,1e-12,5,6,14,1
+Biochar,Core 6,1e-10,5,6,14,1
+Biochar,Core 6,1e-08,5,6,14,1
+Biochar,Core 6,1e-06,5,6,14,1
+Biochar,Core 6,0.0001,5,6,14,1
+Biochar,Core 5,1e-14,5,5,14,0
+Biochar,Core 5,1e-12,5,5,14,0
+Biochar,Core 5,1e-10,5,5,14,0
+Biochar,Core 5,1e-08,5,5,14,0
+Biochar,Core 5,1e-06,5,5,14,0
+Biochar,Core 5,0.0001,5,5,14,0
+Biochar,Pore 3,1e-14,3,3,14,0
+Biochar,Pore 3,1e-12,3,3,14,0
+Biochar,Pore 3,1e-10,3,3,14,0
+Biochar,Pore 3,1e-08,3,3,14,0
+Biochar,Pore 3,1e-06,3,3,14,0
+Biochar,Pore 3,0.0001,3,3,14,0
+Flag excluded,Full 14,1e-14,7,14,14,7
+Flag excluded,Full 14,1e-12,7,14,14,7
+Flag excluded,Full 14,1e-10,7,14,14,7
+Flag excluded,Full 14,1e-08,7,14,14,7
+Flag excluded,Full 14,1e-06,7,14,14,7
+Flag excluded,Full 14,0.0001,7,14,14,7
+Flag excluded,Non-ratio 10,1e-14,7,10,14,3
+Flag excluded,Non-ratio 10,1e-12,7,10,14,3
+Flag excluded,Non-ratio 10,1e-10,7,10,14,3
+Flag excluded,Non-ratio 10,1e-08,7,10,14,3
+Flag excluded,Non-ratio 10,1e-06,7,10,14,3
+Flag excluded,Non-ratio 10,0.0001,7,10,14,3
+Flag excluded,Core 6,1e-14,5,6,14,1
+Flag excluded,Core 6,1e-12,5,6,14,1
+Flag excluded,Core 6,1e-10,5,6,14,1
+Flag excluded,Core 6,1e-08,5,6,14,1
+Flag excluded,Core 6,1e-06,5,6,14,1
+Flag excluded,Core 6,0.0001,5,6,14,1
+Flag excluded,Core 5,1e-14,5,5,14,0
+Flag excluded,Core 5,1e-12,5,5,14,0
+Flag excluded,Core 5,1e-10,5,5,14,0
+Flag excluded,Core 5,1e-08,5,5,14,0
+Flag excluded,Core 5,1e-06,5,5,14,0
+Flag excluded,Core 5,0.0001,5,5,14,0
+Flag excluded,Pore 3,1e-14,3,3,14,0
+Flag excluded,Pore 3,1e-12,3,3,14,0
+Flag excluded,Pore 3,1e-10,3,3,14,0
+Flag excluded,Pore 3,1e-08,3,3,14,0
+Flag excluded,Pore 3,1e-06,3,3,14,0
+Flag excluded,Pore 3,0.0001,3,3,14,0

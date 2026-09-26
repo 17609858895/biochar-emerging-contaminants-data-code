@@ -1,0 +1,193 @@
+seed,variant,pair_id,group,signed_mean_pp,n_queries
+11,Descriptors,AMCB / CB,Material profile,61.555276789567486,22
+11,Descriptors,AMCB / MCB,Material profile,58.05920869903581,106
+11,Descriptors,Alkali-modified SCG biochars / Pristine SCG biochar,Material profile,56.59939393692517,113
+11,Descriptors,CB / MCB,Material profile,-0.35371239460431536,22
+11,Descriptors,GCRB / GCRB-N,Material profile,-59.551792189163244,42
+11,Descriptors,NaOH-activated SCW biochars / Pristine SCW Biochar,Material profile,42.36379337070774,146
+11,Descriptors,PB600 / PB800,Material profile,-7.010923891467701,47
+11,Descriptors,PSB / PSBOX-A,Material profile,-67.56269654695127,61
+11,Descriptors,AMCB / CB,Operating conditions,2.9058299050568275,22
+11,Descriptors,AMCB / MCB,Operating conditions,0.25939501216153,106
+11,Descriptors,Alkali-modified SCG biochars / Pristine SCG biochar,Operating conditions,0.8146642975340492,113
+11,Descriptors,CB / MCB,Operating conditions,-0.711801628004535,22
+11,Descriptors,GCRB / GCRB-N,Operating conditions,-3.3591468961035917,42
+11,Descriptors,NaOH-activated SCW biochars / Pristine SCW Biochar,Operating conditions,0.6310579096986307,146
+11,Descriptors,PB600 / PB800,Operating conditions,0.31865495814249506,47
+11,Descriptors,PSB / PSBOX-A,Operating conditions,-1.1063890735685682,61
+11,Descriptors,AMCB / CB,Chemical context,1.7503162570914341,22
+11,Descriptors,AMCB / MCB,Chemical context,1.1307079904355493,106
+11,Descriptors,Alkali-modified SCG biochars / Pristine SCG biochar,Chemical context,-2.8665170708221877,113
+11,Descriptors,CB / MCB,Chemical context,-0.19718714276056498,22
+11,Descriptors,GCRB / GCRB-N,Chemical context,-1.8785125472424582,42
+11,Descriptors,NaOH-activated SCW biochars / Pristine SCW Biochar,Chemical context,0.13245457599479463,146
+11,Descriptors,PB600 / PB800,Chemical context,4.991751524814868,47
+11,Descriptors,PSB / PSBOX-A,Chemical context,-0.008943741326262878,61
+11,Descriptors,AMCB / CB,Loading variables,0.0,22
+11,Descriptors,AMCB / MCB,Loading variables,0.0,106
+11,Descriptors,Alkali-modified SCG biochars / Pristine SCG biochar,Loading variables,0.0,113
+11,Descriptors,CB / MCB,Loading variables,0.0,22
+11,Descriptors,GCRB / GCRB-N,Loading variables,0.0,42
+11,Descriptors,NaOH-activated SCW biochars / Pristine SCW Biochar,Loading variables,0.0,146
+11,Descriptors,PB600 / PB800,Loading variables,0.0,47
+11,Descriptors,PSB / PSBOX-A,Loading variables,0.0,61
+23,Descriptors,AMCB / CB,Material profile,62.36807083779629,22
+23,Descriptors,AMCB / MCB,Material profile,58.862681897521874,106
+23,Descriptors,Alkali-modified SCG biochars / Pristine SCG biochar,Material profile,62.92648652253795,113
+23,Descriptors,CB / MCB,Material profile,-0.5872182354920823,22
+23,Descriptors,GCRB / GCRB-N,Material profile,-57.777933683041844,42
+23,Descriptors,NaOH-activated SCW biochars / Pristine SCW Biochar,Material profile,42.726600910992005,146
+23,Descriptors,PB600 / PB800,Material profile,-17.777905189624438,47
+23,Descriptors,PSB / PSBOX-A,Material profile,-66.89829781697863,61
+23,Descriptors,AMCB / CB,Operating conditions,2.6413090285064014,22
+23,Descriptors,AMCB / MCB,Operating conditions,-0.12257522194045009,106
+23,Descriptors,Alkali-modified SCG biochars / Pristine SCG biochar,Operating conditions,1.0126851406357573,113
+23,Descriptors,CB / MCB,Operating conditions,-0.8009369801379994,22
+23,Descriptors,GCRB / GCRB-N,Operating conditions,-3.4969917956921215,42
+23,Descriptors,NaOH-activated SCW biochars / Pristine SCW Biochar,Operating conditions,0.5822099028052968,146
+23,Descriptors,PB600 / PB800,Operating conditions,0.030331968885832478,47
+23,Descriptors,PSB / PSBOX-A,Operating conditions,-1.077826610008385,61
+23,Descriptors,AMCB / CB,Chemical context,1.1756685845188497,22
+23,Descriptors,AMCB / MCB,Chemical context,0.6395134832490565,106
+23,Descriptors,Alkali-modified SCG biochars / Pristine SCG biochar,Chemical context,-1.8292373942110787,113
+23,Descriptors,CB / MCB,Chemical context,-0.20778536003414538,22
+23,Descriptors,GCRB / GCRB-N,Chemical context,-1.7936739502513779,42
+23,Descriptors,NaOH-activated SCW biochars / Pristine SCW Biochar,Chemical context,2.0733720904723687,146
+23,Descriptors,PB600 / PB800,Chemical context,-0.49478817465088387,47
+23,Descriptors,PSB / PSBOX-A,Chemical context,-0.1532785773103646,61
+23,Descriptors,AMCB / CB,Loading variables,0.0,22
+23,Descriptors,AMCB / MCB,Loading variables,0.0,106
+23,Descriptors,Alkali-modified SCG biochars / Pristine SCG biochar,Loading variables,0.0,113
+23,Descriptors,CB / MCB,Loading variables,0.0,22
+23,Descriptors,GCRB / GCRB-N,Loading variables,0.0,42
+23,Descriptors,NaOH-activated SCW biochars / Pristine SCW Biochar,Loading variables,0.0,146
+23,Descriptors,PB600 / PB800,Loading variables,0.0,47
+23,Descriptors,PSB / PSBOX-A,Loading variables,0.0,61
+47,Descriptors,AMCB / CB,Material profile,62.498867495053865,22
+47,Descriptors,AMCB / MCB,Material profile,59.25339399340939,106
+47,Descriptors,Alkali-modified SCG biochars / Pristine SCG biochar,Material profile,62.50731584809728,113
+47,Descriptors,CB / MCB,Material profile,0.05089298623165492,22
+47,Descriptors,GCRB / GCRB-N,Material profile,-53.900531199109274,42
+47,Descriptors,NaOH-activated SCW biochars / Pristine SCW Biochar,Material profile,44.312106914906614,146
+47,Descriptors,PB600 / PB800,Material profile,-16.960176712608874,47
+47,Descriptors,PSB / PSBOX-A,Material profile,-74.17474358995739,61
+47,Descriptors,AMCB / CB,Operating conditions,3.4252710164909206,22
+47,Descriptors,AMCB / MCB,Operating conditions,0.258266378806181,106
+47,Descriptors,Alkali-modified SCG biochars / Pristine SCG biochar,Operating conditions,0.6124039918319323,113
+47,Descriptors,CB / MCB,Operating conditions,-0.8283601795358677,22
+47,Descriptors,GCRB / GCRB-N,Operating conditions,-4.0143840194095235,42
+47,Descriptors,NaOH-activated SCW biochars / Pristine SCW Biochar,Operating conditions,1.3899087236595595,146
+47,Descriptors,PB600 / PB800,Operating conditions,-0.17156897349677475,47
+47,Descriptors,PSB / PSBOX-A,Operating conditions,-0.9596782365288223,61
+47,Descriptors,AMCB / CB,Chemical context,0.8169755118911023,22
+47,Descriptors,AMCB / MCB,Chemical context,-0.15861771235196132,106
+47,Descriptors,Alkali-modified SCG biochars / Pristine SCG biochar,Chemical context,-2.7494228487091847,113
+47,Descriptors,CB / MCB,Chemical context,-0.7547099704288847,22
+47,Descriptors,GCRB / GCRB-N,Chemical context,-1.4772017479387134,42
+47,Descriptors,NaOH-activated SCW biochars / Pristine SCW Biochar,Chemical context,1.4357159444959886,146
+47,Descriptors,PB600 / PB800,Chemical context,0.4220139996001203,47
+47,Descriptors,PSB / PSBOX-A,Chemical context,-0.3627558601386969,61
+47,Descriptors,AMCB / CB,Loading variables,0.0,22
+47,Descriptors,AMCB / MCB,Loading variables,0.0,106
+47,Descriptors,Alkali-modified SCG biochars / Pristine SCG biochar,Loading variables,0.0,113
+47,Descriptors,CB / MCB,Loading variables,0.0,22
+47,Descriptors,GCRB / GCRB-N,Loading variables,0.0,42
+47,Descriptors,NaOH-activated SCW biochars / Pristine SCW Biochar,Loading variables,0.0,146
+47,Descriptors,PB600 / PB800,Loading variables,0.0,47
+47,Descriptors,PSB / PSBOX-A,Loading variables,0.0,61
+11,Source_time_concentration_dose,AMCB / CB,Material profile,64.97526939324871,22
+11,Source_time_concentration_dose,AMCB / MCB,Material profile,56.88512838168409,106
+11,Source_time_concentration_dose,Alkali-modified SCG biochars / Pristine SCG biochar,Material profile,60.701382110302774,113
+11,Source_time_concentration_dose,CB / MCB,Material profile,-0.8438545123918628,22
+11,Source_time_concentration_dose,GCRB / GCRB-N,Material profile,-59.5937147402244,42
+11,Source_time_concentration_dose,NaOH-activated SCW biochars / Pristine SCW Biochar,Material profile,46.47728987937475,146
+11,Source_time_concentration_dose,PB600 / PB800,Material profile,-7.441490578549296,47
+11,Source_time_concentration_dose,PSB / PSBOX-A,Material profile,-69.17431170495712,61
+11,Source_time_concentration_dose,AMCB / CB,Operating conditions,0.6091026590942795,22
+11,Source_time_concentration_dose,AMCB / MCB,Operating conditions,0.45377284949737734,106
+11,Source_time_concentration_dose,Alkali-modified SCG biochars / Pristine SCG biochar,Operating conditions,0.6085848027208804,113
+11,Source_time_concentration_dose,CB / MCB,Operating conditions,-0.2316303832386064,22
+11,Source_time_concentration_dose,GCRB / GCRB-N,Operating conditions,-0.4155997597288761,42
+11,Source_time_concentration_dose,NaOH-activated SCW biochars / Pristine SCW Biochar,Operating conditions,-0.15684899496190277,146
+11,Source_time_concentration_dose,PB600 / PB800,Operating conditions,0.314480801413379,47
+11,Source_time_concentration_dose,PSB / PSBOX-A,Operating conditions,-0.6305946896330026,61
+11,Source_time_concentration_dose,AMCB / CB,Chemical context,0.30017286873426263,22
+11,Source_time_concentration_dose,AMCB / MCB,Chemical context,-0.1153381065453332,106
+11,Source_time_concentration_dose,Alkali-modified SCG biochars / Pristine SCG biochar,Chemical context,-1.7703646257798282,113
+11,Source_time_concentration_dose,CB / MCB,Chemical context,0.7456819905644894,22
+11,Source_time_concentration_dose,GCRB / GCRB-N,Chemical context,-2.6843371860259038,42
+11,Source_time_concentration_dose,NaOH-activated SCW biochars / Pristine SCW Biochar,Chemical context,-0.5145926022703643,146
+11,Source_time_concentration_dose,PB600 / PB800,Chemical context,4.114797198417547,47
+11,Source_time_concentration_dose,PSB / PSBOX-A,Chemical context,-0.8362454387232818,61
+11,Source_time_concentration_dose,AMCB / CB,Loading variables,9.520375998642095,22
+11,Source_time_concentration_dose,AMCB / MCB,Loading variables,2.4852396649972386,106
+11,Source_time_concentration_dose,Alkali-modified SCG biochars / Pristine SCG biochar,Loading variables,-4.451788367808022,113
+11,Source_time_concentration_dose,CB / MCB,Loading variables,-0.8203560534940122,22
+11,Source_time_concentration_dose,GCRB / GCRB-N,Loading variables,-2.491086489296301,42
+11,Source_time_concentration_dose,NaOH-activated SCW biochars / Pristine SCW Biochar,Loading variables,0.3446445633890888,146
+11,Source_time_concentration_dose,PB600 / PB800,Loading variables,-0.6469144186246305,47
+11,Source_time_concentration_dose,PSB / PSBOX-A,Loading variables,0.7982719667644915,61
+23,Source_time_concentration_dose,AMCB / CB,Material profile,64.60504935791482,22
+23,Source_time_concentration_dose,AMCB / MCB,Material profile,57.34088643800296,106
+23,Source_time_concentration_dose,Alkali-modified SCG biochars / Pristine SCG biochar,Material profile,63.34873989352226,113
+23,Source_time_concentration_dose,CB / MCB,Material profile,0.027493662901853455,22
+23,Source_time_concentration_dose,GCRB / GCRB-N,Material profile,-58.22950002943966,42
+23,Source_time_concentration_dose,NaOH-activated SCW biochars / Pristine SCW Biochar,Material profile,45.707941788321264,146
+23,Source_time_concentration_dose,PB600 / PB800,Material profile,-14.313005277583965,47
+23,Source_time_concentration_dose,PSB / PSBOX-A,Material profile,-69.21171164533686,61
+23,Source_time_concentration_dose,AMCB / CB,Operating conditions,0.5122323528182553,22
+23,Source_time_concentration_dose,AMCB / MCB,Operating conditions,0.4006131965671204,106
+23,Source_time_concentration_dose,Alkali-modified SCG biochars / Pristine SCG biochar,Operating conditions,0.37912053190194217,113
+23,Source_time_concentration_dose,CB / MCB,Operating conditions,-0.189159394305349,22
+23,Source_time_concentration_dose,GCRB / GCRB-N,Operating conditions,0.18096546996048846,42
+23,Source_time_concentration_dose,NaOH-activated SCW biochars / Pristine SCW Biochar,Operating conditions,0.09635752653882902,146
+23,Source_time_concentration_dose,PB600 / PB800,Operating conditions,0.21185239512929785,47
+23,Source_time_concentration_dose,PSB / PSBOX-A,Operating conditions,-0.6388888458808857,61
+23,Source_time_concentration_dose,AMCB / CB,Chemical context,0.31346699033665837,22
+23,Source_time_concentration_dose,AMCB / MCB,Chemical context,-0.4622587653537299,106
+23,Source_time_concentration_dose,Alkali-modified SCG biochars / Pristine SCG biochar,Chemical context,-2.306193593049171,113
+23,Source_time_concentration_dose,CB / MCB,Chemical context,0.11619436140604383,22
+23,Source_time_concentration_dose,GCRB / GCRB-N,Chemical context,-1.6607451299733749,42
+23,Source_time_concentration_dose,NaOH-activated SCW biochars / Pristine SCW Biochar,Chemical context,0.7782290754910673,146
+23,Source_time_concentration_dose,PB600 / PB800,Chemical context,0.529445682852864,47
+23,Source_time_concentration_dose,PSB / PSBOX-A,Chemical context,-0.48130467844521546,61
+23,Source_time_concentration_dose,AMCB / CB,Loading variables,9.29610908407653,22
+23,Source_time_concentration_dose,AMCB / MCB,Loading variables,2.3078710026924822,106
+23,Source_time_concentration_dose,Alkali-modified SCG biochars / Pristine SCG biochar,Loading variables,-4.1452270791633925,113
+23,Source_time_concentration_dose,CB / MCB,Loading variables,-0.8548062912100942,22
+23,Source_time_concentration_dose,GCRB / GCRB-N,Loading variables,-4.0014927301249275,42
+23,Source_time_concentration_dose,NaOH-activated SCW biochars / Pristine SCW Biochar,Loading variables,0.404761562530252,146
+23,Source_time_concentration_dose,PB600 / PB800,Loading variables,-0.25355728020999924,47
+23,Source_time_concentration_dose,PSB / PSBOX-A,Loading variables,1.044561707814122,61
+47,Source_time_concentration_dose,AMCB / CB,Material profile,64.09412173193152,22
+47,Source_time_concentration_dose,AMCB / MCB,Material profile,57.28052210149929,106
+47,Source_time_concentration_dose,Alkali-modified SCG biochars / Pristine SCG biochar,Material profile,61.0238805051434,113
+47,Source_time_concentration_dose,CB / MCB,Material profile,0.7471581710616155,22
+47,Source_time_concentration_dose,GCRB / GCRB-N,Material profile,-56.329299669629464,42
+47,Source_time_concentration_dose,NaOH-activated SCW biochars / Pristine SCW Biochar,Material profile,44.90152416852479,146
+47,Source_time_concentration_dose,PB600 / PB800,Material profile,-11.09216454626364,47
+47,Source_time_concentration_dose,PSB / PSBOX-A,Material profile,-74.80341722165568,61
+47,Source_time_concentration_dose,AMCB / CB,Operating conditions,0.5352084685466878,22
+47,Source_time_concentration_dose,AMCB / MCB,Operating conditions,0.3197233713489241,106
+47,Source_time_concentration_dose,Alkali-modified SCG biochars / Pristine SCG biochar,Operating conditions,0.3944992665176352,113
+47,Source_time_concentration_dose,CB / MCB,Operating conditions,-0.38553503656174426,22
+47,Source_time_concentration_dose,GCRB / GCRB-N,Operating conditions,-0.033968349483856845,42
+47,Source_time_concentration_dose,NaOH-activated SCW biochars / Pristine SCW Biochar,Operating conditions,-0.22077576748505828,146
+47,Source_time_concentration_dose,PB600 / PB800,Operating conditions,-0.04224924598629991,47
+47,Source_time_concentration_dose,PSB / PSBOX-A,Operating conditions,-0.5173439661549594,61
+47,Source_time_concentration_dose,AMCB / CB,Chemical context,0.1746244852430913,22
+47,Source_time_concentration_dose,AMCB / MCB,Chemical context,-0.6184709444564034,106
+47,Source_time_concentration_dose,Alkali-modified SCG biochars / Pristine SCG biochar,Chemical context,-3.223180952402624,113
+47,Source_time_concentration_dose,CB / MCB,Chemical context,-0.18902913242509523,22
+47,Source_time_concentration_dose,GCRB / GCRB-N,Chemical context,-1.46940972826722,42
+47,Source_time_concentration_dose,NaOH-activated SCW biochars / Pristine SCW Biochar,Chemical context,1.483170522253658,146
+47,Source_time_concentration_dose,PB600 / PB800,Chemical context,2.425911651824438,47
+47,Source_time_concentration_dose,PSB / PSBOX-A,Chemical context,-0.5976559343252363,61
+47,Source_time_concentration_dose,AMCB / CB,Loading variables,9.76430191195661,22
+47,Source_time_concentration_dose,AMCB / MCB,Loading variables,2.508033186125395,106
+47,Source_time_concentration_dose,Alkali-modified SCG biochars / Pristine SCG biochar,Loading variables,-4.478568499594884,113
+47,Source_time_concentration_dose,CB / MCB,Loading variables,-0.25287354949956614,22
+47,Source_time_concentration_dose,GCRB / GCRB-N,Loading variables,-3.2463259645173266,42
+47,Source_time_concentration_dose,NaOH-activated SCW biochars / Pristine SCW Biochar,Loading variables,0.2424128059047862,146
+47,Source_time_concentration_dose,PB600 / PB800,Loading variables,-0.07802547283908418,47
+47,Source_time_concentration_dose,PSB / PSBOX-A,Loading variables,0.7506760492823952,61

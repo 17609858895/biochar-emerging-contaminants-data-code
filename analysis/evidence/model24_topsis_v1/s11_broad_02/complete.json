@@ -1,0 +1,11 @@
+{
+  "seed": 11,
+  "track": "broad",
+  "fold": 2,
+  "selected": {
+    "Point": "SVR_1",
+    "Contrast": "BayesianRidge_1",
+    "TOPSIS": "SVR_1"
+  },
+  "methods": 24
+}

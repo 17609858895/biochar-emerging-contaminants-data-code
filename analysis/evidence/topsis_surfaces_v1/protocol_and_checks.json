@@ -1,0 +1,87 @@
+{
+  "date": "2026-09-17",
+  "new_observations": 0,
+  "new_model_fits": 0,
+  "domain": "each weight >= 0.1; weights sum to one",
+  "grid_step": 0.005,
+  "vertex_count": 10011,
+  "triangle_centroid_count": 19600,
+  "equal_weight_evaluations": 1,
+  "weights_per_seed_track": 29612,
+  "seed_tracks": 9,
+  "original_weight_rules_reproduced": 333,
+  "max_original_metric_difference": 1.1102230246251565e-16,
+  "scalar_and_vector_winners_verified": true,
+  "all_fold_predictions_cover_each_condition_and_query_once": true,
+  "selection": "frozen inner matrices; fixed point-MAE then lexical-ID tie breaking",
+  "aggregation": "Original source-balanced point weights and query-block-pair-source contrast/loss weights; median across 3 seeds",
+  "surface": "piecewise-constant horizontal triangle at its directly evaluated centroid; no smoothing or interpolation of outcomes",
+  "boundary": "shared grid edges whose neighbouring centroid selections differ in at least one of 15 broad-group seed-folds; discretized at 0.005 resolution",
+  "retention": "fraction of 15 broad-group seed-fold choices matching their own equal-weight choice",
+  "outer_weight_optimization": false,
+  "ranges": {
+    "exact": {
+      "point_mae": {
+        "min_pp": 9.50789029469074,
+        "max_pp": 9.92207962966049,
+        "equal_weight_pp": 9.54618117144452
+      },
+      "contrast_mae": {
+        "min_pp": 10.79996226038706,
+        "max_pp": 12.06045712171775,
+        "equal_weight_pp": 10.96704908463876
+      },
+      "selection_loss": {
+        "min_pp": 0.01132853145778,
+        "max_pp": 0.01889212057108,
+        "equal_weight_pp": 0.01359534589695
+      },
+      "retention_pct_range": [
+        46.66666666666666,
+        100.0
+      ]
+    },
+    "broad": {
+      "point_mae": {
+        "min_pp": 12.28241663449761,
+        "max_pp": 13.14116292331862,
+        "equal_weight_pp": 12.492523496294549
+      },
+      "contrast_mae": {
+        "min_pp": 15.34796351182957,
+        "max_pp": 17.38598431540588,
+        "equal_weight_pp": 16.1845163908086
+      },
+      "selection_loss": {
+        "min_pp": 0.010824870667199999,
+        "max_pp": 0.01241013310162,
+        "equal_weight_pp": 0.011717579955829999
+      },
+      "retention_pct_range": [
+        46.66666666666666,
+        100.0
+      ]
+    },
+    "source": {
+      "point_mae": {
+        "min_pp": 27.645288478239312,
+        "max_pp": 30.3693692745799,
+        "equal_weight_pp": 30.3693692745799
+      },
+      "contrast_mae": {
+        "min_pp": 24.68932722689297,
+        "max_pp": 27.94369765792228,
+        "equal_weight_pp": 26.806220234572898
+      },
+      "selection_loss": {
+        "min_pp": 0.010687601574289999,
+        "max_pp": 0.010687601574289999,
+        "equal_weight_pp": 0.010687601574289999
+      },
+      "retention_pct_range": [
+        28.571428571428573,
+        100.0
+      ]
+    }
+  }
+}

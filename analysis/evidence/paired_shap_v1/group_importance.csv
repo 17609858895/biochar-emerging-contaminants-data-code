@@ -1,0 +1,25 @@
+seed,variant,group,point_mean_abs_pp,contrast_mean_abs_pp
+11,Descriptors,Material profile,23.116513498749605,46.70357591739923
+11,Descriptors,Operating conditions,4.021652484982097,2.1434664259639056
+11,Descriptors,Chemical context,2.8901833852519028,3.65708787756876
+11,Descriptors,Loading variables,0.0,0.0
+23,Descriptors,Material profile,24.410982000690876,48.13050911880015
+23,Descriptors,Operating conditions,3.92297165189442,2.1919594258212736
+23,Descriptors,Chemical context,2.6924175555260668,2.616814422326935
+23,Descriptors,Loading variables,0.0,0.0
+47,Descriptors,Material profile,24.234156748984283,48.76886030430586
+47,Descriptors,Operating conditions,4.114331170248824,2.3012404951567267
+47,Descriptors,Chemical context,3.2584916562280855,2.4174148574899497
+47,Descriptors,Loading variables,0.0,0.0
+11,Source_time_concentration_dose,Material profile,24.098496422446328,48.247996007724204
+11,Source_time_concentration_dose,Operating conditions,2.44132048072413,1.1742312107418604
+11,Source_time_concentration_dose,Chemical context,3.787195135514061,4.012809727863524
+11,Source_time_concentration_dose,Loading variables,4.313142638432394,3.7370844734685096
+23,Source_time_concentration_dose,Material profile,25.28799186219209,48.602018451586254
+23,Source_time_concentration_dose,Operating conditions,2.4133866514133695,1.0867395294473539
+23,Source_time_concentration_dose,Chemical context,3.3412895451363256,2.9251459677530516
+23,Source_time_concentration_dose,Loading variables,4.795921773935831,3.5723463289163355
+47,Source_time_concentration_dose,Material profile,24.357236229812493,48.156989937236254
+47,Source_time_concentration_dose,Operating conditions,2.4128067638320654,1.0096821803889362
+47,Source_time_concentration_dose,Chemical context,3.340860823595836,2.729997050561249
+47,Source_time_concentration_dose,Loading variables,4.4232414069843315,3.475396518751424

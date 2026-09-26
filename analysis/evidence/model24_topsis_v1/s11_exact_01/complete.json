@@ -1,0 +1,11 @@
+{
+  "seed": 11,
+  "track": "exact",
+  "fold": 1,
+  "selected": {
+    "Point": "SVR_1",
+    "Contrast": "HistGradientBoosting_2",
+    "TOPSIS": "HistGradientBoosting_2"
+  },
+  "methods": 24
+}

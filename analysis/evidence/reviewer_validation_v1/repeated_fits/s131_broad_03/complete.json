@@ -1,0 +1,11 @@
+{
+  "seed": 131,
+  "track": "broad",
+  "fold": 3,
+  "selected": {
+    "Point": "XGBoost_1",
+    "Contrast": "GradientBoosting_2",
+    "TOPSIS": "GradientBoosting_2"
+  },
+  "methods": 24
+}

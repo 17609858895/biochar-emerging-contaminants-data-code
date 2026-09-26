@@ -1,0 +1,97 @@
+{
+  "xlsx_csv_max_numeric_differences": {
+    "(O+N)/C": 4.926108410074903e-10,
+    "H/C": 3.2445036934891647e-10,
+    "O/C": 2.898067966161655e-10,
+    "N/C": 4.850099905029381e-10,
+    "Initial concentration": 0.0003539359885422755,
+    "Final concentration": 0.0004995716253455296,
+    "Capacity": 4.9988585715254885e-08
+  },
+  "text_equal": true,
+  "q_identity_abs_error_quantiles": {
+    "0.0": 0.0,
+    "0.5": 9.999997274690031e-09,
+    "0.95": 0.007867834000015242,
+    "1.0": 0.016927229999998517
+  },
+  "q_identity_within_1e-5": 2857,
+  "q_identity_within_0.02": 3757,
+  "q_physical_if_mass_g_median_abs_error": 17.26751064,
+  "predictor_duplicate_excess": 2405,
+  "unique_predictor_vectors": 1352,
+  "source_candidate_counts": {
+    "SI_ref_18": 927,
+    "SI_ref_17": 778,
+    "SI_ref_19": 504,
+    "SI_ref_14": 450,
+    "SI_ref_15": 450,
+    "SI_ref_13": 324,
+    "SI_ref_16": 324
+  },
+  "competitive_by_material": {
+    "Pristine SCG biochar": 207,
+    "Alkali-modified SCG biochars": 207
+  },
+  "water_by_source": {
+    "Ground water": {
+      "SI_ref_13": 0,
+      "SI_ref_14": 0,
+      "SI_ref_15": 0,
+      "SI_ref_16": 0,
+      "SI_ref_17": 0,
+      "SI_ref_18": 0,
+      "SI_ref_19": 252
+    },
+    "Lake water": {
+      "SI_ref_13": 0,
+      "SI_ref_14": 0,
+      "SI_ref_15": 0,
+      "SI_ref_16": 0,
+      "SI_ref_17": 0,
+      "SI_ref_18": 441,
+      "SI_ref_19": 252
+    },
+    "Secondary effluent": {
+      "SI_ref_13": 0,
+      "SI_ref_14": 0,
+      "SI_ref_15": 0,
+      "SI_ref_16": 0,
+      "SI_ref_17": 0,
+      "SI_ref_18": 486,
+      "SI_ref_19": 0
+    },
+    "Synthetic": {
+      "SI_ref_13": 324,
+      "SI_ref_14": 450,
+      "SI_ref_15": 450,
+      "SI_ref_16": 324,
+      "SI_ref_17": 778,
+      "SI_ref_18": 0,
+      "SI_ref_19": 0
+    }
+  },
+  "ratio_check": {
+    "H/C": {
+      "median_abs_error_mass_ratio": 0.03665551839464883
+    },
+    "O/C": {
+      "median_abs_error_mass_ratio": 0.0037558528428093645
+    },
+    "N/C": {
+      "median_abs_error_mass_ratio": 0.0003488080301129251
+    }
+  },
+  "raw_sha256": {
+    "1-s2.0-S1385894723018041-main.pdf": "a7bfcfc1bfda14caf72451a3ebf108cfdf2a39ab4c87c337b83592a284bf5d55",
+    "1-s2.0-S1385894723018041-mmc1.docx": "af8357a0d87bb8925242a3334f147d6f029c66b1ed183262fbf333b1b02b37a7",
+    "Raw_data.csv": "6ff9227cec690f811230a641627e07522bf3d7dfb7cdaf306341fc8db5ecc92e",
+    "Raw_data.xlsx": "bbcb3e6b89b5186770a25cc89479a819680200895412f52694bc1de13f19a115"
+  },
+  "xlsx_authoritative_checks": {
+    "duplicates_all_columns": 244,
+    "unique_predictor_vectors": 1352,
+    "q_identity_max_abs_error": 0.0,
+    "negative_capacity": 27
+  }
+}

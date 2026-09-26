@@ -1,0 +1,423 @@
+{
+  "version": "1.0",
+  "extension_to": "benchmark_v2",
+  "created_before_fitting": true,
+  "seeds": [
+    11,
+    23,
+    47
+  ],
+  "tracks": [
+    "exact",
+    "broad",
+    "source"
+  ],
+  "method_count": 24,
+  "configuration_count": 45,
+  "configs": [
+    {
+      "id": "OLS_1",
+      "method": "OLS",
+      "family": "Linear",
+      "parameters": {}
+    },
+    {
+      "id": "Ridge_1",
+      "method": "Ridge",
+      "family": "Linear",
+      "parameters": {
+        "alpha": 1
+      }
+    },
+    {
+      "id": "Ridge_2",
+      "method": "Ridge",
+      "family": "Linear",
+      "parameters": {
+        "alpha": 10
+      }
+    },
+    {
+      "id": "Lasso_1",
+      "method": "Lasso",
+      "family": "Linear",
+      "parameters": {
+        "alpha": 0.001
+      }
+    },
+    {
+      "id": "Lasso_2",
+      "method": "Lasso",
+      "family": "Linear",
+      "parameters": {
+        "alpha": 0.01
+      }
+    },
+    {
+      "id": "ElasticNet_1",
+      "method": "ElasticNet",
+      "family": "Linear",
+      "parameters": {
+        "alpha": 0.001,
+        "l1_ratio": 0.5
+      }
+    },
+    {
+      "id": "ElasticNet_2",
+      "method": "ElasticNet",
+      "family": "Linear",
+      "parameters": {
+        "alpha": 0.01,
+        "l1_ratio": 0.5
+      }
+    },
+    {
+      "id": "BayesianRidge_1",
+      "method": "BayesianRidge",
+      "family": "Bayesian linear",
+      "parameters": {}
+    },
+    {
+      "id": "ARD_1",
+      "method": "ARD",
+      "family": "Bayesian linear",
+      "parameters": {}
+    },
+    {
+      "id": "Huber_1",
+      "method": "Huber",
+      "family": "Robust linear",
+      "parameters": {
+        "epsilon": 1.35
+      }
+    },
+    {
+      "id": "Huber_2",
+      "method": "Huber",
+      "family": "Robust linear",
+      "parameters": {
+        "epsilon": 1.8
+      }
+    },
+    {
+      "id": "PLS_1",
+      "method": "PLS",
+      "family": "Latent linear",
+      "parameters": {
+        "n_components": 3
+      }
+    },
+    {
+      "id": "PLS_2",
+      "method": "PLS",
+      "family": "Latent linear",
+      "parameters": {
+        "n_components": 6
+      }
+    },
+    {
+      "id": "PCR_1",
+      "method": "PCR",
+      "family": "Latent linear",
+      "parameters": {
+        "n_components": 5
+      }
+    },
+    {
+      "id": "PCR_2",
+      "method": "PCR",
+      "family": "Latent linear",
+      "parameters": {
+        "n_components": 10
+      }
+    },
+    {
+      "id": "SplineRidge_1",
+      "method": "SplineRidge",
+      "family": "Spline",
+      "parameters": {
+        "knots": 3,
+        "alpha": 1
+      }
+    },
+    {
+      "id": "SplineRidge_2",
+      "method": "SplineRidge",
+      "family": "Spline",
+      "parameters": {
+        "knots": 5,
+        "alpha": 10
+      }
+    },
+    {
+      "id": "KernelRidge_1",
+      "method": "KernelRidge",
+      "family": "Kernel",
+      "parameters": {
+        "alpha": 0.1,
+        "gamma": 0.03
+      }
+    },
+    {
+      "id": "KernelRidge_2",
+      "method": "KernelRidge",
+      "family": "Kernel",
+      "parameters": {
+        "alpha": 1,
+        "gamma": 0.1
+      }
+    },
+    {
+      "id": "SVR_1",
+      "method": "SVR",
+      "family": "Kernel",
+      "parameters": {
+        "C": 1,
+        "gamma": "scale"
+      }
+    },
+    {
+      "id": "SVR_2",
+      "method": "SVR",
+      "family": "Kernel",
+      "parameters": {
+        "C": 10,
+        "gamma": "scale"
+      }
+    },
+    {
+      "id": "KNN_1",
+      "method": "KNN",
+      "family": "Neighbour",
+      "parameters": {
+        "n_neighbors": 5
+      }
+    },
+    {
+      "id": "KNN_2",
+      "method": "KNN",
+      "family": "Neighbour",
+      "parameters": {
+        "n_neighbors": 15
+      }
+    },
+    {
+      "id": "DecisionTree_1",
+      "method": "DecisionTree",
+      "family": "Tree",
+      "parameters": {
+        "max_depth": 4
+      }
+    },
+    {
+      "id": "DecisionTree_2",
+      "method": "DecisionTree",
+      "family": "Tree",
+      "parameters": {
+        "max_depth": 8
+      }
+    },
+    {
+      "id": "RandomForest_1",
+      "method": "RandomForest",
+      "family": "Bagged trees",
+      "parameters": {
+        "max_depth": 8
+      }
+    },
+    {
+      "id": "RandomForest_2",
+      "method": "RandomForest",
+      "family": "Bagged trees",
+      "parameters": {
+        "max_depth": null
+      }
+    },
+    {
+      "id": "ExtraTrees_1",
+      "method": "ExtraTrees",
+      "family": "Bagged trees",
+      "parameters": {
+        "max_depth": 8
+      }
+    },
+    {
+      "id": "ExtraTrees_2",
+      "method": "ExtraTrees",
+      "family": "Bagged trees",
+      "parameters": {
+        "max_depth": null
+      }
+    },
+    {
+      "id": "Bagging_1",
+      "method": "Bagging",
+      "family": "Bagged trees",
+      "parameters": {
+        "max_samples": 0.7
+      }
+    },
+    {
+      "id": "Bagging_2",
+      "method": "Bagging",
+      "family": "Bagged trees",
+      "parameters": {
+        "max_samples": 1.0
+      }
+    },
+    {
+      "id": "GradientBoosting_1",
+      "method": "GradientBoosting",
+      "family": "Boosted trees",
+      "parameters": {
+        "max_depth": 2
+      }
+    },
+    {
+      "id": "GradientBoosting_2",
+      "method": "GradientBoosting",
+      "family": "Boosted trees",
+      "parameters": {
+        "max_depth": 3
+      }
+    },
+    {
+      "id": "HistGradientBoosting_1",
+      "method": "HistGradientBoosting",
+      "family": "Boosted trees",
+      "parameters": {
+        "max_leaf_nodes": 15
+      }
+    },
+    {
+      "id": "HistGradientBoosting_2",
+      "method": "HistGradientBoosting",
+      "family": "Boosted trees",
+      "parameters": {
+        "max_leaf_nodes": 31
+      }
+    },
+    {
+      "id": "AdaBoost_1",
+      "method": "AdaBoost",
+      "family": "Boosted trees",
+      "parameters": {
+        "learning_rate": 0.03
+      }
+    },
+    {
+      "id": "AdaBoost_2",
+      "method": "AdaBoost",
+      "family": "Boosted trees",
+      "parameters": {
+        "learning_rate": 0.1
+      }
+    },
+    {
+      "id": "XGBoost_1",
+      "method": "XGBoost",
+      "family": "Boosted trees",
+      "parameters": {
+        "max_depth": 3
+      }
+    },
+    {
+      "id": "XGBoost_2",
+      "method": "XGBoost",
+      "family": "Boosted trees",
+      "parameters": {
+        "max_depth": 5
+      }
+    },
+    {
+      "id": "LightGBM_1",
+      "method": "LightGBM",
+      "family": "Boosted trees",
+      "parameters": {
+        "num_leaves": 15
+      }
+    },
+    {
+      "id": "LightGBM_2",
+      "method": "LightGBM",
+      "family": "Boosted trees",
+      "parameters": {
+        "num_leaves": 31
+      }
+    },
+    {
+      "id": "CatBoost_1",
+      "method": "CatBoost",
+      "family": "Boosted trees",
+      "parameters": {
+        "depth": 3
+      }
+    },
+    {
+      "id": "CatBoost_2",
+      "method": "CatBoost",
+      "family": "Boosted trees",
+      "parameters": {
+        "depth": 5
+      }
+    },
+    {
+      "id": "MLP_1",
+      "method": "MLP",
+      "family": "Neural network",
+      "parameters": {
+        "hidden_layer_sizes": [
+          16
+        ]
+      }
+    },
+    {
+      "id": "MLP_2",
+      "method": "MLP",
+      "family": "Neural network",
+      "parameters": {
+        "hidden_layer_sizes": [
+          32
+        ]
+      }
+    }
+  ],
+  "features": [
+    "Pyrolysis temperature",
+    "O/C",
+    "Surface area",
+    "Pore volume",
+    "Average pore size",
+    "log_time",
+    "Solution pH",
+    "RPM",
+    "Adsorption temperature",
+    "Pollutant",
+    "Wastewater type",
+    "Adsorption type"
+  ],
+  "primary_weights": [
+    0.3333333333333333,
+    0.3333333333333333,
+    0.3333333333333333
+  ],
+  "criterion_directions": [
+    "cost",
+    "cost",
+    "cost"
+  ],
+  "criteria": [
+    "source balanced point MAE",
+    "hierarchical contrast MAE",
+    "hierarchical selection loss"
+  ],
+  "method_hyperparameter_selection": "inner point MAE",
+  "topsis_ties": "lower inner point MAE then lexical config ID",
+  "normalization": "vector norm, drop range <=1e-12 criteria",
+  "weight_sensitivity": "36 strictly positive simplex weights at 0.1 spacing",
+  "candidate_sensitivity": "leave one method out",
+  "new_observations": 0,
+  "clipping": false,
+  "preprocessing": "training partition only; standardization and dense one-hot; spline additionally expands encoded columns",
+  "data_sha256": "19bff480964a2ef051ce59fb330977df5c725e2eafe61dd8151ad109d2cfd887"
+}

@@ -1,0 +1,11 @@
+{
+  "seed": 23,
+  "track": "exact",
+  "fold": 1,
+  "selected": {
+    "Point": "RandomForest_2",
+    "Contrast": "XGBoost_2",
+    "TOPSIS": "CatBoost_2"
+  },
+  "methods": 24
+}

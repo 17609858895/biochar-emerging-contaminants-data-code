@@ -1,0 +1,11 @@
+{
+  "seed": 131,
+  "track": "broad",
+  "fold": 2,
+  "selected": {
+    "Point": "SVR_1",
+    "Contrast": "OLS_1",
+    "TOPSIS": "KernelRidge_1"
+  },
+  "methods": 24
+}

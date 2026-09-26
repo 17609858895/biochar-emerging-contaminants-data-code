@@ -1,0 +1,17 @@
+{
+  "python": "3.12.3",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "packages": {
+    "numpy": "1.26.4",
+    "scipy": "1.13.1",
+    "pandas": "2.2.2",
+    "scikit-learn": "1.5.1",
+    "catboost": "1.2.10",
+    "xgboost": "3.2.0",
+    "lightgbm": "4.6.0",
+    "matplotlib": "3.9.2",
+    "openpyxl": "3.1.5",
+    "joblib": "1.4.2",
+    "threadpoolctl": "3.5.0"
+  }
+}

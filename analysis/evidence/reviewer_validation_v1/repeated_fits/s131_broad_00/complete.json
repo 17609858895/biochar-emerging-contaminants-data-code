@@ -1,0 +1,11 @@
+{
+  "seed": 131,
+  "track": "broad",
+  "fold": 0,
+  "selected": {
+    "Point": "GradientBoosting_2",
+    "Contrast": "OLS_1",
+    "TOPSIS": "SVR_1"
+  },
+  "methods": 24
+}

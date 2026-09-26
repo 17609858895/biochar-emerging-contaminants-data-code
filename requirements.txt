@@ -1,0 +1,13 @@
+numpy==1.26.4
+scipy==1.13.1
+pandas==2.2.2
+scikit-learn==1.5.1
+catboost==1.2.10
+xgboost==3.2.0
+lightgbm==4.6.0
+matplotlib==3.9.2
+openpyxl==3.1.5
+joblib==1.4.2
+threadpoolctl==3.5.0
+Pillow==10.4.0
+PyMuPDF==1.27.2.3

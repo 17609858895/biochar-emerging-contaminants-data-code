@@ -1,0 +1,13 @@
+﻿track,seed,strategy,metric,estimate,lower,upper,bootstrap_replicates,valid_replicates,scope
+exact,11,Point,error,-0.03216500456031758,-0.045169068180842965,-0.019997002495817078,2000,1999,paired source-stratified exact-block resampling of fixed outer predictions
+exact,11,Contrast,error,-0.03516718680565879,-0.04724136336376386,-0.023278580035153075,2000,1999,paired source-stratified exact-block resampling of fixed outer predictions
+exact,11,TOPSIS,error,-0.03213784491900491,-0.0440452010544455,-0.020409262357941067,2000,1999,paired source-stratified exact-block resampling of fixed outer predictions
+exact,11,Point,loss,0.000113840121574921,2.672042022562515e-05,0.0002051658382967206,2000,1999,paired source-stratified exact-block resampling of fixed outer predictions
+exact,11,Contrast,loss,5.4671503122444875e-05,0.0,0.00012624801475366783,2000,1999,paired source-stratified exact-block resampling of fixed outer predictions
+exact,11,TOPSIS,loss,2.9077443226619015e-05,0.0,7.876446970713555e-05,2000,1999,paired source-stratified exact-block resampling of fixed outer predictions
+broad,11,Point,error,0.020644448229174522,0.005653148696012208,0.03429642305954873,2000,2000,paired source-stratified exact-block resampling of fixed outer predictions
+broad,11,Contrast,error,-3.6288433636733064e-05,-0.014103887626150868,0.013074787350919794,2000,2000,paired source-stratified exact-block resampling of fixed outer predictions
+broad,11,TOPSIS,error,-0.0020932925712277284,-0.015156359743952097,0.009732294830946552,2000,2000,paired source-stratified exact-block resampling of fixed outer predictions
+broad,11,Point,loss,1.3726909291424447e-06,0.0,4.575636430474825e-06,2000,2000,paired source-stratified exact-block resampling of fixed outer predictions
+broad,11,Contrast,loss,8.927092886278304e-06,0.0,2.856669723609057e-05,2000,2000,paired source-stratified exact-block resampling of fixed outer predictions
+broad,11,TOPSIS,loss,1.0299783815420749e-05,0.0,3.060717561009703e-05,2000,2000,paired source-stratified exact-block resampling of fixed outer predictions

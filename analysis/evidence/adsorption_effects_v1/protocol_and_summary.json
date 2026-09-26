@@ -1,0 +1,55 @@
+{
+  "analysis": "Post hoc cross-fitted operational ALE and brute-force PDP",
+  "seeds": [
+    11,
+    23,
+    47
+  ],
+  "additional_outer_refits": 15,
+  "new_data": 0,
+  "selection": "frozen inner-only TOPSIS; exact-condition-block track",
+  "grid": "all observed operational levels; no fitted smoothing",
+  "ale_bins": "right closed (previous observed level, current level]; minimum level anchors zero increment",
+  "centering": "source-balanced empirical mean zero",
+  "response": "predicted removal 100*(1-r); centred effect in percentage points",
+  "uncertainty": "min/max of 3 seeds is a sensitivity range, not a confidence interval",
+  "interpretation": "model associations; matched observations are contextual corroboration from reused data, not independent mechanistic validation",
+  "time": "recorded units only; no globally resolved physical time unit; 1441-1455 retained in computations",
+  "model_reproduction_max_error": 0.0,
+  "self_test": true,
+  "summary": [
+    {
+      "feature": "Adsorption time",
+      "low": 30,
+      "high": 1440,
+      "n_matched": 46,
+      "n_sources": 6,
+      "observed_source_balanced_pp": 16.466473202500755,
+      "ale_delta_median": 7.416659347130884,
+      "ale_delta_min": 6.8333666674982325,
+      "ale_delta_max": 7.523061893236017
+    },
+    {
+      "feature": "Solution pH",
+      "low": 7,
+      "high": 11,
+      "n_matched": 39,
+      "n_sources": 5,
+      "observed_source_balanced_pp": -3.453752319920568,
+      "ale_delta_median": -5.626267955494204,
+      "ale_delta_min": -6.740088832419792,
+      "ale_delta_max": -4.10411575959815
+    },
+    {
+      "feature": "Adsorption temperature",
+      "low": 15,
+      "high": 35,
+      "n_matched": 99,
+      "n_sources": 6,
+      "observed_source_balanced_pp": 4.604759506683062,
+      "ale_delta_median": 3.695124999681886,
+      "ale_delta_min": 3.5332686726581772,
+      "ale_delta_max": 4.909564369371585
+    }
+  ]
+}

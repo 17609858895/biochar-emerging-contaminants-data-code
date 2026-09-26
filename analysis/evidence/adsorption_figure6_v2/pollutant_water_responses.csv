@@ -1,0 +1,10 @@
+source_candidate,Adsorbent,Pollutant,water_a,water_b,mean_pp,n
+SI_ref_18,NaOH-activated SCW biochars,DCF,Lake water,Secondary effluent,-9.570212078242871,17
+SI_ref_18,NaOH-activated SCW biochars,IBU,Lake water,Secondary effluent,-6.728222450837062,17
+SI_ref_18,NaOH-activated SCW biochars,NPX,Lake water,Secondary effluent,-8.963697795373248,22
+SI_ref_18,Pristine SCW Biochar,DCF,Lake water,Secondary effluent,2.046618218502923,13
+SI_ref_18,Pristine SCW Biochar,IBU,Lake water,Secondary effluent,2.044111676720468,13
+SI_ref_18,Pristine SCW Biochar,NPX,Lake water,Secondary effluent,0.8810924980355005,18
+SI_ref_19,AMCB,IBU,Ground water,Lake water,-8.072654757731302,57
+SI_ref_19,CB,IBU,Ground water,Lake water,-0.4845952973335881,25
+SI_ref_19,MCB,IBU,Ground water,Lake water,-0.3897993197328475,57

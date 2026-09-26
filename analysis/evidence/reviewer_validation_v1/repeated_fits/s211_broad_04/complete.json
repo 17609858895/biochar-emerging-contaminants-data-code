@@ -1,0 +1,11 @@
+{
+  "seed": 211,
+  "track": "broad",
+  "fold": 4,
+  "selected": {
+    "Point": "XGBoost_2",
+    "Contrast": "KernelRidge_1",
+    "TOPSIS": "KernelRidge_1"
+  },
+  "methods": 24
+}

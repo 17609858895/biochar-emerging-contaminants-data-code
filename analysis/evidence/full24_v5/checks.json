@@ -1,0 +1,14 @@
+{
+  "original_data_sha256": "19bff480964a2ef051ce59fb330977df5c725e2eafe61dd8151ad109d2cfd887",
+  "fitted_models_unchanged": true,
+  "new_estimator_fits": 0,
+  "method_count": 24,
+  "configuration_count": 45,
+  "outer_folds": 51,
+  "weight_rules": 40,
+  "full_topsis_reproduces_original": true,
+  "error_decomposition_verified": true,
+  "topsis_winners_on_inner_pareto_front": true,
+  "resampling_replicates": 2000,
+  "resampling_seed": 20260912
+}

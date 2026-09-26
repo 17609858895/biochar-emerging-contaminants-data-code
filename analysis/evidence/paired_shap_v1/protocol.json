@@ -1,0 +1,26 @@
+{
+  "method": "LightGBM native path-dependent TreeSHAP pred_contrib",
+  "scope": "context holdout",
+  "seeds": [
+    11,
+    23,
+    47
+  ],
+  "n_fits": 30,
+  "selection": "reuse selected inner-point-MAE configuration separately for each existing input variant",
+  "background": "training tree-path cover statistics; no external interventional background",
+  "feature_aggregation": "sum encoded category-column SHAP values by original field; not a separately recomputed coalition SHAP game",
+  "group_aggregation": "sum signed feature contributions by prespecified semantic group before weighted mean absolute summary; not coalition SHAP",
+  "removal": "phi_eta=-100*phi_r; expected_eta=100*(1-expected_r)",
+  "paired_advantage": "psi_j=100*(phi_r_bj-phi_r_aj); paired model and expected value identical, so sum psi=predicted A",
+  "point_weights": "equal sources, equal conditions within source",
+  "pair_weights": "equal source/pair/block/query hierarchy",
+  "stability": "three pairwise rank correlations over three partitions; descriptive, not confidence intervals",
+  "new_observations": 0,
+  "post_hoc": true,
+  "not_explanation_of_all_24_methods": true,
+  "max_cached_prediction_error": 0.0,
+  "max_additivity_error_fraction": 3.885780586188048e-15,
+  "joint_noncentral_support": 0,
+  "data_sha256": "19bff480964a2ef051ce59fb330977df5c725e2eafe61dd8151ad109d2cfd887"
+}

@@ -1,0 +1,156 @@
+{
+  "matched_water_contrasts": 239,
+  "water_sources": 2,
+  "water_materials": 5,
+  "water_source_means": {
+    "SI_ref_18": -3.3817183218657143,
+    "SI_ref_19": -2.982349791599246
+  },
+  "pollutant_ph": [
+    {
+      "Pollutant": "ALA",
+      "mean_pp": -2.429245337579644,
+      "n": 2
+    },
+    {
+      "Pollutant": "CAR",
+      "mean_pp": -0.14519093646843742,
+      "n": 2
+    },
+    {
+      "Pollutant": "CBZ",
+      "mean_pp": 4.086240891755093,
+      "n": 3
+    },
+    {
+      "Pollutant": "DCF",
+      "mean_pp": -5.496294004812863,
+      "n": 4
+    },
+    {
+      "Pollutant": "DIU",
+      "mean_pp": 2.5824146653676774,
+      "n": 2
+    },
+    {
+      "Pollutant": "EE2",
+      "mean_pp": -2.5474715413670665,
+      "n": 4
+    },
+    {
+      "Pollutant": "IBU",
+      "mean_pp": -9.19436506246847,
+      "n": 14
+    },
+    {
+      "Pollutant": "NPX",
+      "mean_pp": -6.034324539009957,
+      "n": 4
+    },
+    {
+      "Pollutant": "PYR",
+      "mean_pp": -8.554791937181772,
+      "n": 1
+    },
+    {
+      "Pollutant": "SIM",
+      "mean_pp": -0.7535476318838024,
+      "n": 2
+    },
+    {
+      "Pollutant": "TEB",
+      "mean_pp": -0.829841015344357,
+      "n": 1
+    }
+  ],
+  "pair_pollutant_responses": [
+    {
+      "pair_id": "AMCB / CB",
+      "Pollutant": "IBU",
+      "removal_advantage_pp": 81.38505987375737
+    },
+    {
+      "pair_id": "AMCB / MCB",
+      "Pollutant": "IBU",
+      "removal_advantage_pp": 59.86088852184286
+    },
+    {
+      "pair_id": "Alkali-modified SCG biochars / Pristine SCG biochar",
+      "Pollutant": "CBZ",
+      "removal_advantage_pp": 60.98333298646514
+    },
+    {
+      "pair_id": "Alkali-modified SCG biochars / Pristine SCG biochar",
+      "Pollutant": "EE2",
+      "removal_advantage_pp": 54.36909609510464
+    },
+    {
+      "pair_id": "Alkali-modified SCG biochars / Pristine SCG biochar",
+      "Pollutant": "IBU",
+      "removal_advantage_pp": 61.71889810360545
+    },
+    {
+      "pair_id": "CB / MCB",
+      "Pollutant": "IBU",
+      "removal_advantage_pp": -0.7248756971908354
+    },
+    {
+      "pair_id": "GCRB / GCRB-N",
+      "Pollutant": "ALA",
+      "removal_advantage_pp": -53.9591011166617
+    },
+    {
+      "pair_id": "GCRB / GCRB-N",
+      "Pollutant": "DIU",
+      "removal_advantage_pp": -72.51776237490294
+    },
+    {
+      "pair_id": "GCRB / GCRB-N",
+      "Pollutant": "SIM",
+      "removal_advantage_pp": -45.86473731299702
+    },
+    {
+      "pair_id": "NaOH-activated SCW biochars / Pristine SCW Biochar",
+      "Pollutant": "DCF",
+      "removal_advantage_pp": 36.49422944254932
+    },
+    {
+      "pair_id": "NaOH-activated SCW biochars / Pristine SCW Biochar",
+      "Pollutant": "IBU",
+      "removal_advantage_pp": 28.58458357686017
+    },
+    {
+      "pair_id": "NaOH-activated SCW biochars / Pristine SCW Biochar",
+      "Pollutant": "NPX",
+      "removal_advantage_pp": 80.54843468358375
+    },
+    {
+      "pair_id": "PB600 / PB800",
+      "Pollutant": "CBZ",
+      "removal_advantage_pp": -25.770636731287492
+    },
+    {
+      "pair_id": "PB600 / PB800",
+      "Pollutant": "IBU",
+      "removal_advantage_pp": -21.16506175124243
+    },
+    {
+      "pair_id": "PSB / PSBOX-A",
+      "Pollutant": "CAR",
+      "removal_advantage_pp": -81.66271589401761
+    },
+    {
+      "pair_id": "PSB / PSBOX-A",
+      "Pollutant": "PYR",
+      "removal_advantage_pp": -70.67751590582026
+    },
+    {
+      "pair_id": "PSB / PSBOX-A",
+      "Pollutant": "TEB",
+      "removal_advantage_pp": -76.18450958546799
+    }
+  ],
+  "matched_descriptor_profiles": 14,
+  "descriptor_interpretation": "joint measured changes only; no independent descriptor effects or causal slopes",
+  "weighting": "condition contrasts averaged within material-pollutant, then pollutants/materials/sources as relevant; no new observations"
+}
